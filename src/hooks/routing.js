@@ -4,7 +4,8 @@ import { useStateValue } from "../store/store";
 const appPaths = {
   'HomePath': '/',
   'DefinitionPath': '/def/:idOrName',
-  'ExpandPath': '/expand/:expandChar'
+  'ExpandPath': '/expand/:expandChar',
+  'ExpandPathNoParam': '/expand'
 };
 
 /**

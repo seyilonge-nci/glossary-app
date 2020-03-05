@@ -1,0 +1,2285 @@
+{
+  "meta":{
+    "totalResults":517,
+    "from":0
+  },
+  "results":[
+    {
+      "termId":46299,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"M protein",
+      "firstLetter":"m",
+      "prettyUrlName":"m-protein",
+      "pronunciation":{
+        "key":"(... PROH-teen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707997.mp3"
+      },
+      "definition":{
+        "html":"An antibody found in unusually large amounts in the blood or urine of people with multiple myeloma and other types of plasma cell tumors. Also called monoclonal protein.",
+        "text":"An antibody found in unusually large amounts in the blood or urine of people with multiple myeloma and other types of plasma cell tumors. Also called monoclonal protein."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":546758,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"M-EDTA",
+      "firstLetter":"m",
+      "prettyUrlName":"m-edta",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance\n          being studied in the prevention of bacterial infections\n          that occur in catheters (thin tubes that carry fluids into\n          or out of the body). It is a combination of minocycline, an\n          antibiotic that blocks the growth of bacteria, and EDTA, a\n          substance that keeps blood clots from forming.\n          M-EDTA removes metals that\n          bacteria use to form biofilms (thin layers stuck to\n          surfaces).  Also called minocycline-EDTA.",
+        "text":"A substance\n          being studied in the prevention of bacterial infections\n          that occur in catheters (thin tubes that carry fluids into\n          or out of the body). It is a combination of minocycline, an\n          antibiotic that blocks the growth of bacteria, and EDTA, a\n          substance that keeps blood clots from forming.\n          M-EDTA removes metals that\n          bacteria use to form biofilms (thin layers stuck to\n          surfaces).  Also called minocycline-EDTA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":430652,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"M200",
+      "firstLetter":"m",
+      "prettyUrlName":"m200",
+      "pronunciation":null,
+      "definition":{
+        "html":"A monoclonal antibody that is being studied in the treatment of some types of cancer. Monoclonal antibodies are made in the laboratory and can locate and bind to substances in the body, including cancer cells. M200 binds to a protein that is found on cells that line some tumor blood vessels. It is a type of angiogenesis inhibitor. Also called volociximab.",
+        "text":"A monoclonal antibody that is being studied in the treatment of some types of cancer. Monoclonal antibodies are made in the laboratory and can locate and bind to substances in the body, including cancer cells. M200 binds to a protein that is found on cells that line some tumor blood vessels. It is a type of angiogenesis inhibitor. Also called volociximab."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":463716,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ma huang",
+      "firstLetter":"m",
+      "prettyUrlName":"ma-huang",
+      "pronunciation":{
+        "key":"(mah hwong)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/717025.mp3"
+      },
+      "definition":{
+        "html":"A shrub native to China and India. The stems and roots are used in traditional medicine as a diuretic and for asthma, bronchitis, and cough. It has also been promoted as a decongestant, a weight loss aid, and as a supplement to increase energy. Ma huang may cause high blood pressure, increased heart rate, or death if used with certain drugs, and may reduce the effects of certain drugs used to treat cancer and other diseases. The U.S. Food and Drug Administration has banned the sale of dietary supplements that contain ma huang. The scientific name is Ephedra sinica. Also called ephedra.",
+        "text":"A shrub native to China and India. The stems and roots are used in traditional medicine as a diuretic and for asthma, bronchitis, and cough. It has also been promoted as a decongestant, a weight loss aid, and as a supplement to increase energy. Ma huang may cause high blood pressure, increased heart rate, or death if used with certain drugs, and may reduce the effects of certain drugs used to treat cancer and other diseases. The U.S. Food and Drug Administration has banned the sale of dietary supplements that contain ma huang. The scientific name is Ephedra sinica. Also called ephedra."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":638201,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macrocalcification",
+      "firstLetter":"m",
+      "prettyUrlName":"macrocalcification",
+      "pronunciation":{
+        "key":"(MA-kroh-KAL-sih-fih-KAY-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723089.mp3"
+      },
+      "definition":{
+        "html":"A small deposit of calcium in the breast that cannot be felt but can be seen on a mammogram. It is usually caused by aging, an old injury, or inflamed tissue and is usually not related to cancer.",
+        "text":"A small deposit of calcium in the breast that cannot be felt but can be seen on a mammogram. It is usually caused by aging, an old injury, or inflamed tissue and is usually not related to cancer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44530,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macroglobulinemia",
+      "firstLetter":"m",
+      "prettyUrlName":"macroglobulinemia",
+      "pronunciation":{
+        "key":"(MA-kroh-GLAH-byoo-lih-NEE-mee-uh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704719.mp3"
+      },
+      "definition":{
+        "html":"A condition in which the blood contains high levels of large proteins and is too thick to flow through small blood vessels. One type is Waldenström macroglobulinemia, which is a type of cancer.",
+        "text":"A condition in which the blood contains high levels of large proteins and is too thick to flow through small blood vessels. One type is Waldenström macroglobulinemia, which is a type of cancer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44054,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macrophage",
+      "firstLetter":"m",
+      "prettyUrlName":"macrophage",
+      "pronunciation":{
+        "key":"(MA-kroh-fayj)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727704.mp3"
+      },
+      "definition":{
+        "html":"A type of white blood cell that surrounds and kills microorganisms, removes dead cells, and stimulates the action of other immune system cells.",
+        "text":"A type of white blood cell that surrounds and kills microorganisms, removes dead cells, and stimulates the action of other immune system cells."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":642150,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macular degeneration",
+      "firstLetter":"m",
+      "prettyUrlName":"macular-degeneration",
+      "pronunciation":{
+        "key":"(MA-kyoo-ler dee-JEH-neh-RAY-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723023.mp3"
+      },
+      "definition":{
+        "html":"A condition in which there is a slow breakdown of cells in the center of the retina (the light-sensitive layers of nerve tissue at the back of the eye). This blocks vision in the center of the eye and can cause problems with activities such as reading and driving.  Macular degeneration is most often seen in people who are over the age of 50. Also called age-related macular degeneration, AMD,  and ARMD.",
+        "text":"A condition in which there is a slow breakdown of cells in the center of the retina (the light-sensitive layers of nerve tissue at the back of the eye). This blocks vision in the center of the eye and can cause problems with activities such as reading and driving.  Macular degeneration is most often seen in people who are over the age of 50. Also called age-related macular degeneration, AMD,  and ARMD."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":781930,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Maffucci syndrome",
+      "firstLetter":"m",
+      "prettyUrlName":"maffucci-syndrome",
+      "pronunciation":{
+        "key":"(muh-FOO-chee SIN-drome)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/785438.mp3"
+      },
+      "definition":{
+        "html":"A very rare disorder that affects the skin and cartilage. It is marked by benign (not cancer) growths of cartilage in bones. These growths usually occur in the hands or feet, but may also occur in the skull, ribs, and spine. They may cause severely deformed bone, shortening of the arms or legs, broken bones, and other bone problems. Maffucci syndrome is also marked by hemangiomas (benign blood vessel tumors), most often in the skin. People with this syndrome have an increased risk of certain cancers, such as chondrosarcoma (cancer that forms in bone cartilage) or cancers of the ovary or liver. Maffucci syndrome is most common in young children.",
+        "text":"A very rare disorder that affects the skin and cartilage. It is marked by benign (not cancer) growths of cartilage in bones. These growths usually occur in the hands or feet, but may also occur in the skull, ribs, and spine. They may cause severely deformed bone, shortening of the arms or legs, broken bones, and other bone problems. Maffucci syndrome is also marked by hemangiomas (benign blood vessel tumors), most often in the skin. People with this syndrome have an increased risk of certain cancers, such as chondrosarcoma (cancer that forms in bone cartilage) or cancers of the ovary or liver. Maffucci syndrome is most common in young children."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45350,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mafosfamide",
+      "firstLetter":"m",
+      "prettyUrlName":"mafosfamide",
+      "pronunciation":{
+        "key":"(muh-FOS-fuh-mide)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/730900.mp3"
+      },
+      "definition":{
+        "html":"A form of cyclophosphamide that can be administered as an intrathecal infusion. Mafosfamide is being studied as an anticancer drug. It belongs to the family of drugs called alkylating agents.",
+        "text":"A form of cyclophosphamide that can be administered as an intrathecal infusion. Mafosfamide is being studied as an anticancer drug. It belongs to the family of drugs called alkylating agents."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45440,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MAGE-3 antigen",
+      "firstLetter":"m",
+      "prettyUrlName":"mage-3-antigen",
+      "pronunciation":{
+        "key":"(... AN-tih-jen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705468.mp3"
+      },
+      "definition":{
+        "html":"A protein found in many types of tumors but not in most normal tissues. Vaccines using pieces of the MAGE-3 protein are being studied for their ability to boost the  immune response to cancer cells in patients with cancer. ",
+        "text":"A protein found in many types of tumors but not in most normal tissues. Vaccines using pieces of the MAGE-3 protein are being studied for their ability to boost the  immune response to cancer cells in patients with cancer. "
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":373087,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnesium",
+      "firstLetter":"m",
+      "prettyUrlName":"magnesium",
+      "pronunciation":{
+        "key":"(mag-NEE-zee-um)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711301.mp3"
+      },
+      "definition":{
+        "html":"In medicine, a mineral used by the body to help maintain muscles, nerves, and bones. It is also used in energy metabolism and protein synthesis.",
+        "text":"In medicine, a mineral used by the body to help maintain muscles, nerves, and bones. It is also used in energy metabolism and protein synthesis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":484434,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnesium sulfate",
+      "firstLetter":"m",
+      "prettyUrlName":"magnesium-sulfate",
+      "pronunciation":{
+        "key":"(mag-NEE-zee-um SUL-fayt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716551.mp3"
+      },
+      "definition":{
+        "html":"A drug used to treat pre-eclampsia and eclampsia (serious complications of pregnancy). Magnesium sulfate is also being studied for its ability to prevent the toxic side effects of certain drugs used to treat colorectal cancer. It is a type of anticonvulsant agent.",
+        "text":"A drug used to treat pre-eclampsia and eclampsia (serious complications of pregnancy). Magnesium sulfate is also being studied for its ability to prevent the toxic side effects of certain drugs used to treat colorectal cancer. It is a type of anticonvulsant agent."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":732554,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnetic resonance angiography",
+      "firstLetter":"m",
+      "prettyUrlName":"magnetic-resonance-angiography",
+      "pronunciation":{
+        "key":"(mag-NEH-tik REH-zuh-nunts an-jee-AH-gruh-fee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/740976.mp3"
+      },
+      "definition":{
+        "html":"A procedure that uses radio waves and a powerful magnet linked to a computer to create detailed pictures of the blood vessels and blood flow inside the body. A dye may be injected into a vein to make the blood vessels and blood flow easier to see. Magnetic resonance angiography may be used to check for aneurysms (a bulge in the blood vessel wall), blockages in the arteries, blood clots, and other blood vessel problems.  Also called MRA.",
+        "text":"A procedure that uses radio waves and a powerful magnet linked to a computer to create detailed pictures of the blood vessels and blood flow inside the body. A dye may be injected into a vein to make the blood vessels and blood flow easier to see. Magnetic resonance angiography may be used to check for aneurysms (a bulge in the blood vessel wall), blockages in the arteries, blood clots, and other blood vessel problems.  Also called MRA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45997,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnetic resonance imaging",
+      "firstLetter":"m",
+      "prettyUrlName":"magnetic-resonance-imaging",
+      "pronunciation":{
+        "key":"(mag-NEH-tik REH-zuh-nunts IH-muh-jing)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707559.mp3"
+      },
+      "definition":{
+        "html":"A procedure in which radio waves and a powerful magnet linked to a computer are used to create detailed pictures of areas inside the body. These pictures can show the difference between normal and diseased tissue. Magnetic resonance imaging makes better images of organs and soft tissue than other scanning techniques, such as computed tomography (CT) or x-ray. Magnetic resonance imaging is especially useful for imaging the brain, the spine, the soft tissue of joints, and the inside of bones. Also called MRI, NMRI,  and nuclear magnetic resonance imaging.",
+        "text":"A procedure in which radio waves and a powerful magnet linked to a computer are used to create detailed pictures of areas inside the body. These pictures can show the difference between normal and diseased tissue. Magnetic resonance imaging makes better images of organs and soft tissue than other scanning techniques, such as computed tomography (CT) or x-ray. Magnetic resonance imaging is especially useful for imaging the brain, the spine, the soft tissue of joints, and the inside of bones. Also called MRI, NMRI,  and nuclear magnetic resonance imaging."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":306507,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnetic resonance perfusion imaging",
+      "firstLetter":"m",
+      "prettyUrlName":"magnetic-resonance-perfusion-imaging",
+      "pronunciation":{
+        "key":"(mag-NEH-tik REH-zuh-nunts per-FYOO-zhun IH-muh-jing)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711494.mp3"
+      },
+      "definition":{
+        "html":"A special type of magnetic resonance imaging (MRI) that uses an injected dye in order to see blood flow through tissues. Also called perfusion magnetic resonance imaging.",
+        "text":"A special type of magnetic resonance imaging (MRI) that uses an injected dye in order to see blood flow through tissues. Also called perfusion magnetic resonance imaging."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":269422,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnetic resonance spectroscopic imaging",
+      "firstLetter":"m",
+      "prettyUrlName":"magnetic-resonance-spectroscopic-imaging",
+      "pronunciation":{
+        "key":"(mag-NEH-tik REH-zuh-nunts SPEK-troh-SKAH-pik IH-muh-jing)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/710017.mp3"
+      },
+      "definition":{
+        "html":"A noninvasive imaging method that provides information about cellular activity (metabolic information). It is used along with magnetic resonance imaging (MRI) which provides information about the shape and size of the tumor (spatial information). Also called 1H-nuclear magnetic resonance spectroscopic imaging, MRSI,  and proton magnetic resonance spectroscopic imaging.",
+        "text":"A noninvasive imaging method that provides information about cellular activity (metabolic information). It is used along with magnetic resonance imaging (MRI) which provides information about the shape and size of the tumor (spatial information). Also called 1H-nuclear magnetic resonance spectroscopic imaging, MRSI,  and proton magnetic resonance spectroscopic imaging."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45089,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnetic-targeted carrier",
+      "firstLetter":"m",
+      "prettyUrlName":"magnetic-targeted-carrier",
+      "pronunciation":{
+        "key":"(mag-NEH-tik-TAR-geh-ted KAYR-ee-er)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704981.mp3"
+      },
+      "definition":{
+        "html":"A tiny bead made from particles of iron and carbon that can be attached to an anticancer drug. A magnet applied from outside the body then can direct the drug to the tumor site. This can keep a larger dose of the drug at the tumor site for a longer period of time, and help protect healthy tissue from the side effects of chemotherapy.",
+        "text":"A tiny bead made from particles of iron and carbon that can be attached to an anticancer drug. A magnet applied from outside the body then can direct the drug to the tumor site. This can keep a larger dose of the drug at the tumor site for a longer period of time, and help protect healthy tissue from the side effects of chemotherapy."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":546741,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Magnevist",
+      "firstLetter":"m",
+      "prettyUrlName":"magnevist",
+      "pronunciation":{
+        "key":"(MAG-neh-vist)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718804.mp3"
+      },
+      "definition":{
+        "html":"A substance used in magnetic resonance imaging (MRI) to help make clear pictures of the brain, spine, heart, soft tissue of joints, and inside bones. Magnevist is being studied in the diagnosis of cancer. It is a type of contrast agent. Also called gadopentetate dimeglumine and Gd-DTPA.",
+        "text":"A substance used in magnetic resonance imaging (MRI) to help make clear pictures of the brain, spine, heart, soft tissue of joints, and inside bones. Magnevist is being studied in the diagnosis of cancer. It is a type of contrast agent. Also called gadopentetate dimeglumine and Gd-DTPA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":481854,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maidenhair tree",
+      "firstLetter":"m",
+      "prettyUrlName":"maidenhair-tree",
+      "pronunciation":{
+        "key":"(MAY-din-HAYR...)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716542.mp3"
+      },
+      "definition":{
+        "html":"A tree native to China. Substances taken from the leaves and seeds have been used in some cultures to treat certain medical problems. Maidenhair tree has been studied in the prevention and treatment of Alzheimer disease, dementia, certain blood vessel diseases, and memory loss. It may cause bleeding or high blood pressure when used with certain drugs. Also called ginkgo and ginkgo biloba.",
+        "text":"A tree native to China. Substances taken from the leaves and seeds have been used in some cultures to treat certain medical problems. Maidenhair tree has been studied in the prevention and treatment of Alzheimer disease, dementia, certain blood vessel diseases, and memory loss. It may cause bleeding or high blood pressure when used with certain drugs. Also called ginkgo and ginkgo biloba."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":454747,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mainstream medicine",
+      "firstLetter":"m",
+      "prettyUrlName":"mainstream-medicine",
+      "pronunciation":{
+        "key":"(MAYN-streem MEH-dih-sin)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714912.mp3"
+      },
+      "definition":{
+        "html":"A system in which medical doctors and other healthcare professionals (such as nurses, pharmacists, and therapists) treat symptoms and diseases using drugs, radiation, or surgery. Also called allopathic medicine, biomedicine, conventional medicine, orthodox medicine,  and Western medicine.",
+        "text":"A system in which medical doctors and other healthcare professionals (such as nurses, pharmacists, and therapists) treat symptoms and diseases using drugs, radiation, or surgery. Also called allopathic medicine, biomedicine, conventional medicine, orthodox medicine,  and Western medicine."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":748224,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mainstream smoke",
+      "firstLetter":"m",
+      "prettyUrlName":"mainstream-smoke",
+      "pronunciation":{
+        "key":"(MAYN-streem ...)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/752570.mp3"
+      },
+      "definition":{
+        "html":"Tobacco smoke that is exhaled by smokers. Mainstream smoke can be a form of secondhand smoke. It contains nicotine and many harmful, cancer-causing chemicals. Inhaling mainstream smoke increases the risk of lung cancer and may increase the risk of other types of cancer. Inhaling it also increases the risk of other health problems, such as heart disease and lung disease.",
+        "text":"Tobacco smoke that is exhaled by smokers. Mainstream smoke can be a form of secondhand smoke. It contains nicotine and many harmful, cancer-causing chemicals. Inhaling mainstream smoke increases the risk of lung cancer and may increase the risk of other types of cancer. Inhaling it also increases the risk of other health problems, such as heart disease and lung disease."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45768,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maintenance therapy",
+      "firstLetter":"m",
+      "prettyUrlName":"maintenance-therapy",
+      "pronunciation":{
+        "key":"(MAYN-teh-nunts THAYR-uh-pee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707210.mp3"
+      },
+      "definition":{
+        "html":"Treatment that is given to help keep cancer from coming back after it has disappeared following the initial therapy. It may include treatment with drugs, vaccines, or antibodies that kill cancer cells, and it may be given for a long time. ",
+        "text":"Treatment that is given to help keep cancer from coming back after it has disappeared following the initial therapy. It may include treatment with drugs, vaccines, or antibodies that kill cancer cells, and it may be given for a long time. "
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45770,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malabsorption syndrome",
+      "firstLetter":"m",
+      "prettyUrlName":"malabsorption-syndrome",
+      "pronunciation":{
+        "key":"(MA-lub-SORP-shun SIN-drome)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731209.mp3"
+      },
+      "definition":{
+        "html":"A group of symptoms such as gas, bloating, abdominal pain, and diarrhea resulting from the body's inability to properly absorb nutrients.",
+        "text":"A group of symptoms such as gas, bloating, abdominal pain, and diarrhea resulting from the body's inability to properly absorb nutrients."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":445046,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"male breast cancer",
+      "firstLetter":"m",
+      "prettyUrlName":"male-breast-cancer",
+      "pronunciation":{
+        "key":"(mayl brest KAN-ser)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714624.mp3"
+      },
+      "definition":{
+        "html":"Cancer that forms in tissues of the breast in men. Most male breast cancer begins in cells lining the ducts. It is very rare and usually affects older men.",
+        "text":"Cancer that forms in tissues of the breast in men. Most male breast cancer begins in cells lining the ducts. It is very rare and usually affects older men."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45771,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignancy",
+      "firstLetter":"m",
+      "prettyUrlName":"malignancy",
+      "pronunciation":{
+        "key":"(muh-LIG-nun-see)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707215.mp3"
+      },
+      "definition":{
+        "html":"A term for\n          diseases in which abnormal cells divide without control and\n          can invade nearby tissues. Malignant cells can also spread to\n          other parts of the body through the blood and lymph\n          systems. There are several main types of malignancy. Carcinoma\n          is a malignancy that begins in the skin or in tissues that line\n          or cover internal organs. Sarcoma is a malignancy that begins in\n          bone, cartilage, fat, muscle, blood vessels, or other\n          connective or supportive tissue. Leukemia is a malignancy that\n          starts in blood-forming tissue, such as the bone marrow, and\n          causes large numbers of abnormal blood cells to be produced\n          and enter the blood. Lymphoma and multiple myeloma are\n          malignancies that begin in the cells of the immune system.\n          Central nervous system cancers are malignancies that begin in\n          the tissues of the brain and spinal cord. Also called cancer.",
+        "text":"A term for\n          diseases in which abnormal cells divide without control and\n          can invade nearby tissues. Malignant cells can also spread to\n          other parts of the body through the blood and lymph\n          systems. There are several main types of malignancy. Carcinoma\n          is a malignancy that begins in the skin or in tissues that line\n          or cover internal organs. Sarcoma is a malignancy that begins in\n          bone, cartilage, fat, muscle, blood vessels, or other\n          connective or supportive tissue. Leukemia is a malignancy that\n          starts in blood-forming tissue, such as the bone marrow, and\n          causes large numbers of abnormal blood cells to be produced\n          and enter the blood. Lymphoma and multiple myeloma are\n          malignancies that begin in the cells of the immune system.\n          Central nervous system cancers are malignancies that begin in\n          the tissues of the brain and spinal cord. Also called cancer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45772,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707217.mp3"
+      },
+      "definition":{
+        "html":"Cancerous. Malignant cells can invade and destroy nearby tissue and spread to other parts of the body.",
+        "text":"Cancerous. Malignant cells can invade and destroy nearby tissue and spread to other parts of the body."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45319,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant ascites",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-ascites",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt uh-SY-teez)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705312.mp3"
+      },
+      "definition":{
+        "html":"A condition in which fluid containing cancer cells collects in the abdomen.",
+        "text":"A condition in which fluid containing cancer cells collects in the abdomen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":539499,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant ectomesenchymoma",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-ectomesenchymoma",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt EK-toh-MEH-zen-ky-MOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718329.mp3"
+      },
+      "definition":{
+        "html":"A rare, fast-growing tumor of the nervous system or soft tissue that occurs in children and young adults. Malignant ectomesenchymomas may form in the head and neck, abdomen, perineum, scrotum, or limbs. Also called ectomesenchymoma.",
+        "text":"A rare, fast-growing tumor of the nervous system or soft tissue that occurs in children and young adults. Malignant ectomesenchymomas may form in the head and neck, abdomen, perineum, scrotum, or limbs. Also called ectomesenchymoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":349461,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant fibrous cytoma",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-fibrous-cytoma",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt FY-brus sy-TOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711407.mp3"
+      },
+      "definition":{
+        "html":"A type of cancer that usually forms in the soft tissue, but it may also form in bone. It can occur anywhere in the body, but it usually occurs in the legs (especially the thighs), arms, or back of the abdomen. It may also occur in a part of the body where a patient received radiation therapy in the past. Malignant fibrous cytomas often grow quickly and spread to other parts of the body, including the lungs. They usually occur in older adults, and they may sometimes occur as a second cancer in patients who had retinoblastoma. Also called malignant fibrous histiocytoma and undifferentiated pleomorphic sarcoma.",
+        "text":"A type of cancer that usually forms in the soft tissue, but it may also form in bone. It can occur anywhere in the body, but it usually occurs in the legs (especially the thighs), arms, or back of the abdomen. It may also occur in a part of the body where a patient received radiation therapy in the past. Malignant fibrous cytomas often grow quickly and spread to other parts of the body, including the lungs. They usually occur in older adults, and they may sometimes occur as a second cancer in patients who had retinoblastoma. Also called malignant fibrous histiocytoma and undifferentiated pleomorphic sarcoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46174,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant fibrous histiocytoma",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-fibrous-histiocytoma",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt FY-brus HIS-tee-oh-sy-TOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707787.mp3"
+      },
+      "definition":{
+        "html":"A type of cancer that usually forms in the soft tissue, but it may also form in bone. It can occur anywhere in the body, but it usually occurs in the legs (especially the thighs), arms, or back of the abdomen. It may also occur in a part of the body where a patient received radiation therapy in the past. Malignant fibrous histiocytomas often grow quickly and spread to other parts of the body, including the lungs. They usually occur in older adults, and they may sometimes occur as a second cancer in patients who had retinoblastoma. Also called malignant fibrous cytoma and undifferentiated pleomorphic sarcoma.",
+        "text":"A type of cancer that usually forms in the soft tissue, but it may also form in bone. It can occur anywhere in the body, but it usually occurs in the legs (especially the thighs), arms, or back of the abdomen. It may also occur in a part of the body where a patient received radiation therapy in the past. Malignant fibrous histiocytomas often grow quickly and spread to other parts of the body, including the lungs. They usually occur in older adults, and they may sometimes occur as a second cancer in patients who had retinoblastoma. Also called malignant fibrous cytoma and undifferentiated pleomorphic sarcoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45773,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant meningioma",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-meningioma",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt meh-NIN-jee-OH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707219.mp3"
+      },
+      "definition":{
+        "html":"A rare, fast-growing tumor that forms in one of the inner layers of the meninges (thin layers of tissue that cover and protect the brain and spinal cord). Malignant meningioma often spreads to other areas of the body.",
+        "text":"A rare, fast-growing tumor that forms in one of the inner layers of the meninges (thin layers of tissue that cover and protect the brain and spinal cord). Malignant meningioma often spreads to other areas of the body."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44992,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant mesothelioma",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-mesothelioma",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt MEH-zoh-THEE-lee-OH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/706247.mp3"
+      },
+      "definition":{
+        "html":"A rare type of cancer in which malignant cells are found in the lining of the chest or abdomen. Exposure to airborne asbestos particles increases one's risk of developing malignant mesothelioma.",
+        "text":"A rare type of cancer in which malignant cells are found in the lining of the chest or abdomen. Exposure to airborne asbestos particles increases one's risk of developing malignant mesothelioma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":335078,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant mixed Müllerian tumor",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-mixed-mullerian-tumor",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt mikst myoo-LAYR-ee-un TOO-mer)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711370.mp3"
+      },
+      "definition":{
+        "html":"A rare type of tumor that is a mixture of carcinoma and sarcoma cells. MMMT usually occurs in the uterus. Also called MMMT.",
+        "text":"A rare type of tumor that is a mixture of carcinoma and sarcoma cells. MMMT usually occurs in the uterus. Also called MMMT."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":765476,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant pericardial effusion",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-pericardial-effusion",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt PAYR-ih-KAR-dee-ul eh-FYOO-zhun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/769352.mp3"
+      },
+      "definition":{
+        "html":"A condition in which cancer causes extra fluid to collect inside the sac around the heart. The extra fluid causes pressure on the heart, which keeps it from pumping blood normally. Lymph vessels may be blocked, which can cause infection. Malignant pericardial effusions are most often caused by lung cancer, breast cancer, melanoma, lymphoma, and leukemia.",
+        "text":"A condition in which cancer causes extra fluid to collect inside the sac around the heart. The extra fluid causes pressure on the heart, which keeps it from pumping blood normally. Lymph vessels may be blocked, which can cause infection. Malignant pericardial effusions are most often caused by lung cancer, breast cancer, melanoma, lymphoma, and leukemia."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":335496,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant peripheral nerve sheath tumor",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-peripheral-nerve-sheath-tumor",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt peh-RIH-feh-rul ... TOO-mer)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711248.mp3"
+      },
+      "definition":{
+        "html":"A type of soft tissue sarcoma that develops in cells that form a protective sheath (covering) around peripheral nerves, which are nerves that are outside of the central nervous system (brain and spinal cord). Also called MPNST.",
+        "text":"A type of soft tissue sarcoma that develops in cells that form a protective sheath (covering) around peripheral nerves, which are nerves that are outside of the central nervous system (brain and spinal cord). Also called MPNST."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":765478,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant peritoneal effusion",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-peritoneal-effusion",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt PAYR-ih-toh-NEE-ul eh-FYOO-zhun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/769375.mp3"
+      },
+      "definition":{
+        "html":"A condition in which cancer causes extra fluid to collect between the thin layers of the peritoneum (tissue that lines the abdomen and covers most of the organs in the abdomen). Signs and symptoms may include pain or  swelling in the abdomen, trouble breathing, chest pain, weight gain, nausea, loss of appetite, and fatigue. Malignant peritoneal effusions are most often caused by cancers of the ovary, uterus, breast, colon, lung, pancreas, and liver.",
+        "text":"A condition in which cancer causes extra fluid to collect between the thin layers of the peritoneum (tissue that lines the abdomen and covers most of the organs in the abdomen). Signs and symptoms may include pain or  swelling in the abdomen, trouble breathing, chest pain, weight gain, nausea, loss of appetite, and fatigue. Malignant peritoneal effusions are most often caused by cancers of the ovary, uterus, breast, colon, lung, pancreas, and liver."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":524207,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant pleural effusion",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-pleural-effusion",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt PLOOR-ul eh-FYOO-zhun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718792.mp3"
+      },
+      "definition":{
+        "html":"A condition in which cancer causes an abnormal amount of fluid to collect between the thin layers of tissue (pleura) lining the outside of the lung and the wall of the chest cavity. Lung cancer, breast cancer, lymphoma, and leukemia cause most malignant pleural effusions.",
+        "text":"A condition in which cancer causes an abnormal amount of fluid to collect between the thin layers of tissue (pleura) lining the outside of the lung and the wall of the chest cavity. Lung cancer, breast cancer, lymphoma, and leukemia cause most malignant pleural effusions."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":783043,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malignant triton tumor",
+      "firstLetter":"m",
+      "prettyUrlName":"malignant-triton-tumor",
+      "pronunciation":{
+        "key":"(muh-LIG-nunt TRY-ton TOO-mer)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/785355.mp3"
+      },
+      "definition":{
+        "html":"A very rare, fast-growing type of cancer that forms in the nerve sheath (a protective covering around nerves that are not part of the brain or spinal cord). The tumor is made up of Schwann cells (cells that hold nerve cells in place) and rhabdomyoblasts (a type of muscle cell). Malignant triton tumors occur most often in patients with neurofibromatosis type 1. A malignant triton tumor is a type of soft tissue sarcoma.",
+        "text":"A very rare, fast-growing type of cancer that forms in the nerve sheath (a protective covering around nerves that are not part of the brain or spinal cord). The tumor is made up of Schwann cells (cells that hold nerve cells in place) and rhabdomyoblasts (a type of muscle cell). Malignant triton tumors occur most often in patients with neurofibromatosis type 1. A malignant triton tumor is a type of soft tissue sarcoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":659993,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malnourished",
+      "firstLetter":"m",
+      "prettyUrlName":"malnourished",
+      "pronunciation":{
+        "key":"(mal-NER-isht)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725792.mp3"
+      },
+      "definition":{
+        "html":"Describes a condition caused by not getting enough calories or the right amount of key nutrients needed for health.  Key nutrients include vitamins and minerals.",
+        "text":"Describes a condition caused by not getting enough calories or the right amount of key nutrients needed for health.  Key nutrients include vitamins and minerals."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46014,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malnutrition",
+      "firstLetter":"m",
+      "prettyUrlName":"malnutrition",
+      "pronunciation":{
+        "key":"(mal-noo-TRIH-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707588.mp3"
+      },
+      "definition":{
+        "html":"A condition caused by not getting enough calories or the right amount of key nutrients, such as vitamins and minerals, that are needed for health. Malnutrition may occur when there is a lack of nutrients in the diet or when the body cannot absorb nutrients from food. Cancer and cancer treatment may cause malnutrition.",
+        "text":"A condition caused by not getting enough calories or the right amount of key nutrients, such as vitamins and minerals, that are needed for health. Malnutrition may occur when there is a lack of nutrients in the diet or when the body cannot absorb nutrients from food. Cancer and cancer treatment may cause malnutrition."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":373088,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malondialdehyde",
+      "firstLetter":"m",
+      "prettyUrlName":"malondialdehyde",
+      "pronunciation":{
+        "key":"(MA-lon-dy-AL-deh-hide)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711585.mp3"
+      },
+      "definition":{
+        "html":"A byproduct of lipid (fat) metabolism in the body. It is also found in many foods and can be present in high amounts in rancid food.",
+        "text":"A byproduct of lipid (fat) metabolism in the body. It is also found in many foods and can be present in high amounts in rancid food."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45774,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MALT lymphoma",
+      "firstLetter":"m",
+      "prettyUrlName":"malt-lymphoma",
+      "pronunciation":{
+        "key":"(... lim-FOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707221.mp3"
+      },
+      "definition":{
+        "html":"A type of\n          cancer that arises in cells in mucosal tissue that are\n          involved in antibody production. Also called mucosa-associated lymphoid tissue lymphoma.",
+        "text":"A type of\n          cancer that arises in cells in mucosal tissue that are\n          involved in antibody production. Also called mucosa-associated lymphoid tissue lymphoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":653127,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammalian target of rapamycin",
+      "firstLetter":"m",
+      "prettyUrlName":"mammalian-target-of-rapamycin",
+      "pronunciation":{
+        "key":"(muh-MA-lee-un TAR-get … RA-puh-MY-sin)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726453.mp3"
+      },
+      "definition":{
+        "html":"A protein that helps control several cell functions, including cell division and survival, and binds to rapamycin and other drugs. Mammalian target of rapamycin may be more active in some types of cancer cells than it is in normal cells. Blocking mammalian target of rapamycin may cause the cancer cells to die. It is a type of serine/threonine protein kinase. Also called mechanistic target of rapamycin and mTOR.",
+        "text":"A protein that helps control several cell functions, including cell division and survival, and binds to rapamycin and other drugs. Mammalian target of rapamycin may be more active in some types of cancer cells than it is in normal cells. Blocking mammalian target of rapamycin may cause the cancer cells to die. It is a type of serine/threonine protein kinase. Also called mechanistic target of rapamycin and mTOR."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":737131,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MammaPrint",
+      "firstLetter":"m",
+      "prettyUrlName":"mammaprint",
+      "pronunciation":{
+        "key":"(MA-muh-print)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/743025.mp3"
+      },
+      "definition":{
+        "html":"A laboratory test that is used to help predict whether breast cancer will spread to other parts of the body or come back. The test looks at the activity of 70 different genes in breast cancer tissue of women who have early-stage invasive breast cancer that has not spread to the lymph nodes or has spread to 3 or fewer lymph nodes. If the test shows that there is a high risk that the cancer will spread or come back, treatment with anticancer drugs may be needed. Also called 70-gene signature.",
+        "text":"A laboratory test that is used to help predict whether breast cancer will spread to other parts of the body or come back. The test looks at the activity of 70 different genes in breast cancer tissue of women who have early-stage invasive breast cancer that has not spread to the lymph nodes or has spread to 3 or fewer lymph nodes. If the test shows that there is a high risk that the cancer will spread or come back, treatment with anticancer drugs may be needed. Also called 70-gene signature."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44560,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammary",
+      "firstLetter":"m",
+      "prettyUrlName":"mammary",
+      "pronunciation":{
+        "key":"(MA-muh-ree)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704768.mp3"
+      },
+      "definition":{
+        "html":"Having to do with the breast.",
+        "text":"Having to do with the breast."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":789734,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammary duct ectasia",
+      "firstLetter":"m",
+      "prettyUrlName":"mammary-duct-ectasia",
+      "pronunciation":{
+        "key":"(MA-muh-ree dukt ek-TAY-zhuh)",
+        "audio":null
+      },
+      "definition":{
+        "html":"A benign (not cancer) condition in which a milk duct under the nipple widens and thickens. This can cause the milk duct to become blocked and fluid to build up inside it. There are usually no symptoms, but sometimes there may be a thick nipple discharge or redness or tenderness of the nipple and nearby breast tissue. Mammary duct ectasia is most common in women who are near menopause or have gone through it. Also called breast duct ectasia.",
+        "text":"A benign (not cancer) condition in which a milk duct under the nipple widens and thickens. This can cause the milk duct to become blocked and fluid to build up inside it. There are usually no symptoms, but sometimes there may be a thick nipple discharge or redness or tenderness of the nipple and nearby breast tissue. Mammary duct ectasia is most common in women who are near menopause or have gone through it. Also called breast duct ectasia."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":415874,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammary dysplasia",
+      "firstLetter":"m",
+      "prettyUrlName":"mammary-dysplasia",
+      "pronunciation":{
+        "key":"(MA-muh-ree dis-PLAY-zhuh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713145.mp3"
+      },
+      "definition":{
+        "html":"A group of conditions marked by changes in breast tissue that are benign (not cancer).  There are different types of mammary dysplasia, including some types caused by an increase in the number of cells or by the growth of abnormal cells in the breast ducts or lobes. Signs and symptoms of mammary dysplasia include irregular lumps or cysts, breast swelling or discomfort, skin redness or thickening, and nipple discharge. Most benign breast conditions do not increase the risk of breast cancer. Also called benign breast disease.",
+        "text":"A group of conditions marked by changes in breast tissue that are benign (not cancer).  There are different types of mammary dysplasia, including some types caused by an increase in the number of cells or by the growth of abnormal cells in the breast ducts or lobes. Signs and symptoms of mammary dysplasia include irregular lumps or cysts, breast swelling or discomfort, skin redness or thickening, and nipple discharge. Most benign breast conditions do not increase the risk of breast cancer. Also called benign breast disease."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":415575,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammary gland",
+      "firstLetter":"m",
+      "prettyUrlName":"mammary-gland",
+      "pronunciation":{
+        "key":"(MA-muh-ree ...)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713420.mp3"
+      },
+      "definition":{
+        "html":"Glandular organ located on the chest. The mammary gland is made up of connective tissue, fat, and tissue that contains the glands that can make milk. Also called breast.",
+        "text":"Glandular organ located on the chest. The mammary gland is made up of connective tissue, fat, and tissue that contains the glands that can make milk. Also called breast."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45775,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammogram",
+      "firstLetter":"m",
+      "prettyUrlName":"mammogram",
+      "pronunciation":{
+        "key":"(MA-muh-gram)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707223.mp3"
+      },
+      "definition":{
+        "html":"An x-ray of the breast.",
+        "text":"An x-ray of the breast."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45996,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mammography",
+      "firstLetter":"m",
+      "prettyUrlName":"mammography",
+      "pronunciation":{
+        "key":"(ma-MAH-gruh-fee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707558.mp3"
+      },
+      "definition":{
+        "html":"The use of film or a computer to create a picture of the breast.",
+        "text":"The use of film or a computer to create a picture of the breast."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":663303,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MammoSite",
+      "firstLetter":"m",
+      "prettyUrlName":"mammosite",
+      "pronunciation":{
+        "key":"(MA-moh-site)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726387.mp3"
+      },
+      "definition":{
+        "html":"A system used to deliver internal radiation therapy to breast cancer patients after surgery to remove their cancer.  MammoSite targets only the part of the breast where the cancer was found. After a patient has had a lumpectomy to remove the cancer, a small balloon on the end of a catheter (thin tube) is inserted into the empty space left by the surgery.  The balloon is then filled with liquid and left in place. Using the catheter, radioactive seeds are put into the balloon twice a day for five days and removed each time. Once treatment has ended, the catheter and balloon are removed.  MammoSite is a type of intracavitary brachytherapy and partial breast irradiation therapy (PBRT). Also called balloon catheter radiation.",
+        "text":"A system used to deliver internal radiation therapy to breast cancer patients after surgery to remove their cancer.  MammoSite targets only the part of the breast where the cancer was found. After a patient has had a lumpectomy to remove the cancer, a small balloon on the end of a catheter (thin tube) is inserted into the empty space left by the surgery.  The balloon is then filled with liquid and left in place. Using the catheter, radioactive seeds are put into the balloon twice a day for five days and removed each time. Once treatment has ended, the catheter and balloon are removed.  MammoSite is a type of intracavitary brachytherapy and partial breast irradiation therapy (PBRT). Also called balloon catheter radiation."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":256568,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MAMMOTOME",
+      "firstLetter":"m",
+      "prettyUrlName":"mammotome",
+      "pronunciation":{
+        "key":"(MA-moh-tome)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731137.mp3"
+      },
+      "definition":{
+        "html":"A device that uses a computer-guided probe to perform breast biopsies. A biopsy procedure using the MAMMOTOME device can be done on an outpatient basis with a local anesthetic, removes only a small amount of healthy tissue, and doesn’t require sutures (stitches) because the incision is very small. MAMMOTOME is a registered trademark of Devicor Medical Products, Inc.",
+        "text":"A device that uses a computer-guided probe to perform breast biopsies. A biopsy procedure using the MAMMOTOME device can be done on an outpatient basis with a local anesthetic, removes only a small amount of healthy tissue, and doesn’t require sutures (stitches) because the incision is very small. MAMMOTOME is a registered trademark of Devicor Medical Products, Inc."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":689066,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manipulative and body-based practice",
+      "firstLetter":"m",
+      "prettyUrlName":"manipulative-and-body-based-practice",
+      "pronunciation":{
+        "key":"(muh-NIP-yoo-luh-tiv ... BAH-dee-bayst PRAK-tis)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/733292.mp3"
+      },
+      "definition":{
+        "html":"A type of therapy in which the therapist moves or manipulates one or more parts of the patient’s body. It may be used to treat pain, stress, anxiety, and depression, and for general well-being. Examples include chiropractic treatments, physical therapy, and massage therapy. Also called manual healing and physical touch methods.",
+        "text":"A type of therapy in which the therapist moves or manipulates one or more parts of the patient’s body. It may be used to treat pain, stress, anxiety, and depression, and for general well-being. Examples include chiropractic treatments, physical therapy, and massage therapy. Also called manual healing and physical touch methods."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":468771,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mannitol",
+      "firstLetter":"m",
+      "prettyUrlName":"mannitol",
+      "pronunciation":{
+        "key":"(MA-nih-TOL)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716814.mp3"
+      },
+      "definition":{
+        "html":"A drug used to decrease swelling of the brain and to treat kidney failure. Mannitol can also be used to open the blood-brain barrier, which allows anticancer medicines to enter the brain and treat brain tumors.",
+        "text":"A drug used to decrease swelling of the brain and to treat kidney failure. Mannitol can also be used to open the blood-brain barrier, which allows anticancer medicines to enter the brain and treat brain tumors."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":445048,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mantle cell lymphoma",
+      "firstLetter":"m",
+      "prettyUrlName":"mantle-cell-lymphoma",
+      "pronunciation":{
+        "key":"(MAN-tul sel lim-FOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714627.mp3"
+      },
+      "definition":{
+        "html":"An aggressive (fast-growing) type of B-cell non-Hodgkin lymphoma that usually occurs in middle-aged or older adults. It is marked by small- to medium-size cancer cells that may be in the lymph nodes, spleen, bone marrow, blood, and gastrointestinal system.",
+        "text":"An aggressive (fast-growing) type of B-cell non-Hodgkin lymphoma that usually occurs in middle-aged or older adults. It is marked by small- to medium-size cancer cells that may be in the lymph nodes, spleen, bone marrow, blood, and gastrointestinal system."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46300,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mantle field",
+      "firstLetter":"m",
+      "prettyUrlName":"mantle-field",
+      "pronunciation":{
+        "key":"(MAN-tul ...)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707999.mp3"
+      },
+      "definition":{
+        "html":"The area of the neck, chest, and lymph nodes in the armpit that are exposed to radiation.",
+        "text":"The area of the neck, chest, and lymph nodes in the armpit that are exposed to radiation."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":689621,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manual healing",
+      "firstLetter":"m",
+      "prettyUrlName":"manual-healing",
+      "pronunciation":{
+        "key":"(MAN-yoo-ul HEE-ling)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/733115.mp3"
+      },
+      "definition":{
+        "html":"A type of therapy in which the therapist moves or manipulates one or more parts of the patient’s body. It may be used to treat pain, stress, anxiety, and depression, and for general well-being. Examples include chiropractic treatments, physical therapy, and massage therapy. Also called manipulative and body-based practice and physical touch methods.",
+        "text":"A type of therapy in which the therapist moves or manipulates one or more parts of the patient’s body. It may be used to treat pain, stress, anxiety, and depression, and for general well-being. Examples include chiropractic treatments, physical therapy, and massage therapy. Also called manipulative and body-based practice and physical touch methods."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":589415,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MAO inhibitor",
+      "firstLetter":"m",
+      "prettyUrlName":"mao-inhibitor",
+      "pronunciation":{
+        "key":"(... in-HIH-bih-ter)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/721138.mp3"
+      },
+      "definition":{
+        "html":"A type of drug used to treat depression. It stops the breakdown of certain chemicals in the brain that help improve a person’s mood. A MAO inhibitor is a type of antidepressant. Also called monoamine oxidase inhibitor.",
+        "text":"A type of drug used to treat depression. It stops the breakdown of certain chemicals in the brain that help improve a person’s mood. A MAO inhibitor is a type of antidepressant. Also called monoamine oxidase inhibitor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641130,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mapatumumab",
+      "firstLetter":"m",
+      "prettyUrlName":"mapatumumab",
+      "pronunciation":{
+        "key":"(ma-puh-TOO-moo-mab)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722514.mp3"
+      },
+      "definition":{
+        "html":"A substance being studied in the treatment of some types of cancer. It binds to a protein called TRAIL R1 on the surface of some tumor cells.  This may kill the tumor cells. Mapatumumab is a type of monoclonal antibody. Also called anti-TRAIL R1-mAb and HGS-ETR1.",
+        "text":"A substance being studied in the treatment of some types of cancer. It binds to a protein called TRAIL R1 on the surface of some tumor cells.  This may kill the tumor cells. Mapatumumab is a type of monoclonal antibody. Also called anti-TRAIL R1-mAb and HGS-ETR1."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":597096,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Marcaine",
+      "firstLetter":"m",
+      "prettyUrlName":"marcaine",
+      "pronunciation":{
+        "key":"(MAR-kane)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720897.mp3"
+      },
+      "definition":{
+        "html":"A drug used to relieve pain by blocking signals at nerve endings. It is being studied in the relief of pain following surgery for cancer. It is a type of local anesthetic. Also called bupivacaine hydrochloride and Sensorcaine.",
+        "text":"A drug used to relieve pain by blocking signals at nerve endings. It is being studied in the relief of pain following surgery for cancer. It is a type of local anesthetic. Also called bupivacaine hydrochloride and Sensorcaine."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":794906,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Marfan syndrome",
+      "firstLetter":"m",
+      "prettyUrlName":"marfan-syndrome",
+      "pronunciation":{
+        "key":"(MAR-fan SIN-drome)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/797274.mp3"
+      },
+      "definition":{
+        "html":"A genetic\n          condition that affects the connective tissue in many organs\n          and tissues in the body, especially the heart, eyes, bones,\n          joints, and blood vessels, including the aorta. People with\n          Marfan syndrome are often tall and thin, have very long\n          arms, legs, fingers, and toes, and have heart and vision\n          problems. Other common signs and symptoms include a long\n          and narrow face, crowded teeth, curved spine, loose joints,\n          stretch marks in the skin, and chest abnormalities. Marfan\n          syndrome may be inherited (passed from parent to child) and\n          is caused by a mutation (change) in a gene called\n          FBN1.",
+        "text":"A genetic\n          condition that affects the connective tissue in many organs\n          and tissues in the body, especially the heart, eyes, bones,\n          joints, and blood vessels, including the aorta. People with\n          Marfan syndrome are often tall and thin, have very long\n          arms, legs, fingers, and toes, and have heart and vision\n          problems. Other common signs and symptoms include a long\n          and narrow face, crowded teeth, curved spine, loose joints,\n          stretch marks in the skin, and chest abnormalities. Marfan\n          syndrome may be inherited (passed from parent to child) and\n          is caused by a mutation (change) in a gene called\n          FBN1."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44531,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"margin",
+      "firstLetter":"m",
+      "prettyUrlName":"margin",
+      "pronunciation":{
+        "key":"(MAR-jin)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727980.mp3"
+      },
+      "definition":{
+        "html":"The edge or border of the tissue removed in cancer surgery. The margin is described as negative or clean when the pathologist finds no cancer cells at the edge of the tissue, suggesting that all of the cancer has been removed. The margin is described as positive or involved when the pathologist finds cancer cells at the edge of the tissue, suggesting that all of the cancer has not been removed.",
+        "text":"The edge or border of the tissue removed in cancer surgery. The margin is described as negative or clean when the pathologist finds no cancer cells at the edge of the tissue, suggesting that all of the cancer has been removed. The margin is described as positive or involved when the pathologist finds cancer cells at the edge of the tissue, suggesting that all of the cancer has not been removed."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":562554,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marginal zone B-cell lymphoma",
+      "firstLetter":"m",
+      "prettyUrlName":"marginal-zone-b-cell-lymphoma",
+      "pronunciation":{
+        "key":"(MAR-jih-nul zone B-sel lim-FOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/721026.mp3"
+      },
+      "definition":{
+        "html":"An indolent (slow-growing) type of B-cell non-Hodgkin lymphoma that begins forming in certain areas (the marginal zones) of lymph tissue. There are three types based on whether it forms in the spleen, lymph nodes, or other lymphoid tissue that contains a lot of B cells (a type of white blood cell). Also called marginal zone lymphoma and MZL.",
+        "text":"An indolent (slow-growing) type of B-cell non-Hodgkin lymphoma that begins forming in certain areas (the marginal zones) of lymph tissue. There are three types based on whether it forms in the spleen, lymph nodes, or other lymphoid tissue that contains a lot of B cells (a type of white blood cell). Also called marginal zone lymphoma and MZL."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":543124,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marginal zone lymphoma",
+      "firstLetter":"m",
+      "prettyUrlName":"marginal-zone-lymphoma",
+      "pronunciation":{
+        "key":"(MAR-jih-nul zone lim-FOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718170.mp3"
+      },
+      "definition":{
+        "html":"An indolent (slow-growing) type of B-cell non-Hodgkin lymphoma that begins forming in certain areas (the marginal zones) of lymph tissue. There are three types based on whether it forms in the spleen, lymph nodes, or other lymphoid tissue that contains a lot of B cells (a type of white blood cell). Also called marginal zone B-cell lymphoma and MZL.",
+        "text":"An indolent (slow-growing) type of B-cell non-Hodgkin lymphoma that begins forming in certain areas (the marginal zones) of lymph tissue. There are three types based on whether it forms in the spleen, lymph nodes, or other lymphoid tissue that contains a lot of B cells (a type of white blood cell). Also called marginal zone B-cell lymphoma and MZL."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":537249,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maribavir",
+      "firstLetter":"m",
+      "prettyUrlName":"maribavir",
+      "pronunciation":{
+        "key":"(mar-I-buh-veer)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718239.mp3"
+      },
+      "definition":{
+        "html":"A substance that blocks the ability of viruses to make new viruses and infect cells. It is being studied in the prevention of cytomegalovirus infection in cancer patients who have had a donor stem cell transplant. It is a type of antiviral agent.",
+        "text":"A substance that blocks the ability of viruses to make new viruses and infect cells. It is being studied in the prevention of cytomegalovirus infection in cancer patients who have had a donor stem cell transplant. It is a type of antiviral agent."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":285927,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marijuana",
+      "firstLetter":"m",
+      "prettyUrlName":"marijuana",
+      "pronunciation":{
+        "key":"(MAYR-ih-WAH-nuh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/710100.mp3"
+      },
+      "definition":{
+        "html":"The dried leaves and flowering tops of the Cannabis sativa or Cannabis indica plant. Marijuana contains active chemicals called cannabinoids that cause drug-like effects all through the body, including the central nervous system and the immune system. Marijuana may help treat the symptoms of cancer or the side effects of cancer treatment, such as nausea and vomiting, pain, and cachexia (loss of body weight and muscle mass). Also called Cannabis.",
+        "text":"The dried leaves and flowering tops of the Cannabis sativa or Cannabis indica plant. Marijuana contains active chemicals called cannabinoids that cause drug-like effects all through the body, including the central nervous system and the immune system. Marijuana may help treat the symptoms of cancer or the side effects of cancer treatment, such as nausea and vomiting, pain, and cachexia (loss of body weight and muscle mass). Also called Cannabis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45473,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marimastat",
+      "firstLetter":"m",
+      "prettyUrlName":"marimastat",
+      "pronunciation":{
+        "key":"(muh-RIH-muh-stat)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731005.mp3"
+      },
+      "definition":{
+        "html":"An anticancer drug that belongs to the family of drugs called angiogenesis inhibitors. Marimastat is a matrix metalloproteinase inhibitor.",
+        "text":"An anticancer drug that belongs to the family of drugs called angiogenesis inhibitors. Marimastat is a matrix metalloproteinase inhibitor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45776,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marker",
+      "firstLetter":"m",
+      "prettyUrlName":"marker",
+      "pronunciation":{
+        "key":"(MAR-ker)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731210.mp3"
+      },
+      "definition":{
+        "html":"A diagnostic indication that disease may develop.",
+        "text":"A diagnostic indication that disease may develop."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":738630,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Marqibo",
+      "firstLetter":"m",
+      "prettyUrlName":"marqibo",
+      "pronunciation":{
+        "key":"(MAR-kee-boh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/741043.mp3"
+      },
+      "definition":{
+        "html":"A form of the anticancer drug vincristine sulfate that is contained inside very tiny, fat-like particles. It may have fewer side effects and work better than vincristine. Marqibo is used to treat adults with acute lymphoblastic leukemia that is Philadelphia chromosome negative and has come back or has not gotten better with other treatment.  It is also being studied in the treatment of other types of cancer. It is a type of vinca alkaloid and a type of antimitotic agent. Also called liposomal vincristine sulfate and vincristine sulfate liposome.",
+        "text":"A form of the anticancer drug vincristine sulfate that is contained inside very tiny, fat-like particles. It may have fewer side effects and work better than vincristine. Marqibo is used to treat adults with acute lymphoblastic leukemia that is Philadelphia chromosome negative and has come back or has not gotten better with other treatment.  It is also being studied in the treatment of other types of cancer. It is a type of vinca alkaloid and a type of antimitotic agent. Also called liposomal vincristine sulfate and vincristine sulfate liposome."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":486448,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MART-1 antigen",
+      "firstLetter":"m",
+      "prettyUrlName":"mart-1-antigen",
+      "pronunciation":{
+        "key":"(... AN-tih-jen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718479.mp3"
+      },
+      "definition":{
+        "html":"A protein found on normal melanocytes (cells that make the pigment melanin) in the skin and in the retina. It is also found on most melanomas (cancers that begin in melanocytes). Vaccines using pieces of the MART-1 antigen are being studied for their ability to boost the immune response to cancer cells in patients with melanoma.  Also called Melan-A protein and Melanoma Antigen Recognized by T cells 1.",
+        "text":"A protein found on normal melanocytes (cells that make the pigment melanin) in the skin and in the retina. It is also found on most melanomas (cancers that begin in melanocytes). Vaccines using pieces of the MART-1 antigen are being studied for their ability to boost the immune response to cancer cells in patients with melanoma.  Also called Melan-A protein and Melanoma Antigen Recognized by T cells 1."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":523329,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masoprocol",
+      "firstLetter":"m",
+      "prettyUrlName":"masoprocol",
+      "pronunciation":{
+        "key":"(muh-SOH-proh-kol)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718499.mp3"
+      },
+      "definition":{
+        "html":"A drug put on the skin to treat growths caused by sun exposure. A form of masoprocol that is taken by mouth is being studied in the treatment of prostate cancer. Masoprocol is an antioxidant, and it may block certain enzymes needed for tumor growth. Also called Actinex, NDGA,  and nordihydroguaiaretic acid.",
+        "text":"A drug put on the skin to treat growths caused by sun exposure. A form of masoprocol that is taken by mouth is being studied in the treatment of prostate cancer. Masoprocol is an antioxidant, and it may block certain enzymes needed for tumor growth. Also called Actinex, NDGA,  and nordihydroguaiaretic acid."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":638197,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mass",
+      "firstLetter":"m",
+      "prettyUrlName":"mass",
+      "pronunciation":{
+        "key":"(mas)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/733320.mp3"
+      },
+      "definition":{
+        "html":"In medicine, a lump in the body. It may be caused by the abnormal growth of cells, a cyst, hormonal changes, or an immune reaction.  A mass may be benign (not cancer) or malignant (cancer).",
+        "text":"In medicine, a lump in the body. It may be caused by the abnormal growth of cells, a cyst, hormonal changes, or an immune reaction.  A mass may be benign (not cancer) or malignant (cancer)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":454761,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"massage therapy",
+      "firstLetter":"m",
+      "prettyUrlName":"massage-therapy",
+      "pronunciation":{
+        "key":"(muh-SAZH THAYR-uh-pee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/715019.mp3"
+      },
+      "definition":{
+        "html":"A treatment in which the soft tissues of the body are kneaded, rubbed, tapped, and stroked. Massage therapy may help people relax, relieve stress and pain, lower blood pressure, and improve circulation. It is being studied in the treatment of cancer symptoms such as lack of energy, pain, swelling, and depression.",
+        "text":"A treatment in which the soft tissues of the body are kneaded, rubbed, tapped, and stroked. Massage therapy may help people relax, relieve stress and pain, lower blood pressure, and improve circulation. It is being studied in the treatment of cancer symptoms such as lack of energy, pain, swelling, and depression."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44845,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mast cell",
+      "firstLetter":"m",
+      "prettyUrlName":"mast-cell",
+      "pronunciation":{
+        "key":"(mast sel)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/728172.mp3"
+      },
+      "definition":{
+        "html":"A type of white blood cell that is found in connective tissues all through the body, especially under the skin, near blood vessels and lymph vessels, in nerves, and in the lungs and intestines. Mast cells play an important role in how the immune system responds to certain bacteria and parasites and they help control other types of immune responses. They contain chemicals such as histamine, heparin, cytokines, and growth factors. They release these chemicals during allergic reactions and certain immune responses. These chemicals have many effects, including the widening of blood vessels and angiogenesis. During an allergic response, they can cause flushing (a hot, red face) and itching.  In large amounts, they can also cause abdominal cramps, muscle pain, nausea, vomiting, diarrhea, low blood pressure, and shock. Mast cells are part of the body’s immune system.",
+        "text":"A type of white blood cell that is found in connective tissues all through the body, especially under the skin, near blood vessels and lymph vessels, in nerves, and in the lungs and intestines. Mast cells play an important role in how the immune system responds to certain bacteria and parasites and they help control other types of immune responses. They contain chemicals such as histamine, heparin, cytokines, and growth factors. They release these chemicals during allergic reactions and certain immune responses. These chemicals have many effects, including the widening of blood vessels and angiogenesis. During an allergic response, they can cause flushing (a hot, red face) and itching.  In large amounts, they can also cause abdominal cramps, muscle pain, nausea, vomiting, diarrhea, low blood pressure, and shock. Mast cells are part of the body’s immune system."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":789079,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mast cell leukemia",
+      "firstLetter":"m",
+      "prettyUrlName":"mast-cell-leukemia",
+      "pronunciation":{
+        "key":"(mast sel loo-KEE-mee-uh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/791517.mp3"
+      },
+      "definition":{
+        "html":"A very rare, aggressive (fast-growing) type of leukemia in which too many immature mast cells (a type of white blood cell) are found in the bone marrow and blood. It may develop in patients who have a buildup of mast cells caused by a condition called aggressive systemic mastocytosis. Mast cell leukemia is hard to treat and has a poor prognosis (outcome). It is a type of acute myeloid leukemia.",
+        "text":"A very rare, aggressive (fast-growing) type of leukemia in which too many immature mast cells (a type of white blood cell) are found in the bone marrow and blood. It may develop in patients who have a buildup of mast cells caused by a condition called aggressive systemic mastocytosis. Mast cell leukemia is hard to treat and has a poor prognosis (outcome). It is a type of acute myeloid leukemia."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":410729,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mast cell tumor",
+      "firstLetter":"m",
+      "prettyUrlName":"mast-cell-tumor",
+      "pronunciation":{
+        "key":"(mast sel TOO-mer)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731423.mp3"
+      },
+      "definition":{
+        "html":"A growth or lump of mast cells (a type of white blood cell). Mast cell tumors can involve the skin, subcutaneous tissue, and muscle tissue. Also called mastocytoma.",
+        "text":"A growth or lump of mast cells (a type of white blood cell). Mast cell tumors can involve the skin, subcutaneous tissue, and muscle tissue. Also called mastocytoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45777,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomy",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomy",
+      "pronunciation":{
+        "key":"(ma-STEK-toh-mee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707225.mp3"
+      },
+      "definition":{
+        "html":"Surgery to remove part or all of the breast. There are different types of mastectomy that differ in the amount of tissue and lymph nodes removed.",
+        "text":"Surgery to remove part or all of the breast. There are different types of mastectomy that differ in the amount of tissue and lymph nodes removed."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":638194,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastitis",
+      "firstLetter":"m",
+      "prettyUrlName":"mastitis",
+      "pronunciation":{
+        "key":"(ma-STY-tis)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723083.mp3"
+      },
+      "definition":{
+        "html":"A condition in which breast tissue is inflamed. It is usually caused by an infection and is most often seen in nursing mothers.",
+        "text":"A condition in which breast tissue is inflamed. It is usually caused by an infection and is most often seen in nursing mothers."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44607,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastocytoma",
+      "firstLetter":"m",
+      "prettyUrlName":"mastocytoma",
+      "pronunciation":{
+        "key":"(MAS-toh-sy-TOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704832.mp3"
+      },
+      "definition":{
+        "html":"A growth or lump of mast cells (a type of white blood cell). Mast cell tumors can involve the skin, subcutaneous tissue, and muscle tissue. Also called mast cell tumor.",
+        "text":"A growth or lump of mast cells (a type of white blood cell). Mast cell tumors can involve the skin, subcutaneous tissue, and muscle tissue. Also called mast cell tumor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":446106,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maternal",
+      "firstLetter":"m",
+      "prettyUrlName":"maternal",
+      "pronunciation":{
+        "key":"(muh-TER-nul)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714649.mp3"
+      },
+      "definition":{
+        "html":"Having to do with the mother, coming from the mother, or related through the mother.",
+        "text":"Having to do with the mother, coming from the mother, or related through the mother."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44211,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"matrix metalloproteinase",
+      "firstLetter":"m",
+      "prettyUrlName":"matrix-metalloproteinase",
+      "pronunciation":{
+        "key":"(MAY-trix meh-TA-loh-PROH-tee-nays)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704303.mp3"
+      },
+      "definition":{
+        "html":"A member of a group of enzymes that can break down proteins, such as collagen, that are normally found in the spaces between cells in tissues (i.e., extracellular matrix proteins). Because these enzymes need zinc or calcium atoms to work properly, they are called metalloproteinases. Matrix metalloproteinases are involved in wound healing, angiogenesis, and tumor cell metastasis.",
+        "text":"A member of a group of enzymes that can break down proteins, such as collagen, that are normally found in the spaces between cells in tissues (i.e., extracellular matrix proteins). Because these enzymes need zinc or calcium atoms to work properly, they are called metalloproteinases. Matrix metalloproteinases are involved in wound healing, angiogenesis, and tumor cell metastasis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":793849,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"matted lymph nodes",
+      "firstLetter":"m",
+      "prettyUrlName":"matted-lymph-nodes",
+      "pronunciation":{
+        "key":"(MA-ted limf nodes)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/796217.mp3"
+      },
+      "definition":{
+        "html":"A group of fused lymph nodes. Matted lymph nodes may be a sign of certain conditions, such as infection, sarcoidosis, or lymphoma. They also may be a sign of cancer that has spread to the lymph nodes.",
+        "text":"A group of fused lymph nodes. Matted lymph nodes may be a sign of certain conditions, such as infection, sarcoidosis, or lymphoma. They also may be a sign of cancer that has spread to the lymph nodes."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635747,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Matulane",
+      "firstLetter":"m",
+      "prettyUrlName":"matulane",
+      "pronunciation":{
+        "key":"(MA-choo-layn)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722850.mp3"
+      },
+      "definition":{
+        "html":"A drug used with other drugs to treat advanced Hodgkin lymphoma. It is also being studied in the treatment of other types of cancer. Matulane damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent.  Also called procarbazine hydrochloride.",
+        "text":"A drug used with other drugs to treat advanced Hodgkin lymphoma. It is also being studied in the treatment of other types of cancer. Matulane damages the cell’s DNA and may kill cancer cells. It is a type of alkylating agent.  Also called procarbazine hydrochloride."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":393800,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mature T-cell lymphoma",
+      "firstLetter":"m",
+      "prettyUrlName":"mature-t-cell-lymphoma",
+      "pronunciation":{
+        "key":"(muh-CHOOR T-sel lim-FOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713083.mp3"
+      },
+      "definition":{
+        "html":"One of a group of aggressive (fast-growing) non-Hodgkin lymphomas that begin in mature T lymphocytes (T cells that have matured in the thymus gland and gone  to other lymphatic sites in the body, including lymph nodes, bone marrow, and spleen). Also called peripheral T-cell lymphoma.",
+        "text":"One of a group of aggressive (fast-growing) non-Hodgkin lymphomas that begin in mature T lymphocytes (T cells that have matured in the thymus gland and gone  to other lymphatic sites in the body, including lymph nodes, bone marrow, and spleen). Also called peripheral T-cell lymphoma."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":443575,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mature teratoma",
+      "firstLetter":"m",
+      "prettyUrlName":"mature-teratoma",
+      "pronunciation":{
+        "key":"(muh-CHOOR TAYR-uh-TOH-muh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714675.mp3"
+      },
+      "definition":{
+        "html":"A type of germ cell tumor that is usually made up of several different types of tissue, such as hair, muscle, and bone. Mature teratomas have cells that look almost like normal cells under a microscope. Some mature teratomas make enzymes or hormones that may cause signs and symptoms of disease. They are benign (not cancer) but may come back after being removed by surgery. Mature teratomas usually occur in the sacrum or tailbone in newborns or in the testicles or ovaries at the start of puberty. They are often called dermoid cysts.",
+        "text":"A type of germ cell tumor that is usually made up of several different types of tissue, such as hair, muscle, and bone. Mature teratomas have cells that look almost like normal cells under a microscope. Some mature teratomas make enzymes or hormones that may cause signs and symptoms of disease. They are benign (not cancer) but may come back after being removed by surgery. Mature teratomas usually occur in the sacrum or tailbone in newborns or in the testicles or ovaries at the start of puberty. They are often called dermoid cysts."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":579876,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Maxamine",
+      "firstLetter":"m",
+      "prettyUrlName":"maxamine",
+      "pronunciation":{
+        "key":"(MAK-suh-meen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720554.mp3"
+      },
+      "definition":{
+        "html":"A substance being studied in the treatment of some types of cancer and other conditions. When used together with interleukin-2, Maxamine may help some immune cells find and kill tumor cells. It is a type of biological response modifier. Also called histamine dihydrochloride.",
+        "text":"A substance being studied in the treatment of some types of cancer and other conditions. When used together with interleukin-2, Maxamine may help some immune cells find and kill tumor cells. It is a type of biological response modifier. Also called histamine dihydrochloride."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":557102,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maxillary sinus",
+      "firstLetter":"m",
+      "prettyUrlName":"maxillary-sinus",
+      "pronunciation":{
+        "key":"(MAK-sih-LAYR-ee SY-nus)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720452.mp3"
+      },
+      "definition":{
+        "html":"A type of paranasal sinus (a hollow space in the bones around the nose). There are two large maxillary sinuses, one in each of the maxillary bones, which are in the cheek area next to the nose. The maxillary sinuses are lined with cells that make mucus to keep the nose from drying out.",
+        "text":"A type of paranasal sinus (a hollow space in the bones around the nose). There are two large maxillary sinuses, one in each of the maxillary bones, which are in the cheek area next to the nose. The maxillary sinuses are lined with cells that make mucus to keep the nose from drying out."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":476179,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maximum inspiratory pressure test",
+      "firstLetter":"m",
+      "prettyUrlName":"maximum-inspiratory-pressure-test",
+      "pronunciation":{
+        "key":"(MAK-sih-mum in-SPY-ruh-TOR-ee PREH-sher…)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716585.mp3"
+      },
+      "definition":{
+        "html":"A test that measures the strength of the muscles used in breathing. A person inhales and exhales through a device called a manometer, and the pressures are recorded by a computer. Also called MIP test.",
+        "text":"A test that measures the strength of the muscles used in breathing. A person inhales and exhales through a device called a manometer, and the pressures are recorded by a computer. Also called MIP test."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":546597,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maximum tolerated dose",
+      "firstLetter":"m",
+      "prettyUrlName":"maximum-tolerated-dose",
+      "pronunciation":{
+        "key":"(MAK-sih-mum TAH-leh-RAY-ted …)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718724.mp3"
+      },
+      "definition":{
+        "html":"The highest dose of a drug or treatment that does not cause unacceptable side effects. The maximum tolerated dose is determined in clinical trials by testing increasing doses on different groups of people until the highest dose with acceptable side effects is found. Also called MTD.",
+        "text":"The highest dose of a drug or treatment that does not cause unacceptable side effects. The maximum tolerated dose is determined in clinical trials by testing increasing doses on different groups of people until the highest dose with acceptable side effects is found. Also called MTD."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":662500,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Mayo Clinic regimen",
+      "firstLetter":"m",
+      "prettyUrlName":"mayo-clinic-regimen",
+      "pronunciation":{
+        "key":"(MAY-oh KLIH-nik REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725954.mp3"
+      },
+      "definition":{
+        "html":"A chemotherapy combination used to treat colorectal cancer. It is also used with radiation therapy to treat esophageal cancer and stomach cancer. It includes the drugs fluorouracil and leucovorin calcium.",
+        "text":"A chemotherapy combination used to treat colorectal cancer. It is also used with radiation therapy to treat esophageal cancer and stomach cancer. It includes the drugs fluorouracil and leucovorin calcium."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":518303,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maytansinoid DM4-conjugated humanized monoclonal antibody huC242",
+      "firstLetter":"m",
+      "prettyUrlName":"maytansinoid-dm4-conjugated-humanized-monoclonal-antibody-huc242",
+      "pronunciation":{
+        "key":"(may-TAN-sih-noyd DM4-KON-juh-GAY-ted HYOO-muh-nized MAH-noh-KLOH-nul AN-tee-BAH-dee...)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718074.mp3"
+      },
+      "definition":{
+        "html":"A substance being studied in the treatment of some types of cancer. It is made by linking the monoclonal antibody huC242 to a toxic substance called maytansinoid DM4. The monoclonal antibody binds to the surfaces of cancer cells and the maytansinoid DM4 enters the cells and blocks their growth. It is a type of immunotoxin. Also called huC242-DM4.",
+        "text":"A substance being studied in the treatment of some types of cancer. It is made by linking the monoclonal antibody huC242 to a toxic substance called maytansinoid DM4. The monoclonal antibody binds to the surfaces of cancer cells and the maytansinoid DM4 enters the cells and blocks their growth. It is a type of immunotoxin. Also called huC242-DM4."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":630932,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MBL",
+      "firstLetter":"m",
+      "prettyUrlName":"mbl",
+      "pronunciation":null,
+      "definition":{
+        "html":"A condition in which a higher-than-normal number of identical B cells are found in the blood. People with MBL may develop other B-cell diseases, such as chronic lymphocytic leukemia (CLL). Also called monoclonal B-cell lymphocytosis.",
+        "text":"A condition in which a higher-than-normal number of identical B cells are found in the blood. People with MBL may develop other B-cell diseases, such as chronic lymphocytic leukemia (CLL). Also called monoclonal B-cell lymphocytosis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":561602,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MC1R",
+      "firstLetter":"m",
+      "prettyUrlName":"mc1r",
+      "pronunciation":null,
+      "definition":{
+        "html":"A protein found in skin and eye cells that make melanin (a pigment that gives color to the skin and helps protect it from damage by ultraviolet light). People with certain changes in the gene for MC1R have a higher risk of developing melanoma (skin cancer that begins in melanocytes). Also called melanocortin 1 receptor and melanotropin receptor.",
+        "text":"A protein found in skin and eye cells that make melanin (a pigment that gives color to the skin and helps protect it from damage by ultraviolet light). People with certain changes in the gene for MC1R have a higher risk of developing melanoma (skin cancer that begins in melanocytes). Also called melanocortin 1 receptor and melanotropin receptor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":661201,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MC5-A scrambler therapy",
+      "firstLetter":"m",
+      "prettyUrlName":"mc5-a-scrambler-therapy",
+      "pronunciation":{
+        "key":"(… SKRAM-bler THAYR-uh-pee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726345.mp3"
+      },
+      "definition":{
+        "html":"A type of treatment for nerve pain that uses electrodes placed on the skin. Electricity is carried from the electrodes through the skin and blocks the pain. The pain may be caused by physical injury, infection, toxic substances, and certain diseases or drugs, including anticancer drugs.",
+        "text":"A type of treatment for nerve pain that uses electrodes placed on the skin. Electricity is carried from the electrodes through the skin and blocks the pain. The pain may be caused by physical injury, infection, toxic substances, and certain diseases or drugs, including anticancer drugs."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45472,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MDL 101,731",
+      "firstLetter":"m",
+      "prettyUrlName":"mdl-101731",
+      "pronunciation":null,
+      "definition":{
+        "html":"A drug that belongs to a family of drugs called ribonucleotide reductase inhibitors.",
+        "text":"A drug that belongs to a family of drugs called ribonucleotide reductase inhibitors."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":630970,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MDR modulator CBT-1",
+      "firstLetter":"m",
+      "prettyUrlName":"mdr-modulator-cbt-1",
+      "pronunciation":{
+        "key":"(… MAH-juh-lay-ter …)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722593.mp3"
+      },
+      "definition":{
+        "html":"A substance taken from plants that is being studied in the treatment of cancer. It may help drugs kill tumor cells that have become resistant to drugs. It is a type of multidrug resistance inhibitor and a type of P-glycoprotein antagonist.  Also called CBT-1.",
+        "text":"A substance taken from plants that is being studied in the treatment of cancer. It may help drugs kill tumor cells that have become resistant to drugs. It is a type of multidrug resistance inhibitor and a type of P-glycoprotein antagonist.  Also called CBT-1."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":743926,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MDS",
+      "firstLetter":"m",
+      "prettyUrlName":"mds",
+      "pronunciation":null,
+      "definition":{
+        "html":"A type of cancer in which the bone marrow does not make enough healthy blood cells (white blood cells, red blood cells, and platelets) and there are abnormal cells in the blood and/or bone marrow. When there are fewer healthy blood cells, infection, anemia, or bleeding may occur. Sometimes, MDS becomes acute myeloid leukemia (AML). Also called myelodysplastic syndrome.",
+        "text":"A type of cancer in which the bone marrow does not make enough healthy blood cells (white blood cells, red blood cells, and platelets) and there are abnormal cells in the blood and/or bone marrow. When there are fewer healthy blood cells, infection, anemia, or bleeding may occur. Sometimes, MDS becomes acute myeloid leukemia (AML). Also called myelodysplastic syndrome."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":438727,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MDX-010",
+      "firstLetter":"m",
+      "prettyUrlName":"mdx-010",
+      "pronunciation":null,
+      "definition":{
+        "html":"A drug used with nivolumab to treat a certain type of colorectal cancer that has mutations (changes) in genes involved in DNA repair. It is also used with nivolumab in some patients to treat advanced renal cell carcinoma that has not already been treated. MDX-010 is also used alone to treat melanoma that cannot be removed by surgery or has spread to other parts of the body. It is also used as adjuvant therapy to treat melanoma in the skin and lymph nodes in patients who have already had surgery. It is also being studied in the treatment of other types of cancer. MDX-010 binds to a substance called CTLA-4, which is found on T cells (a type of white blood cell). MDX-010 may block CTLA-4 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called ipilimumab and Yervoy.",
+        "text":"A drug used with nivolumab to treat a certain type of colorectal cancer that has mutations (changes) in genes involved in DNA repair. It is also used with nivolumab in some patients to treat advanced renal cell carcinoma that has not already been treated. MDX-010 is also used alone to treat melanoma that cannot be removed by surgery or has spread to other parts of the body. It is also used as adjuvant therapy to treat melanoma in the skin and lymph nodes in patients who have already had surgery. It is also being studied in the treatment of other types of cancer. MDX-010 binds to a substance called CTLA-4, which is found on T cells (a type of white blood cell). MDX-010 may block CTLA-4 and help the immune system kill cancer cells. It is a type of monoclonal antibody and a type of immune checkpoint inhibitor. Also called ipilimumab and Yervoy."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":340932,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MDX-060",
+      "firstLetter":"m",
+      "prettyUrlName":"mdx-060",
+      "pronunciation":null,
+      "definition":{
+        "html":"A monoclonal antibody that is being studied in the treatment of some lymphomas. Monoclonal antibodies are produced in the laboratory and can locate and bind to cancer cells.",
+        "text":"A monoclonal antibody that is being studied in the treatment of some lymphomas. Monoclonal antibodies are produced in the laboratory and can locate and bind to cancer cells."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    }
+  ],
+  "links":null
+}

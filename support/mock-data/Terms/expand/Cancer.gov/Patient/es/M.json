@@ -1,0 +1,2291 @@
+{
+  "meta":{
+    "totalResults":507,
+    "from":0
+  },
+  "results":[
+    {
+      "termId":546758,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"M-EDTA",
+      "firstLetter":"m",
+      "prettyUrlName":"m-edta",
+      "pronunciation":null,
+      "definition":{
+        "html":"Sustancia en estudio para el\ntratamiento de infecciones bacterianas causadas por\ncatéteres (tubos flexibles usados para administrar líquidos\nal cuerpo o para extraer líquidos del cuerpo). Es una\ncombinación de minociclina, un antibiótico que impide el\ncrecimiento de bacterias, y EDTA, una sustancia que impide\nla formación de coágulos de sangre.\nLa M-EDTA extrae los metales que las\nbacterias usan para formar biopelículas (capas delgadas que\nse adhieren a las\nsuperficies). También se llama minociclina EDTA.",
+        "text":"Sustancia en estudio para el\ntratamiento de infecciones bacterianas causadas por\ncatéteres (tubos flexibles usados para administrar líquidos\nal cuerpo o para extraer líquidos del cuerpo). Es una\ncombinación de minociclina, un antibiótico que impide el\ncrecimiento de bacterias, y EDTA, una sustancia que impide\nla formación de coágulos de sangre.\nLa M-EDTA extrae los metales que las\nbacterias usan para formar biopelículas (capas delgadas que\nse adhieren a las\nsuperficies). También se llama minociclina EDTA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":430652,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"M200",
+      "firstLetter":"m",
+      "prettyUrlName":"m200",
+      "pronunciation":null,
+      "definition":{
+        "html":"Anticuerpo monoclonal en estudio para el tratamiento de algunos tipos de cáncer. Los anticuerpos monoclonales se producen en el laboratorio y pueden localizar sustancias en el cuerpo y unirse a ellas (como las células cancerosas). M200 se une a una proteína que se encuentra en las células que revisten algunos vasos sanguíneos tumorales. Es un tipo de inhibidor de la angiogénesis. También se llama volociximab.",
+        "text":"Anticuerpo monoclonal en estudio para el tratamiento de algunos tipos de cáncer. Los anticuerpos monoclonales se producen en el laboratorio y pueden localizar sustancias en el cuerpo y unirse a ellas (como las células cancerosas). M200 se une a una proteína que se encuentra en las células que revisten algunos vasos sanguíneos tumorales. Es un tipo de inhibidor de la angiogénesis. También se llama volociximab."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":797427,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MA",
+      "firstLetter":"m",
+      "prettyUrlName":"ma",
+      "pronunciation":null,
+      "definition":{
+        "html":"En el ámbito de la medicina, este término se usa para describir la manera en que un medicamento u otra sustancia produce un efecto en el cuerpo. Por ejemplo, el MA de un medicamento podría ser la forma  en que modifica un objetivo (diana) específico en la célula, es decir, una enzima o una función como la multiplicación celular. Conocer el MA proporciona información sobre la seguridad del medicamento y sus efectos en el cuerpo. Además, quizás ayude a identificar la dosis adecuada del medicamento y a los pacientes que es más probable que respondan al tratamiento. También se llama mecanismo de acción.",
+        "text":"En el ámbito de la medicina, este término se usa para describir la manera en que un medicamento u otra sustancia produce un efecto en el cuerpo. Por ejemplo, el MA de un medicamento podría ser la forma  en que modifica un objetivo (diana) específico en la célula, es decir, una enzima o una función como la multiplicación celular. Conocer el MA proporciona información sobre la seguridad del medicamento y sus efectos en el cuerpo. Además, quizás ayude a identificar la dosis adecuada del medicamento y a los pacientes que es más probable que respondan al tratamiento. También se llama mecanismo de acción."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":463716,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ma huang",
+      "firstLetter":"m",
+      "prettyUrlName":"ma-huang",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/717024.mp3"
+      },
+      "definition":{
+        "html":"Arbusto originario de China e India. Los tallos y las raíces se usan en la medicina tradicional como diurético y para el asma, la bronquitis y la tos. Asimismo, se ha promovido como descongestionante, suplemento para perder peso y suplemento para aumentar la energía. El ma huang puede causar presión arterial alta, aumento de la frecuencia cardíaca o muerte si se consume con ciertos medicamentos. A la vez, puede reducir los efectos de ciertos medicamentos usados para tratar el cáncer y otras enfermedades. La Administración de Medicamentos y Alimentos de los Estados Unidos ha prohibido la venta de suplementos dietéticos que contengan ma huang. El nombre científico es Ephedra sinica. También se llama efedra.",
+        "text":"Arbusto originario de China e India. Los tallos y las raíces se usan en la medicina tradicional como diurético y para el asma, la bronquitis y la tos. Asimismo, se ha promovido como descongestionante, suplemento para perder peso y suplemento para aumentar la energía. El ma huang puede causar presión arterial alta, aumento de la frecuencia cardíaca o muerte si se consume con ciertos medicamentos. A la vez, puede reducir los efectos de ciertos medicamentos usados para tratar el cáncer y otras enfermedades. La Administración de Medicamentos y Alimentos de los Estados Unidos ha prohibido la venta de suplementos dietéticos que contengan ma huang. El nombre científico es Ephedra sinica. También se llama efedra."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":643597,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mAb HGS-ETR2 anti-TRAIL R2",
+      "firstLetter":"m",
+      "prettyUrlName":"mab-hgs-etr2-anti-trail-r2",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725783.mp3"
+      },
+      "definition":{
+        "html":"Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Se une con una proteína que se llama TRAIL-R2 de la superficie de algunas células tumorales, lo que podría destruir estas células. El mAb HGS-ETR2 anti-TRAIL R2 es un tipo de anticuerpo monoclonal. También se llama HGS-ETR2 y lexatumumab.",
+        "text":"Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Se une con una proteína que se llama TRAIL-R2 de la superficie de algunas células tumorales, lo que podría destruir estas células. El mAb HGS-ETR2 anti-TRAIL R2 es un tipo de anticuerpo monoclonal. También se llama HGS-ETR2 y lexatumumab."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":638201,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macrocalcificación",
+      "firstLetter":"m",
+      "prettyUrlName":"macrocalcificacion",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723088.mp3"
+      },
+      "definition":{
+        "html":"Depósito pequeño de calcio en la mama que no se puede palpar, pero se puede ver en una mamografía. Habitualmente, la causa es el envejecimento, una lesión vieja o tejido inflamado y, por lo general, no se relaciona con el cáncer.",
+        "text":"Depósito pequeño de calcio en la mama que no se puede palpar, pero se puede ver en una mamografía. Habitualmente, la causa es el envejecimento, una lesión vieja o tejido inflamado y, por lo general, no se relaciona con el cáncer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44054,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macrófago",
+      "firstLetter":"m",
+      "prettyUrlName":"macrofago",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727703.mp3"
+      },
+      "definition":{
+        "html":"Tipo de glóbulo blanco que rodea los microorganismos y los destruye, extrae las células muertas y estimula la acción de otras células del sistema inmunitario.",
+        "text":"Tipo de glóbulo blanco que rodea los microorganismos y los destruye, extrae las células muertas y estimula la acción de otras células del sistema inmunitario."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44530,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macroglobulinemia",
+      "firstLetter":"m",
+      "prettyUrlName":"macroglobulinemia",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704718.mp3"
+      },
+      "definition":{
+        "html":"Afección en la que la sangre contiene concentraciones altas de proteínas grandes y es demasiado espesa para fluir por los vasos sanguíneos pequeños. Un tipo es la macroglobulinemia de Waldenström, que es un tipo de cáncer.",
+        "text":"Afección en la que la sangre contiene concentraciones altas de proteínas grandes y es demasiado espesa para fluir por los vasos sanguíneos pequeños. Un tipo es la macroglobulinemia de Waldenström, que es un tipo de cáncer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44854,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"macroglobulinemia de Waldenström",
+      "firstLetter":"m",
+      "prettyUrlName":"macroglobulinemia-de-waldenstrom",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/706074.mp3"
+      },
+      "definition":{
+        "html":"Tipo de linfoma no Hodgkin poco activo (de crecimiento lento) que se caracteriza por concentraciones anormales de anticuerpos IgM en la sangre y un agrandamiento del hígado, el bazo o los ganglios linfáticos. También se llama linfoma linfoplasmocítico.",
+        "text":"Tipo de linfoma no Hodgkin poco activo (de crecimiento lento) que se caracteriza por concentraciones anormales de anticuerpos IgM en la sangre y un agrandamiento del hígado, el bazo o los ganglios linfáticos. También se llama linfoma linfoplasmocítico."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45350,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mafosfamida",
+      "firstLetter":"m",
+      "prettyUrlName":"mafosfamida",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/730901.mp3"
+      },
+      "definition":{
+        "html":"Forma de la ciclofosfamida que se puede administrar como infusión intratecal. La mafosfamida está en estudio como medicamento contra el cáncer. Es un alquilante.",
+        "text":"Forma de la ciclofosfamida que se puede administrar como infusión intratecal. La mafosfamida está en estudio como medicamento contra el cáncer. Es un alquilante."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":373087,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"magnesio",
+      "firstLetter":"m",
+      "prettyUrlName":"magnesio",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711300.mp3"
+      },
+      "definition":{
+        "html":"En medicina, mineral que el cuerpo usa para ayudar a mantener los músculos, los nervios y los huesos. También se usa en el metabolismo de energía y en la síntesis de proteínas.",
+        "text":"En medicina, mineral que el cuerpo usa para ayudar a mantener los músculos, los nervios y los huesos. También se usa en el metabolismo de energía y en la síntesis de proteínas."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":546741,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Magnevist",
+      "firstLetter":"m",
+      "prettyUrlName":"magnevist",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718802.mp3"
+      },
+      "definition":{
+        "html":"Sustancia que se usa en la prueba de imaginología por resonancia magnética (IRM) para ayudar a obtener imágenes claras del cerebro, la columna vertebral, el corazón, el tejido blando de las articulaciones y el interior de los huesos. Magnevist está en estudio para el diagnóstico de cáncer. Es un tipo de sustancia de contraste. También se llama gadopentetato de dimeglumina y Gd-DTPA.",
+        "text":"Sustancia que se usa en la prueba de imaginología por resonancia magnética (IRM) para ayudar a obtener imágenes claras del cerebro, la columna vertebral, el corazón, el tejido blando de las articulaciones y el interior de los huesos. Magnevist está en estudio para el diagnóstico de cáncer. Es un tipo de sustancia de contraste. También se llama gadopentetato de dimeglumina y Gd-DTPA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":468779,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malato de sunitinib",
+      "firstLetter":"m",
+      "prettyUrlName":"malato-de-sunitinib",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716825.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que se usa para\ntratar el carcinoma de células renales en estadio avanzado (tipo de tumor de riñón). También se usa como terapia adyuvante para tratar el carcinoma de células renales en pacientes sometidos a cirugía para extirpar el riñón y que tienen riesgo alto de que el cáncer vuelva. Además, el malato de sunitinib se usa para tratar ciertos tipos de cáncer de páncreas y tumores del estroma gastrointestinal (TEGI) en algunos pacientes. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. El malato de sunitinib bloquea ciertas proteínas y evita que las células cancerosas crezcan. También es posible que prevenga la formación de  nuevos vasos sanguíneos que los tumores necesitan para crecer. El malato de sunitinib es un tipo de\ninhibidor de la tirosina cinasa y un tipo\nde inhibidor de la angiogénesis. También se llama SU011248, SU11248,  y Sutent.",
+        "text":"Medicamento que se usa para\ntratar el carcinoma de células renales en estadio avanzado (tipo de tumor de riñón). También se usa como terapia adyuvante para tratar el carcinoma de células renales en pacientes sometidos a cirugía para extirpar el riñón y que tienen riesgo alto de que el cáncer vuelva. Además, el malato de sunitinib se usa para tratar ciertos tipos de cáncer de páncreas y tumores del estroma gastrointestinal (TEGI) en algunos pacientes. Asimismo, está en estudio para el tratamiento de otros tipos de cáncer. El malato de sunitinib bloquea ciertas proteínas y evita que las células cancerosas crezcan. También es posible que prevenga la formación de  nuevos vasos sanguíneos que los tumores necesitan para crecer. El malato de sunitinib es un tipo de\ninhibidor de la tirosina cinasa y un tipo\nde inhibidor de la angiogénesis. También se llama SU011248, SU11248,  y Sutent."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":597183,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maleato de cediranib",
+      "firstLetter":"m",
+      "prettyUrlName":"maleato-de-cediranib",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720982.mp3"
+      },
+      "definition":{
+        "html":"Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Es posible que el maleato de cediranib prevenga la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer,  y que destruya las células cancerosas. Es un tipo de antiangiogénico y un tipo de inhibidor de la tirosina cinasa del receptor del factor de crecimiento endotelial vascular (VEGFR). También se llama AZD2171 y Recentin.",
+        "text":"Sustancia en estudio para el tratamiento de algunos tipos de cáncer. Es posible que el maleato de cediranib prevenga la formación de los vasos sanguíneos nuevos que los tumores necesitan para crecer,  y que destruya las células cancerosas. Es un tipo de antiangiogénico y un tipo de inhibidor de la tirosina cinasa del receptor del factor de crecimiento endotelial vascular (VEGFR). También se llama AZD2171 y Recentin."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":795809,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maleato de glasdegib",
+      "firstLetter":"m",
+      "prettyUrlName":"maleato-de-glasdegib",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/797281.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que\nse utiliza con una dosis baja de citarabina para tratar la\nleucemia mieloide aguda recién diagnosticada. Se utiliza en\npacientes que tienen 75 años o más, o que no se pueden\ntratar con otros medicamentos contra el cáncer. También\nestá en estudio para el tratamiento de otros tipos de\ncáncer. El maleato de glasdegib bloquea un\ntipo de proteína que participa en el crecimiento y la\nreparación celular, y es posible que bloquee la multiplicación de células cancerosas. Es un tipo de\nantagonista de la vía de señalización\nerizo o “hedgehog” (HH). También se llama Daurismo.",
+        "text":"Medicamento que\nse utiliza con una dosis baja de citarabina para tratar la\nleucemia mieloide aguda recién diagnosticada. Se utiliza en\npacientes que tienen 75 años o más, o que no se pueden\ntratar con otros medicamentos contra el cáncer. También\nestá en estudio para el tratamiento de otros tipos de\ncáncer. El maleato de glasdegib bloquea un\ntipo de proteína que participa en el crecimiento y la\nreparación celular, y es posible que bloquee la multiplicación de células cancerosas. Es un tipo de\nantagonista de la vía de señalización\nerizo o “hedgehog” (HH). También se llama Daurismo."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":789981,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maleato de neratinib",
+      "firstLetter":"m",
+      "prettyUrlName":"maleato-de-neratinib",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/790314.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que se usa para tratar el cáncer de mama en estadio temprano que es positivo para HER2. Se usa como tratamiento adyuvante a largo plazo en pacientes que ya fueron tratados con  trastuzumab adyuvante. También está en estudio  para el tratamiento de otros tipos de cáncer. El maleato de neratinib bloquea ciertas proteínas que ayudan a evitar la multiplicación de las células cancerosas y es posible que las destruya. Es un tipo de inhibidor de la tirosina cinasa. También se llama Nerlynx.",
+        "text":"Medicamento que se usa para tratar el cáncer de mama en estadio temprano que es positivo para HER2. Se usa como tratamiento adyuvante a largo plazo en pacientes que ya fueron tratados con  trastuzumab adyuvante. También está en estudio  para el tratamiento de otros tipos de cáncer. El maleato de neratinib bloquea ciertas proteínas que ayudan a evitar la multiplicación de las células cancerosas y es posible que las destruya. Es un tipo de inhibidor de la tirosina cinasa. También se llama Nerlynx."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":601483,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maleato de rosiglitazona",
+      "firstLetter":"m",
+      "prettyUrlName":"maleato-de-rosiglitazona",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/721039.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que ayuda a controlar la cantidad de glucosa (azúcar) en la sangre y que está en estudio para la prevención y el tratamiento de algunos tipos de cáncer. El maleato de rosiglitazona impide que las células crezcan y podría impedir la formación de  vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de tiazolidinediona y un tipo de antiangiogénico. También se llama Avandia.",
+        "text":"Medicamento que ayuda a controlar la cantidad de glucosa (azúcar) en la sangre y que está en estudio para la prevención y el tratamiento de algunos tipos de cáncer. El maleato de rosiglitazona impide que las células crezcan y podría impedir la formación de  vasos sanguíneos nuevos que los tumores necesitan para crecer. Es un tipo de tiazolidinediona y un tipo de antiangiogénico. También se llama Avandia."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45772,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maligno",
+      "firstLetter":"m",
+      "prettyUrlName":"maligno",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707216.mp3"
+      },
+      "definition":{
+        "html":"Canceroso. Las células malignas pueden invadir y destruir tejidos cercanos y diseminarse hasta otras partes del cuerpo.",
+        "text":"Canceroso. Las células malignas pueden invadir y destruir tejidos cercanos y diseminarse hasta otras partes del cuerpo."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":373088,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"malondialdehído",
+      "firstLetter":"m",
+      "prettyUrlName":"malondialdehido",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711584.mp3"
+      },
+      "definition":{
+        "html":"Subproducto derivado del metabolismo de los lípidos (grasas) en el cuerpo. Se encuentra en muchos alimentos y puede estar presente en grandes cantidades en la comida rancia.",
+        "text":"Subproducto derivado del metabolismo de los lípidos (grasas) en el cuerpo. Se encuentra en muchos alimentos y puede estar presente en grandes cantidades en la comida rancia."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":304766,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mama",
+      "firstLetter":"m",
+      "prettyUrlName":"mama",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/709982.mp3"
+      },
+      "definition":{
+        "html":"Órgano glandular ubicado en el pecho. La mama está formada por tejido conjuntivo, grasa y tejido mamario que contiene las glándulas que pueden producir la leche materna. También se llama glándula mamaria.",
+        "text":"Órgano glandular ubicado en el pecho. La mama está formada por tejido conjuntivo, grasa y tejido mamario que contiene las glándulas que pueden producir la leche materna. También se llama glándula mamaria."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44560,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamario",
+      "firstLetter":"m",
+      "prettyUrlName":"mamario",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704767.mp3"
+      },
+      "definition":{
+        "html":"Relacionado con la mama.",
+        "text":"Relacionado con la mama."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":737131,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MammaPrint",
+      "firstLetter":"m",
+      "prettyUrlName":"mammaprint",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/743024.mp3"
+      },
+      "definition":{
+        "html":"Prueba de laboratorio que se usa para ayudar a pronosticar si el cáncer de mama se diseminará a otras partes del cuerpo o volverá. Mediante esta prueba se analiza la actividad de 70 genes en el tejido de mama canceroso de mujeres con cáncer de mama invasivo en estadio temprano que no se diseminó a los ganglios linfáticos  o que se diseminó a 3 o menos ganglios linfáticos. Si el resultado de la prueba indica que hay un riesgo alto de que el cáncer se disemine o vuelva, a veces se necesita tratamiento con medicamentos contra el cáncer. También se llama análisis de 70 genes.",
+        "text":"Prueba de laboratorio que se usa para ayudar a pronosticar si el cáncer de mama se diseminará a otras partes del cuerpo o volverá. Mediante esta prueba se analiza la actividad de 70 genes en el tejido de mama canceroso de mujeres con cáncer de mama invasivo en estadio temprano que no se diseminó a los ganglios linfáticos  o que se diseminó a 3 o menos ganglios linfáticos. Si el resultado de la prueba indica que hay un riesgo alto de que el cáncer se disemine o vuelva, a veces se necesita tratamiento con medicamentos contra el cáncer. También se llama análisis de 70 genes."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":663303,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MammoSite",
+      "firstLetter":"m",
+      "prettyUrlName":"mammosite",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726386.mp3"
+      },
+      "definition":{
+        "html":"Sistema que se usa para aplicar radioterapia interna a los pacientes de cáncer de mama después de la cirugía para extirpar su cáncer.   MammoSite se dirige solo a la parte de la mama donde se encuentra el cáncer. Después de que un paciente se sometió a una lumpectomía para extirpar el cáncer, se introduce un catéter (tubo delgado) con un globo pequeño en el extremo  y se coloca dicho globo en el espacio que quedó vacío después de la cirugía. A continuación, el globo se llena de líquido y se deja en el lugar. A través del catéter, se colocan semillas radiactivas en el interior del globlo dos veces por día durante cinco días y las semillas se extraen después de cada aplicación. Una vez que termina el tratamiento, se extraen el catéter y el balón.   MammoSite es un tipo de braquiterapia intracavitaria y de terapia de irradiación parcial de la mama (TRPM). También se llama radiación mediante catéter con balón.",
+        "text":"Sistema que se usa para aplicar radioterapia interna a los pacientes de cáncer de mama después de la cirugía para extirpar su cáncer.   MammoSite se dirige solo a la parte de la mama donde se encuentra el cáncer. Después de que un paciente se sometió a una lumpectomía para extirpar el cáncer, se introduce un catéter (tubo delgado) con un globo pequeño en el extremo  y se coloca dicho globo en el espacio que quedó vacío después de la cirugía. A continuación, el globo se llena de líquido y se deja en el lugar. A través del catéter, se colocan semillas radiactivas en el interior del globlo dos veces por día durante cinco días y las semillas se extraen después de cada aplicación. Una vez que termina el tratamiento, se extraen el catéter y el balón.   MammoSite es un tipo de braquiterapia intracavitaria y de terapia de irradiación parcial de la mama (TRPM). También se llama radiación mediante catéter con balón."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":256568,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MAMMOTOME",
+      "firstLetter":"m",
+      "prettyUrlName":"mammotome",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731136.mp3"
+      },
+      "definition":{
+        "html":"Dispositivo para el que se usa una sonda guiada por una computadora para realizar biopsias de mama. Una biopsia  que usa el dispositivo   MAMMOTOME se puede hacer durante una visita ambulatoria con un anestésico local; se extrae solo una pequeña cantidad de tejido sano y no se necesitan suturas (puntos) porque la incisión es muy pequeña.  MAMMOTOME es una marca registrada por Devicor Medical Products, Inc.",
+        "text":"Dispositivo para el que se usa una sonda guiada por una computadora para realizar biopsias de mama. Una biopsia  que usa el dispositivo   MAMMOTOME se puede hacer durante una visita ambulatoria con un anestésico local; se extrae solo una pequeña cantidad de tejido sano y no se necesitan suturas (puntos) porque la incisión es muy pequeña.  MAMMOTOME es una marca registrada por Devicor Medical Products, Inc."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45996,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707557.mp3"
+      },
+      "definition":{
+        "html":"Uso de una máquina de rayos X o una computadora para crear una imagen de la mama.",
+        "text":"Uso de una máquina de rayos X o una computadora para crear una imagen de la mama."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":784778,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía 2D",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-2d",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/789250.mp3"
+      },
+      "definition":{
+        "html":"Procedimiento en el que se usan rayos X para tomar imágenes del interior de la mama. Por lo general, las imágenes se toman desde dos ángulos diferentes,  y se usa una computadora o una película radiográfica  para crear imágenes de la mama en dos dimensiones. La mamografía 2D se usa para verificar si hay cáncer de mama u otros cambios en la mama, como  masas anormales, quistes o calcificaciones (depósitos de calcio). También se llama mamografía bidimensional.",
+        "text":"Procedimiento en el que se usan rayos X para tomar imágenes del interior de la mama. Por lo general, las imágenes se toman desde dos ángulos diferentes,  y se usa una computadora o una película radiográfica  para crear imágenes de la mama en dos dimensiones. La mamografía 2D se usa para verificar si hay cáncer de mama u otros cambios en la mama, como  masas anormales, quistes o calcificaciones (depósitos de calcio). También se llama mamografía bidimensional."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":784781,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía 3D",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-3d",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/789254.mp3"
+      },
+      "definition":{
+        "html":"Procedimiento en el que se usan rayos X para tomar una serie de imágenes del interior de la mama desde ángulos diferentes. Se usa una computadora  para crear  imágenes tridimensionales de la mama usando rayos X. La mamografía 3D se usa para verificar si hay cáncer de mama u otros cambios en la mama, como masas anormales, quistes o calcificaciones (depósitos de calcio). Es posible que permita a los médicos observar el tejido de la mama, incluso el tejido denso, de manera más clara que la mamografía bidimensional. Esto hace que sea más fácil encontrar tumores u otros cambios de la mama. También se llama mamografía tridimensional y tomosíntesis de mama.",
+        "text":"Procedimiento en el que se usan rayos X para tomar una serie de imágenes del interior de la mama desde ángulos diferentes. Se usa una computadora  para crear  imágenes tridimensionales de la mama usando rayos X. La mamografía 3D se usa para verificar si hay cáncer de mama u otros cambios en la mama, como masas anormales, quistes o calcificaciones (depósitos de calcio). Es posible que permita a los médicos observar el tejido de la mama, incluso el tejido denso, de manera más clara que la mamografía bidimensional. Esto hace que sea más fácil encontrar tumores u otros cambios de la mama. También se llama mamografía tridimensional y tomosíntesis de mama."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":784779,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía bidimensional",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-bidimensional",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/789252.mp3"
+      },
+      "definition":{
+        "html":"Procedimiento en el que se usan rayos X para tomar imágenes del interior de la mama. Por lo general, las imágenes se toman desde dos ángulos diferentes,  y se usa una computadora o una película radiográfica  para crear imágenes de la mama en dos dimensiones. La mamografía bidimensional se usa para verificar si hay cáncer de mama u otros cambios en la mama, como  masas anormales, quistes o calcificaciones (depósitos de calcio). También se llama mamografía 2D.",
+        "text":"Procedimiento en el que se usan rayos X para tomar imágenes del interior de la mama. Por lo general, las imágenes se toman desde dos ángulos diferentes,  y se usa una computadora o una película radiográfica  para crear imágenes de la mama en dos dimensiones. La mamografía bidimensional se usa para verificar si hay cáncer de mama u otros cambios en la mama, como  masas anormales, quistes o calcificaciones (depósitos de calcio). También se llama mamografía 2D."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":643793,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía con película",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-con-pelicula",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725880.mp3"
+      },
+      "definition":{
+        "html":"Empleo de rayos X para crear una imagen de la mama en un película.",
+        "text":"Empleo de rayos X para crear una imagen de la mama en un película."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":304744,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía de detección",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-de-deteccion",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731730.mp3"
+      },
+      "definition":{
+        "html":"Radiografía de las mamas que se toman para verificar la presencia de cáncer de mama en ausencia de signos o síntomas.",
+        "text":"Radiografía de las mamas que se toman para verificar la presencia de cáncer de mama en ausencia de signos o síntomas."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":304716,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía de diagnóstico",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-de-diagnostico",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731708.mp3"
+      },
+      "definition":{
+        "html":"Radiografía de las mamas que se utiliza para verificar la presencia de cáncer de mama después de que se encuentra un nódulo u otro signo o síntoma de cáncer.",
+        "text":"Radiografía de las mamas que se utiliza para verificar la presencia de cáncer de mama después de que se encuentra un nódulo u otro signo o síntoma de cáncer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":304718,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía digital",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-digital",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/710287.mp3"
+      },
+      "definition":{
+        "html":"Uso de una computadora, en lugar de una radiografía para crear una imagen de la mama.",
+        "text":"Uso de una computadora, en lugar de una radiografía para crear una imagen de la mama."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":784782,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamografía tridimensional",
+      "firstLetter":"m",
+      "prettyUrlName":"mamografia-tridimensional",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/789256.mp3"
+      },
+      "definition":{
+        "html":"Procedimiento en el que se usan rayos X para tomar una serie de imágenes del interior de la mama desde ángulos diferentes. Se usa una computadora  para crear  imágenes tridimensionales de la mama usando rayos X. La mamografía tridimensional se usa para verificar si hay cáncer de mama u otros cambios en la mama, como masas anormales, quistes o calcificaciones (depósitos de calcio). Es posible que permita a los médicos observar el tejido de la mama, incluso el tejido denso, de manera más clara que la mamografía bidimensional. Esto hace que sea más fácil encontrar tumores u otros cambios de la mama. También se llama mamografía 3D y tomosíntesis de mama.",
+        "text":"Procedimiento en el que se usan rayos X para tomar una serie de imágenes del interior de la mama desde ángulos diferentes. Se usa una computadora  para crear  imágenes tridimensionales de la mama usando rayos X. La mamografía tridimensional se usa para verificar si hay cáncer de mama u otros cambios en la mama, como masas anormales, quistes o calcificaciones (depósitos de calcio). Es posible que permita a los médicos observar el tejido de la mama, incluso el tejido denso, de manera más clara que la mamografía bidimensional. Esto hace que sea más fácil encontrar tumores u otros cambios de la mama. También se llama mamografía 3D y tomosíntesis de mama."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45775,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mamograma",
+      "firstLetter":"m",
+      "prettyUrlName":"mamograma",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707222.mp3"
+      },
+      "definition":{
+        "html":"Radiografía de la mama (seno).",
+        "text":"Radiografía de la mama (seno)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":729587,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mancha por micosis fungoide",
+      "firstLetter":"m",
+      "prettyUrlName":"mancha-por-micosis-fungoide",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/738169.mp3"
+      },
+      "definition":{
+        "html":"Área plana y roja en la piel de pacientes de micosis fungoide. Las manchas pueden parecer una erupción delgada y roja, y puede producir picazón. Son más comunes en el pecho, la ingle, las caderas, las nalgas y debajo de los brazos. Pueden tener aspecto de eczema o psoriasis.",
+        "text":"Área plana y roja en la piel de pacientes de micosis fungoide. Las manchas pueden parecer una erupción delgada y roja, y puede producir picazón. Son más comunes en el pecho, la ingle, las caderas, las nalgas y debajo de los brazos. Pueden tener aspecto de eczema o psoriasis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":377705,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manejo contingente",
+      "firstLetter":"m",
+      "prettyUrlName":"manejo-contingente",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731297.mp3"
+      },
+      "definition":{
+        "html":"En el campo de la medicina, un plan de tratamiento que brinda recompensas inmediatas por los cambios deseados en el comportamiento. Se basa en el principio de que si se premia un buen comportamiento, este tiene mayores probabilidades de repetirse. A menudo, se usa en el tratamiento del abuso de drogas y alcohol, y está en estudio como método para abandonar el hábito de fumar.",
+        "text":"En el campo de la medicina, un plan de tratamiento que brinda recompensas inmediatas por los cambios deseados en el comportamiento. Se basa en el principio de que si se premia un buen comportamiento, este tiene mayores probabilidades de repetirse. A menudo, se usa en el tratamiento del abuso de drogas y alcohol, y está en estudio como método para abandonar el hábito de fumar."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":468771,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manitol",
+      "firstLetter":"m",
+      "prettyUrlName":"manitol",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716815.mp3"
+      },
+      "definition":{
+        "html":"Medicamento usado para disminuir la inflamación del cerebro y para tratar la insuficiencia renal. El manitol también se puede usar para abrir la barrera hematoencefálica la cual permite que los medicamentos contra el cáncer entren en el cerebro, y para combatir los tumores cerebrales.",
+        "text":"Medicamento usado para disminuir la inflamación del cerebro y para tratar la insuficiencia renal. El manitol también se puede usar para abrir la barrera hematoencefálica la cual permite que los medicamentos contra el cáncer entren en el cerebro, y para combatir los tumores cerebrales."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":462671,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manzanilla",
+      "firstLetter":"m",
+      "prettyUrlName":"manzanilla",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716894.mp3"
+      },
+      "definition":{
+        "html":"Familia de plantas con flores parecidas a la margarita. Los dos tipos de manzanilla o camomila son la manzanilla alemana y la manzanilla romana o inglesa. Se usan en forma de té para calmar y relajar, dormir mejor y para aliviar problemas estomacales. El aceite esencial (líquido perfumado tomado de las plantas) de la manzanilla se usa en perfumes, champúes y lociones, y en aromatoterapia.",
+        "text":"Familia de plantas con flores parecidas a la margarita. Los dos tipos de manzanilla o camomila son la manzanilla alemana y la manzanilla romana o inglesa. Se usan en forma de té para calmar y relajar, dormir mejor y para aliviar problemas estomacales. El aceite esencial (líquido perfumado tomado de las plantas) de la manzanilla se usa en perfumes, champúes y lociones, y en aromatoterapia."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":462681,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manzanilla alemana",
+      "firstLetter":"m",
+      "prettyUrlName":"manzanilla-alemana",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716913.mp3"
+      },
+      "definition":{
+        "html":"Planta cuyas flores similares a las margaritas se usan para hacer té, tranquilizar y relajar, mejorar el sueño y aliviar los problemas estomacales. La manzanilla alemana se ha estudiado en la prevención de la mucositis (llagas bucales) provocada por la quimioterapia y la radioterapia. También se ha usado en algunas culturas para tratar afecciones cutáneas, infecciones moderadas y otros trastornos. El nombre científico es Matricaria recutita.",
+        "text":"Planta cuyas flores similares a las margaritas se usan para hacer té, tranquilizar y relajar, mejorar el sueño y aliviar los problemas estomacales. La manzanilla alemana se ha estudiado en la prevención de la mucositis (llagas bucales) provocada por la quimioterapia y la radioterapia. También se ha usado en algunas culturas para tratar afecciones cutáneas, infecciones moderadas y otros trastornos. El nombre científico es Matricaria recutita."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":559089,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manzanilla inglesa",
+      "firstLetter":"m",
+      "prettyUrlName":"manzanilla-inglesa",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/721241.mp3"
+      },
+      "definition":{
+        "html":"Tipo de planta de manzanilla (camomila) de flores blancas parecidas a las margaritas que se encuentra en Europa, América del Norte y la Argentina. Las flores secas se usan en tés para calmar y relajar, mejorar el sueño y para aliviar problemas estomacales. Su aceite esencial (líquido perfumado que se toma de las plantas) se usa en perfumes, champúes, cremas para la cara, lociones y aromatoterapia. Los nombres científicos son Chamaemelum nobile y Anthemis nobilis. También se llama manzanilla romana.",
+        "text":"Tipo de planta de manzanilla (camomila) de flores blancas parecidas a las margaritas que se encuentra en Europa, América del Norte y la Argentina. Las flores secas se usan en tés para calmar y relajar, mejorar el sueño y para aliviar problemas estomacales. Su aceite esencial (líquido perfumado que se toma de las plantas) se usa en perfumes, champúes, cremas para la cara, lociones y aromatoterapia. Los nombres científicos son Chamaemelum nobile y Anthemis nobilis. También se llama manzanilla romana."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":462682,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"manzanilla romana",
+      "firstLetter":"m",
+      "prettyUrlName":"manzanilla-romana",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716506.mp3"
+      },
+      "definition":{
+        "html":"Tipo de planta de manzanilla (camomila) de flores blancas parecidas a las margaritas que se encuentra en Europa, América del Norte y la Argentina. Las flores secas se usan en tés para calmar y relajar, mejorar el sueño y para aliviar problemas estomacales. Su aceite esencial (líquido perfumado que se toma de las plantas) se usa en perfumes, champúes, cremas para la cara, lociones y aromatoterapia. Los nombres científicos son Chamaemelum nobile y Anthemis nobilis. También se llama manzanilla inglesa.",
+        "text":"Tipo de planta de manzanilla (camomila) de flores blancas parecidas a las margaritas que se encuentra en Europa, América del Norte y la Argentina. Las flores secas se usan en tés para calmar y relajar, mejorar el sueño y para aliviar problemas estomacales. Su aceite esencial (líquido perfumado que se toma de las plantas) se usa en perfumes, champúes, cremas para la cara, lociones y aromatoterapia. Los nombres científicos son Chamaemelum nobile y Anthemis nobilis. También se llama manzanilla inglesa."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641130,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mapatumumab",
+      "firstLetter":"m",
+      "prettyUrlName":"mapatumumab",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722513.mp3"
+      },
+      "definition":{
+        "html":"Sustancia en estudio para el tratamiento de ciertos tipos de cáncer. Se une a una proteína de la superficie de algunas células tumorales que se llama TRAIL R1. Podría destruir células tumorales. El mapatumumab es un tipo de anticuerpo monoclonal. También se llama anti-TRAIL R1-mAbmAb anti TRAIL R1 y HGS-ETR1.",
+        "text":"Sustancia en estudio para el tratamiento de ciertos tipos de cáncer. Se une a una proteína de la superficie de algunas células tumorales que se llama TRAIL R1. Podría destruir células tumorales. El mapatumumab es un tipo de anticuerpo monoclonal. También se llama anti-TRAIL R1-mAbmAb anti TRAIL R1 y HGS-ETR1."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45761,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mapeo de ganglios linfáticos",
+      "firstLetter":"m",
+      "prettyUrlName":"mapeo-de-ganglios-linfaticos",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731204.mp3"
+      },
+      "definition":{
+        "html":"Uso de tintes y sustancias radiactivas para identificar los ganglios linfáticos que pueden contener células tumorales. También se llama mapeo linfático.",
+        "text":"Uso de tintes y sustancias radiactivas para identificar los ganglios linfáticos que pueden contener células tumorales. También se llama mapeo linfático."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45024,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mapeo de ganglios linfáticos centinela",
+      "firstLetter":"m",
+      "prettyUrlName":"mapeo-de-ganglios-linfaticos-centinela",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/728242.mp3"
+      },
+      "definition":{
+        "html":"Uso de tintes o sustancias radiactivas para identificar el primer ganglio linfático al que es probable que el cáncer se disemine desde el tumor primario. Las células cancerosas pueden aparecer primero en el ganglio centinela antes de diseminarse a otros ganglios linfáticos o a otras parted del cuerpo.",
+        "text":"Uso de tintes o sustancias radiactivas para identificar el primer ganglio linfático al que es probable que el cáncer se disemine desde el tumor primario. Las células cancerosas pueden aparecer primero en el ganglio centinela antes de diseminarse a otros ganglios linfáticos o a otras parted del cuerpo."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":354473,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mapeo linfático",
+      "firstLetter":"m",
+      "prettyUrlName":"mapeo-linfatico",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711288.mp3"
+      },
+      "definition":{
+        "html":"Uso de tintes y sustancias radiactivas para identificar los ganglios linfáticos que pueden contener células tumorales. También se llama mapeo de ganglios linfáticos.",
+        "text":"Uso de tintes y sustancias radiactivas para identificar los ganglios linfáticos que pueden contener células tumorales. También se llama mapeo de ganglios linfáticos."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45776,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731211.mp3"
+      },
+      "definition":{
+        "html":"Indicación diagnóstica de que se puede contraer una enfermedad.",
+        "text":"Indicación diagnóstica de que se puede contraer una enfermedad."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45618,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador biológico",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador-biologico",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705686.mp3"
+      },
+      "definition":{
+        "html":"Molécula biológica que se encuentra en la sangre, otros líquidos o tejidos del cuerpo y es un signo de un proceso normal o anormal, o de una afección o enfermedad. Un marcador biológico se utiliza a veces para determinar la respuesta del cuerpo a un tratamiento para una enfermedad o afección. También se llama biomarcador, marcador molecular,  y molécula distintiva.",
+        "text":"Molécula biológica que se encuentra en la sangre, otros líquidos o tejidos del cuerpo y es un signo de un proceso normal o anormal, o de una afección o enfermedad. Un marcador biológico se utiliza a veces para determinar la respuesta del cuerpo a un tratamiento para una enfermedad o afección. También se llama biomarcador, marcador molecular,  y molécula distintiva."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":680706,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador fiduciario",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador-fiduciario",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727607.mp3"
+      },
+      "definition":{
+        "html":"Dispositivo médico u objeto pequeño que se coloca en el cuerpo o sobre el cuerpo para marcar un área para tratamiento con radioterapia o cirugía. Por ejemplo, se pueden poner semillas diminutas de oro  en la próstata para marcar un tumor antes de la radioterapia.   Esto permite al médico administrar dosis más altas de radiación al tumor y producir menos daño al tejido cercano sano.  ",
+        "text":"Dispositivo médico u objeto pequeño que se coloca en el cuerpo o sobre el cuerpo para marcar un área para tratamiento con radioterapia o cirugía. Por ejemplo, se pueden poner semillas diminutas de oro  en la próstata para marcar un tumor antes de la radioterapia.   Esto permite al médico administrar dosis más altas de radiación al tumor y producir menos daño al tejido cercano sano.  "
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46129,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador genético",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador-genetico",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707718.mp3"
+      },
+      "definition":{
+        "html":"Secuencia específica de ADN de la que se conoce su ubicación  en un cromosoma. Hay muchos marcadores genéticos en cada cromosoma. Por lo general, los marcadores genéticos y los genes que están muy cerca entre sí en un cromosoma se heredan juntos (pasan de padres a hijos). A veces, esto ayuda a los investigadores a encontrar un gen cerca de un marcador que puede ser la causa de determinada enfermedad o rasgo en una familia. Los polimorfismos de nucleótido simple (PNS) y los microsatélites son ejemplos de marcadores genéticos.",
+        "text":"Secuencia específica de ADN de la que se conoce su ubicación  en un cromosoma. Hay muchos marcadores genéticos en cada cromosoma. Por lo general, los marcadores genéticos y los genes que están muy cerca entre sí en un cromosoma se heredan juntos (pasan de padres a hijos). A veces, esto ayuda a los investigadores a encontrar un gen cerca de un marcador que puede ser la causa de determinada enfermedad o rasgo en una familia. Los polimorfismos de nucleótido simple (PNS) y los microsatélites son ejemplos de marcadores genéticos."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":561601,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador genético de sensibilidad",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador-genetico-de-sensibilidad",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720648.mp3"
+      },
+      "definition":{
+        "html":"Cambio específico en el ADN de una persona que hace más probable que contraiga ciertas enfermedades como el cáncer.",
+        "text":"Cambio específico en el ADN de una persona que hace más probable que contraiga ciertas enfermedades como el cáncer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":579630,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador molecular",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador-molecular",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720541.mp3"
+      },
+      "definition":{
+        "html":"Molécula biológica que se encuentra en la sangre, otros líquidos o tejidos del cuerpo y es un signo de un proceso normal o anormal, o de una afección o enfermedad. Un marcador molecular se utiliza a veces para determinar la respuesta del cuerpo a un tratamiento para una enfermedad o afección. También se llama marcador biológico y molécula distintiva.",
+        "text":"Molécula biológica que se encuentra en la sangre, otros líquidos o tejidos del cuerpo y es un signo de un proceso normal o anormal, o de una afección o enfermedad. Un marcador molecular se utiliza a veces para determinar la respuesta del cuerpo a un tratamiento para una enfermedad o afección. También se llama marcador biológico y molécula distintiva."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46636,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcador tumoral",
+      "firstLetter":"m",
+      "prettyUrlName":"marcador-tumoral",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/709842.mp3"
+      },
+      "definition":{
+        "html":"Sustancia que se encuentra en los tejidos, la sangre u otros líquidos del cuerpo y que a veces es un signo de cáncer o de ciertas afecciones benignas (no cancerosas). Las células normales y las células cancerosas elaboran la mayoría de los marcadores tumorales, pero las células cancerosas los elaboran en cantidades más grandes. Es posible que un marcador tumoral ayude a diagnosticar un cáncer, planificar el tratamiento, o determinar si el tratamiento es eficaz o si el cáncer volvió. Entre los ejemplos de marcadores tumorales se encuentra el CA-125 (en el cáncer de ovario), el CA 15-3 (en el cáncer de mama), el CEA (en el cáncer de colon) y el PSA (en el cáncer de próstata).",
+        "text":"Sustancia que se encuentra en los tejidos, la sangre u otros líquidos del cuerpo y que a veces es un signo de cáncer o de ciertas afecciones benignas (no cancerosas). Las células normales y las células cancerosas elaboran la mayoría de los marcadores tumorales, pero las células cancerosas los elaboran en cantidades más grandes. Es posible que un marcador tumoral ayude a diagnosticar un cáncer, planificar el tratamiento, o determinar si el tratamiento es eficaz o si el cáncer volvió. Entre los ejemplos de marcadores tumorales se encuentra el CA-125 (en el cáncer de ovario), el CA 15-3 (en el cáncer de mama), el CEA (en el cáncer de colon) y el PSA (en el cáncer de próstata)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":680700,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcadores fiduciales de oro",
+      "firstLetter":"m",
+      "prettyUrlName":"marcadores-fiduciales-de-oro",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727603.mp3"
+      },
+      "definition":{
+        "html":"Semillas diminutas de oro, de tamaño parecido a un grano de arroz, que se colocan en el tumor o alrededor del mismo para indicar exactamente su lugar en el cuerpo.   Los médicos entonces pueden ubicar directamente el tumor y administrar dosis mayores de la radiación con menos daño para el tejido cercano sano.  También se llama marcadores fiduciales de semillas de oro, semillas de oro,  y semillas marcadoras fiduciarias de oro.",
+        "text":"Semillas diminutas de oro, de tamaño parecido a un grano de arroz, que se colocan en el tumor o alrededor del mismo para indicar exactamente su lugar en el cuerpo.   Los médicos entonces pueden ubicar directamente el tumor y administrar dosis mayores de la radiación con menos daño para el tejido cercano sano.  También se llama marcadores fiduciales de semillas de oro, semillas de oro,  y semillas marcadoras fiduciarias de oro."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":680699,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcadores fiduciales de semillas de oro",
+      "firstLetter":"m",
+      "prettyUrlName":"marcadores-fiduciales-de-semillas-de-oro",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727577.mp3"
+      },
+      "definition":{
+        "html":"Semillas diminutas de oro, de tamaño parecido a un grano de arroz, que se colocan en el tumor o alrededor del mismo para indicar exactamente su lugar en el cuerpo.   Los médicos entonces pueden ubicar directamente el tumor y administrar dosis mayores de la radiación con menos daño para el tejido cercano sano.  También se llama marcadores fiduciales de oro, semillas de oro,  y semillas marcadoras fiduciarias de oro.",
+        "text":"Semillas diminutas de oro, de tamaño parecido a un grano de arroz, que se colocan en el tumor o alrededor del mismo para indicar exactamente su lugar en el cuerpo.   Los médicos entonces pueden ubicar directamente el tumor y administrar dosis mayores de la radiación con menos daño para el tejido cercano sano.  También se llama marcadores fiduciales de oro, semillas de oro,  y semillas marcadoras fiduciarias de oro."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":597096,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Marcaine",
+      "firstLetter":"m",
+      "prettyUrlName":"marcaine",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720896.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que se usa para aliviar el dolor mediante el bloqueo de las señales en los extremos de los nervios. Está en estudio para aliviar el dolor posterior a la cirugía para el cáncer. Es un tipo de anestésico local. También se llama clorhidrato de bupivacaína y Sensorcaine.",
+        "text":"Medicamento que se usa para aliviar el dolor mediante el bloqueo de las señales en los extremos de los nervios. Está en estudio para aliviar el dolor posterior a la cirugía para el cáncer. Es un tipo de anestésico local. También se llama clorhidrato de bupivacaína y Sensorcaine."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":476118,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcapasos",
+      "firstLetter":"m",
+      "prettyUrlName":"marcapasos",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/717080.mp3"
+      },
+      "definition":{
+        "html":"Dispositivo electrónico que se implanta en el cuerpo para vigilar la frecuencia y el ritmo cardíaco. Le envía un estímulo eléctrico al corazón cuando este no late con normalidad. Funciona con pilas y tiene cables largos y finos que se conectan con el corazón. También se llama marcapasos artificial y marcapasos cardíaco.",
+        "text":"Dispositivo electrónico que se implanta en el cuerpo para vigilar la frecuencia y el ritmo cardíaco. Le envía un estímulo eléctrico al corazón cuando este no late con normalidad. Funciona con pilas y tiene cables largos y finos que se conectan con el corazón. También se llama marcapasos artificial y marcapasos cardíaco."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":513046,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcapasos artificial",
+      "firstLetter":"m",
+      "prettyUrlName":"marcapasos-artificial",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718452.mp3"
+      },
+      "definition":{
+        "html":"Dispositivo electrónico que se implanta en el cuerpo para vigilar la frecuencia y el ritmo cardíaco. Le envía un estímulo eléctrico al corazón cuando este no late con normalidad. Funciona con pilas y tiene cables largos y finos que se conectan con el corazón. También se llama marcapasos y marcapasos cardíaco.",
+        "text":"Dispositivo electrónico que se implanta en el cuerpo para vigilar la frecuencia y el ritmo cardíaco. Le envía un estímulo eléctrico al corazón cuando este no late con normalidad. Funciona con pilas y tiene cables largos y finos que se conectan con el corazón. También se llama marcapasos y marcapasos cardíaco."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":513047,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcapasos cardíaco",
+      "firstLetter":"m",
+      "prettyUrlName":"marcapasos-cardiaco",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718066.mp3"
+      },
+      "definition":{
+        "html":"Dispositivo electrónico que se implanta en el cuerpo para vigilar la frecuencia y el ritmo cardíaco. Le envía un estímulo eléctrico al corazón cuando este no late con normalidad. Funciona con pilas y tiene cables largos y finos que se conectan con el corazón. También se llama marcapasos y marcapasos artificial.",
+        "text":"Dispositivo electrónico que se implanta en el cuerpo para vigilar la frecuencia y el ritmo cardíaco. Le envía un estímulo eléctrico al corazón cuando este no late con normalidad. Funciona con pilas y tiene cables largos y finos que se conectan con el corazón. También se llama marcapasos y marcapasos artificial."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46521,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marcha atáxica",
+      "firstLetter":"m",
+      "prettyUrlName":"marcha-ataxica",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/708882.mp3"
+      },
+      "definition":{
+        "html":"Caminar con torpeza, sin coordinación.",
+        "text":"Caminar con torpeza, sin coordinación."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44531,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"margen",
+      "firstLetter":"m",
+      "prettyUrlName":"margen",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727979.mp3"
+      },
+      "definition":{
+        "html":"Borde del tejido eliminado durante la cirugía de cáncer. El margen se describe como negativo o limpio cuando el patólogo no encuentra células cancerosas en el borde del tejido, lo que indica que se extrajo todo el cáncer. El margen se describe como positivo, implicado o comprometido cuando el patólogo encuentra células cancerosas en el borde del tejido, lo que indica que no se extrajo todo el cáncer.",
+        "text":"Borde del tejido eliminado durante la cirugía de cáncer. El margen se describe como negativo o limpio cuando el patólogo no encuentra células cancerosas en el borde del tejido, lo que indica que se extrajo todo el cáncer. El margen se describe como positivo, implicado o comprometido cuando el patólogo encuentra células cancerosas en el borde del tejido, lo que indica que no se extrajo todo el cáncer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":537249,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maribavir",
+      "firstLetter":"m",
+      "prettyUrlName":"maribavir",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718238.mp3"
+      },
+      "definition":{
+        "html":"Sustancia que impide que los virus produzcan nuevos virus e infecten células. Está en estudio para la prevención de la infección por citomegalovirus en pacientes que recibieron un trasplante de células madre de un donante. Es un tipo de antivírico.",
+        "text":"Sustancia que impide que los virus produzcan nuevos virus e infecten células. Está en estudio para la prevención de la infección por citomegalovirus en pacientes que recibieron un trasplante de células madre de un donante. Es un tipo de antivírico."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":285927,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marihuana",
+      "firstLetter":"m",
+      "prettyUrlName":"marihuana",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/710099.mp3"
+      },
+      "definition":{
+        "html":"Hojas y parte superior de las flores secas de las plantas Cannabis sativa o Cannabis indica. La marihuana contiene sustancias químicas activas que se llaman canabinoides que causa efectos similares a los estupefacientes en todo el cuerpo, incluso en el sistema nervioso central y el sistema inmunitario. La marihuana puede ayudar a tratar los síntomas del cáncer o los efectos secundarios del tratamiento de cáncer, como náuseas y vómitos, dolor, caquexia (pérdida de peso corporal y de masa muscular). También se llama Cannabis.",
+        "text":"Hojas y parte superior de las flores secas de las plantas Cannabis sativa o Cannabis indica. La marihuana contiene sustancias químicas activas que se llaman canabinoides que causa efectos similares a los estupefacientes en todo el cuerpo, incluso en el sistema nervioso central y el sistema inmunitario. La marihuana puede ayudar a tratar los síntomas del cáncer o los efectos secundarios del tratamiento de cáncer, como náuseas y vómitos, dolor, caquexia (pérdida de peso corporal y de masa muscular). También se llama Cannabis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45473,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"marimastat",
+      "firstLetter":"m",
+      "prettyUrlName":"marimastat",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731004.mp3"
+      },
+      "definition":{
+        "html":"Medicamento contra el cáncer que pertenece al tipo de los inhibidores de la angiogénesis. El marimastat es un inhibidor de la metaloproteasa de matriz.",
+        "text":"Medicamento contra el cáncer que pertenece al tipo de los inhibidores de la angiogénesis. El marimastat es un inhibidor de la metaloproteasa de matriz."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":738630,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Marqibo",
+      "firstLetter":"m",
+      "prettyUrlName":"marqibo",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/741042.mp3"
+      },
+      "definition":{
+        "html":"Forma del medicamento contra el cáncer sulfato de vincristina contenido en partículas muy pequeñas parecidas a la grasa. Puede causar menos efectos secundarios y ser más eficaz que la vincristina. Marqibo se usa para tratar a adultos con leucemia linfoblástica aguda que es negativa para el cromosoma Filadelfia que volvió o no mejoró con otro tratamiento. También está en estudio para el tratamiento de otros tipos de cáncer. Es un tipo de alcaloide  vinca y un tipo de antimitótico. También se llama sulfato de vincristina en liposomas y sulfato de vincristina liposomal.",
+        "text":"Forma del medicamento contra el cáncer sulfato de vincristina contenido en partículas muy pequeñas parecidas a la grasa. Puede causar menos efectos secundarios y ser más eficaz que la vincristina. Marqibo se usa para tratar a adultos con leucemia linfoblástica aguda que es negativa para el cromosoma Filadelfia que volvió o no mejoró con otro tratamiento. También está en estudio para el tratamiento de otros tipos de cáncer. Es un tipo de alcaloide  vinca y un tipo de antimitótico. También se llama sulfato de vincristina en liposomas y sulfato de vincristina liposomal."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":638197,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa",
+      "firstLetter":"m",
+      "prettyUrlName":"masa",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/733321.mp3"
+      },
+      "definition":{
+        "html":"En el campo de la medicina, se refiere a un nudo en el cuerpo. Este puede obedecer al crecimiento anormal de células, un quiste, cambios hormonales o reacción inmunitaria. Una masa, que también se llama nódulo, puede ser benigna (no cancerosa) o maligna (cancerosa).",
+        "text":"En el campo de la medicina, se refiere a un nudo en el cuerpo. Este puede obedecer al crecimiento anormal de células, un quiste, cambios hormonales o reacción inmunitaria. Una masa, que también se llama nódulo, puede ser benigna (no cancerosa) o maligna (cancerosa)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":430856,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa anexial",
+      "firstLetter":"m",
+      "prettyUrlName":"masa-anexial",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713590.mp3"
+      },
+      "definition":{
+        "html":"Masa en el tejido cerca del útero, por lo general en el ovario o la trompa de Falopio. Las masas anexiales incluyen los quistes ováricos, los embarazos ectópicos (tubárico) y los tumores benignos (no cancerosos) o malignos (cancerosos).",
+        "text":"Masa en el tejido cerca del útero, por lo general en el ovario o la trompa de Falopio. Las masas anexiales incluyen los quistes ováricos, los embarazos ectópicos (tubárico) y los tumores benignos (no cancerosos) o malignos (cancerosos)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44505,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa cubierta de espículas",
+      "firstLetter":"m",
+      "prettyUrlName":"masa-cubierta-de-espiculas",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704677.mp3"
+      },
+      "definition":{
+        "html":"Bulto de tejido con espinas o puntos en la superficie.",
+        "text":"Bulto de tejido con espinas o puntos en la superficie."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44216,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa molecular",
+      "firstLetter":"m",
+      "prettyUrlName":"masa-molecular",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727842.mp3"
+      },
+      "definition":{
+        "html":"Suma de las masas atómicas de todos los átomos de una molécula, con base en una escala en la cual las masas atómicas del hidrógeno, el carbono, el nitrógeno y el oxígeno son 1, 12, 14 y 16, respectivamente. Por ejemplo,  la masa molecular del agua, que tiene dos átomos de oxígeno y un átomo de hidrógeno, es 18 (es decir, 2 +16). También se llama masa molecular relativa.",
+        "text":"Suma de las masas atómicas de todos los átomos de una molécula, con base en una escala en la cual las masas atómicas del hidrógeno, el carbono, el nitrógeno y el oxígeno son 1, 12, 14 y 16, respectivamente. Por ejemplo,  la masa molecular del agua, que tiene dos átomos de oxígeno y un átomo de hidrógeno, es 18 (es decir, 2 +16). También se llama masa molecular relativa."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":740563,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa molecular relativa",
+      "firstLetter":"m",
+      "prettyUrlName":"masa-molecular-relativa",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/742093.mp3"
+      },
+      "definition":{
+        "html":"Suma de las masas atómicas de todos los átomos de una molécula, con base en una escala en la cual las masas atómicas del hidrógeno, el carbono, el nitrógeno y el oxígeno son 1, 12, 14 y 16, respectivamente. Por ejemplo,  la masa molecular relativa del agua, que tiene dos átomos de oxígeno y un átomo de hidrógeno, es 18 (es decir, 2 +16). También se llama masa molecular.",
+        "text":"Suma de las masas atómicas de todos los átomos de una molécula, con base en una escala en la cual las masas atómicas del hidrógeno, el carbono, el nitrógeno y el oxígeno son 1, 12, 14 y 16, respectivamente. Por ejemplo,  la masa molecular relativa del agua, que tiene dos átomos de oxígeno y un átomo de hidrógeno, es 18 (es decir, 2 +16). También se llama masa molecular."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":415884,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa ósea",
+      "firstLetter":"m",
+      "prettyUrlName":"masa-osea",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713374.mp3"
+      },
+      "definition":{
+        "html":"Medida de la cantidad de minerales (por lo general, calcio y fósforo) que contiene cierto volumen de hueso. Las mediciones de la masa ósea se usan para diagnosticar la osteoporosis, determinar si los tratamientos contra la osteoporosis son eficaces y calcular la probabilidad de que los huesos se rompan. La masa ósea baja se puede presentar en pacientes tratados por cáncer. También se llama densidad mineral ósea, densidad ósea,  y DMO.",
+        "text":"Medida de la cantidad de minerales (por lo general, calcio y fósforo) que contiene cierto volumen de hueso. Las mediciones de la masa ósea se usan para diagnosticar la osteoporosis, determinar si los tratamientos contra la osteoporosis son eficaces y calcular la probabilidad de que los huesos se rompan. La masa ósea baja se puede presentar en pacientes tratados por cáncer. También se llama densidad mineral ósea, densidad ósea,  y DMO."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44804,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masa tumoral",
+      "firstLetter":"m",
+      "prettyUrlName":"masa-tumoral",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/728147.mp3"
+      },
+      "definition":{
+        "html":"Se refiere al número de células, el tamaño del tumor o la cantidad de cáncer en el cuerpo. También se llama carga tumoral.",
+        "text":"Se refiere al número de células, el tamaño del tumor o la cantidad de cáncer en el cuerpo. También se llama carga tumoral."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":462663,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masaje de aromaterapia",
+      "firstLetter":"m",
+      "prettyUrlName":"masaje-de-aromaterapia",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716879.mp3"
+      },
+      "definition":{
+        "html":"Tipo de medicina complementaria y alternativa que usa el roce y el masaje de la piel con aceites vegetales que despiden aromas (olores) fuertes y placenteros para promover la relajación, el sentimiento de bienestar y la curación.",
+        "text":"Tipo de medicina complementaria y alternativa que usa el roce y el masaje de la piel con aceites vegetales que despiden aromas (olores) fuertes y placenteros para promover la relajación, el sentimiento de bienestar y la curación."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":523329,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"masoprocol",
+      "firstLetter":"m",
+      "prettyUrlName":"masoprocol",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718498.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que se aplica sobre la piel para tratar crecimientos causados por la exposición al sol. Una forma de masoprocol que se toma por boca está en estudio para el  el tratamiento de cáncer de próstata. El masoprocol es un antioxidante y puede bloquear ciertas enzimas que el tumor necesita para crecer. También se llama ácido nordihidroguaiarético, Actinex,  y ANDG.",
+        "text":"Medicamento que se aplica sobre la piel para tratar crecimientos causados por la exposición al sol. Una forma de masoprocol que se toma por boca está en estudio para el  el tratamiento de cáncer de próstata. El masoprocol es un antioxidante y puede bloquear ciertas enzimas que el tumor necesita para crecer. También se llama ácido nordihidroguaiarético, Actinex,  y ANDG."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45777,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707224.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para extraer parte o toda la mama. Hay diferentes tipos de mastectomía que son distintas según la cantidad de tejido y ganglios linfáticos que se extirpan.",
+        "text":"Cirugía para extraer parte o toda la mama. Hay diferentes tipos de mastectomía que son distintas según la cantidad de tejido y ganglios linfáticos que se extirpan."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45105,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía parcial",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-parcial",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705003.mp3"
+      },
+      "definition":{
+        "html":"Operación quirúrgica para\nextirpar el cáncer\ny un poco del tejido que lo rodea, pero no la mama. Es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacer una biopsia. A veces también se extrae parte  del revestimiento de la pared torácica cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, cuadrantectomía, lumpectomía,  y mastectomía segmentaria.",
+        "text":"Operación quirúrgica para\nextirpar el cáncer\ny un poco del tejido que lo rodea, pero no la mama. Es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacer una biopsia. A veces también se extrae parte  del revestimiento de la pared torácica cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, cuadrantectomía, lumpectomía,  y mastectomía segmentaria."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44228,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía preventiva",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-preventiva",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704325.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para reducir el riesgo de padecer de cáncer de seno (mama) al extraer una o ambas mamas antes de que se presente la enfermedad. También se llama mastectomía profiláctica.",
+        "text":"Cirugía para reducir el riesgo de padecer de cáncer de seno (mama) al extraer una o ambas mamas antes de que se presente la enfermedad. También se llama mastectomía profiláctica."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44227,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía profiláctica",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-profilactica",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704322.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para reducir el riesgo de padecer de cáncer de seno (mama) al extraer una o ambas mamas antes de que se presente la enfermedad. También se llama mastectomía preventiva.",
+        "text":"Cirugía para reducir el riesgo de padecer de cáncer de seno (mama) al extraer una o ambas mamas antes de que se presente la enfermedad. También se llama mastectomía preventiva."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":304724,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía profiláctica bilateral",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-profilactica-bilateral",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/709911.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para extraer ambas mamas con el fin de reducir el riesgo de contraer cáncer de mama (seno).",
+        "text":"Cirugía para extraer ambas mamas con el fin de reducir el riesgo de contraer cáncer de mama (seno)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46548,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía radical",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-radical",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/708929.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para el cáncer de seno (mama) en la que se extrae la mama, los músculos del pecho y todos los ganglios linfáticos ubicados debajo del brazo. Durante muchos años, esta fue la operación de cáncer de mama usada más a menudo, pero es poco común en la actualidad. Los médicos consideran la mastectomía radical solo cuando el tumor se ha diseminado hasta los músculos del pecho. También se llama mastectomía radical de Halsted.",
+        "text":"Cirugía para el cáncer de seno (mama) en la que se extrae la mama, los músculos del pecho y todos los ganglios linfáticos ubicados debajo del brazo. Durante muchos años, esta fue la operación de cáncer de mama usada más a menudo, pero es poco común en la actualidad. Los médicos consideran la mastectomía radical solo cuando el tumor se ha diseminado hasta los músculos del pecho. También se llama mastectomía radical de Halsted."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44454,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía radical de Halsted",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-radical-de-halsted",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704612.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para el cáncer de seno (mama) en la que se extrae la mama, los músculos del pecho y todos los ganglios linfáticos ubicados debajo del brazo. Durante muchos años, esta fue la operación de cáncer de mama más a menudo, pero es poco común en la actualidad. Los médicos consideran la mastectomía radical solo cuando el tumor se ha diseminado a los músculos del pecho. También se llama mastectomía radical.",
+        "text":"Cirugía para el cáncer de seno (mama) en la que se extrae la mama, los músculos del pecho y todos los ganglios linfáticos ubicados debajo del brazo. Durante muchos años, esta fue la operación de cáncer de mama más a menudo, pero es poco común en la actualidad. Los médicos consideran la mastectomía radical solo cuando el tumor se ha diseminado a los músculos del pecho. También se llama mastectomía radical."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46285,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía radical modificada",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-radical-modificada",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707974.mp3"
+      },
+      "definition":{
+        "html":"Cirugía del cáncer de seno (mama) en la que se extraen la mama, la mayoría o todos los ganglios linfáticos debajo del brazo y el recubrimiento de los músculos del pecho. A veces, el cirujano también extrae parte de los músculos de la pared torácica.",
+        "text":"Cirugía del cáncer de seno (mama) en la que se extraen la mama, la mayoría o todos los ganglios linfáticos debajo del brazo y el recubrimiento de los músculos del pecho. A veces, el cirujano también extrae parte de los músculos de la pared torácica."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46575,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía segmentaria",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-segmentaria",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/708969.mp3"
+      },
+      "definition":{
+        "html":"Operación quirúrgica para\nextirpar el cáncer\ny un poco del tejido que lo rodea, pero no la mama. Es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacer una biopsia. A veces también se extrae parte  del revestimiento de la pared torácica cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, cuadrantectomía, lumpectomía,  y mastectomía parcial.",
+        "text":"Operación quirúrgica para\nextirpar el cáncer\ny un poco del tejido que lo rodea, pero no la mama. Es posible que se extraigan algunos ganglios linfáticos debajo del brazo para hacer una biopsia. A veces también se extrae parte  del revestimiento de la pared torácica cuando el cáncer está cerca de este. También se llama cirugía para conservar la mama, cirugía para preservar la mama, cuadrantectomía, lumpectomía,  y mastectomía parcial."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45071,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía simple",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-simple",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704959.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para extirpar toda la mama. También se pueden extirpar algunos ganglios linfáticos abajo del brazo. También se llama mastectomía total.",
+        "text":"Cirugía para extirpar toda la mama. También se pueden extirpar algunos ganglios linfáticos abajo del brazo. También se llama mastectomía total."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46620,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía total",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-total",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/708501.mp3"
+      },
+      "definition":{
+        "html":"Cirugía para extirpar toda la mama. También se pueden extirpar algunos ganglios linfáticos abajo del brazo. También se llama mastectomía simple.",
+        "text":"Cirugía para extirpar toda la mama. También se pueden extirpar algunos ganglios linfáticos abajo del brazo. También se llama mastectomía simple."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":644779,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastectomía tumescente",
+      "firstLetter":"m",
+      "prettyUrlName":"mastectomia-tumescente",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726303.mp3"
+      },
+      "definition":{
+        "html":"Tipo de operación para extirpar la mama. La mama se inyecta con una mezcla líquida de sales y pequeñas cantidades de dos medicamentos. Estos medicamentos son la lidocaína, para adormecer el área y epinefrina para estrechar los vasos sanguíneos y reducir los sangrados. La mastectomía tumescente, por lo general se usa en el tratamiento del cáncer de mama en las ancianas.",
+        "text":"Tipo de operación para extirpar la mama. La mama se inyecta con una mezcla líquida de sales y pequeñas cantidades de dos medicamentos. Estos medicamentos son la lidocaína, para adormecer el área y epinefrina para estrechar los vasos sanguíneos y reducir los sangrados. La mastectomía tumescente, por lo general se usa en el tratamiento del cáncer de mama en las ancianas."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":638194,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastitis",
+      "firstLetter":"m",
+      "prettyUrlName":"mastitis",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723082.mp3"
+      },
+      "definition":{
+        "html":"Afección por la que la mama se inflama. Por lo general la causa es una infección y se observa más a menudo en madres que dan el pecho.",
+        "text":"Afección por la que la mama se inflama. Por lo general la causa es una infección y se observa más a menudo en madres que dan el pecho."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44845,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastocito",
+      "firstLetter":"m",
+      "prettyUrlName":"mastocito",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/728173.mp3"
+      },
+      "definition":{
+        "html":"Tipo de glóbulo blanco que se encuentra en los tejidos conjuntivos de todo el cuerpo; en particular, debajo de la piel, cerca de los vasos sanguíneos y los vasos linfáticos, en los nervios, y en los pulmones y los intestinos. Los mastocitos tienen una función importante en la respuesta del sistema inmunitario a ciertas bacterias y parásitos; además, ayudan a controlar otros tipos de respuestas inmunitarias. Contienen sustancias químicas como la histamina, la heparina, las citocinas y los factores de crecimiento. Liberan estas sustancias químicas durante las reacciones alérgicas y ciertas respuestas inmunitarias. Estas sustancias tienen muchos efectos; por ejemplo, ensanchan los vasos sanguíneos y producen angiogénesis. Durante una respuesta alérgica, es posible que causen enrojecimiento (cara caliente y roja) y picazón. En grandes cantidades, también causan cólicos abdominales, dolor muscular, náuseas, vómitos, diarrea, presión arterial baja y choque. Los mastocitos forman parte del sistema inmunitario del cuerpo.",
+        "text":"Tipo de glóbulo blanco que se encuentra en los tejidos conjuntivos de todo el cuerpo; en particular, debajo de la piel, cerca de los vasos sanguíneos y los vasos linfáticos, en los nervios, y en los pulmones y los intestinos. Los mastocitos tienen una función importante en la respuesta del sistema inmunitario a ciertas bacterias y parásitos; además, ayudan a controlar otros tipos de respuestas inmunitarias. Contienen sustancias químicas como la histamina, la heparina, las citocinas y los factores de crecimiento. Liberan estas sustancias químicas durante las reacciones alérgicas y ciertas respuestas inmunitarias. Estas sustancias tienen muchos efectos; por ejemplo, ensanchan los vasos sanguíneos y producen angiogénesis. Durante una respuesta alérgica, es posible que causen enrojecimiento (cara caliente y roja) y picazón. En grandes cantidades, también causan cólicos abdominales, dolor muscular, náuseas, vómitos, diarrea, presión arterial baja y choque. Los mastocitos forman parte del sistema inmunitario del cuerpo."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44607,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastocitoma",
+      "firstLetter":"m",
+      "prettyUrlName":"mastocitoma",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704831.mp3"
+      },
+      "definition":{
+        "html":"Crecimiento o masa de mastocitos (un tipo de glóbulo blanco). Los tumores de mastocitos pueden afectar la piel, el tejido subcutáneo y el tejido muscular. También se llama tumor de mastocitos.",
+        "text":"Crecimiento o masa de mastocitos (un tipo de glóbulo blanco). Los tumores de mastocitos pueden afectar la piel, el tejido subcutáneo y el tejido muscular. También se llama tumor de mastocitos."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":455141,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastocitosis sistémica",
+      "firstLetter":"m",
+      "prettyUrlName":"mastocitosis-sistemica",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/715217.mp3"
+      },
+      "definition":{
+        "html":"Enfermedad poco frecuente en la que hay demasiados mastocitos (tipo de célula del sistema inmunitario) en la piel, los huesos, las articulaciones, los ganglios linfáticos, el hígado, el bazo y el aparato digestivo. Los mastocitos segregan productos químicos como la histamina que pueden causar enrojecimiento (cara caliente y roja), picazón, retortijones abdominales, dolor muscular, náuseas, vómitos, diarrea, presión arterial baja y conmoción.",
+        "text":"Enfermedad poco frecuente en la que hay demasiados mastocitos (tipo de célula del sistema inmunitario) en la piel, los huesos, las articulaciones, los ganglios linfáticos, el hígado, el bazo y el aparato digestivo. Los mastocitos segregan productos químicos como la histamina que pueden causar enrojecimiento (cara caliente y roja), picazón, retortijones abdominales, dolor muscular, náuseas, vómitos, diarrea, presión arterial baja y conmoción."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":789073,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastocitosis sistémica agresiva",
+      "firstLetter":"m",
+      "prettyUrlName":"mastocitosis-sistemica-agresiva",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/791511.mp3"
+      },
+      "definition":{
+        "html":"Afección poco frecuente por la que se acumulan demasiados mastocitos (tipo de glóbulos blancos) en ciertos tejidos y órganos del cuerpo, como la médula ósea, los ganglios linfáticos, los huesos, el hígado, el bazo y el intestino delgado. Es posible que la mastocitosis sistémica agresiva empeore rápidamente, y cause síntomas graves y dañe los órganos. A veces, se transforma en leucemia de mastocitos (un tipo muy infrecuente de leucemia). La mastocitosis sistémica agresiva por lo habitual se presenta en adultos.  También se llama MSA.",
+        "text":"Afección poco frecuente por la que se acumulan demasiados mastocitos (tipo de glóbulos blancos) en ciertos tejidos y órganos del cuerpo, como la médula ósea, los ganglios linfáticos, los huesos, el hígado, el bazo y el intestino delgado. Es posible que la mastocitosis sistémica agresiva empeore rápidamente, y cause síntomas graves y dañe los órganos. A veces, se transforma en leucemia de mastocitos (un tipo muy infrecuente de leucemia). La mastocitosis sistémica agresiva por lo habitual se presenta en adultos.  También se llama MSA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":789076,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"mastocitosis sistémica con neoplasia hematológica asociada",
+      "firstLetter":"m",
+      "prettyUrlName":"mastocitosis-sistemica-con-neoplasia-hematologica-asociada",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/791512.mp3"
+      },
+      "definition":{
+        "html":"Afección poco frecuente por la que se acumulan demasiados mastocitos (un tipo de glóbulos blancos) en ciertos tejidos y órganos del cuerpo, como la médula ósea, los ganglios linfáticos, los huesos, el hígado, el bazo y el intestino delgado, y los puede dañar. En la mastocitosis sistémica con neoplasia hematológica asociada, esta acumulación de mastocitos se presenta junto con otro trastorno sanguíneo; por lo común, un síndrome mielodisplásico, un trastorno mieloproliferativo o una leucemia mieloide aguda (LMA). La mastocitosis sistémica con neoplasia hematológica asociada por lo habitual se presenta en adultos. También se llama MS-NHA.",
+        "text":"Afección poco frecuente por la que se acumulan demasiados mastocitos (un tipo de glóbulos blancos) en ciertos tejidos y órganos del cuerpo, como la médula ósea, los ganglios linfáticos, los huesos, el hígado, el bazo y el intestino delgado, y los puede dañar. En la mastocitosis sistémica con neoplasia hematológica asociada, esta acumulación de mastocitos se presenta junto con otro trastorno sanguíneo; por lo común, un síndrome mielodisplásico, un trastorno mieloproliferativo o una leucemia mieloide aguda (LMA). La mastocitosis sistémica con neoplasia hematológica asociada por lo habitual se presenta en adultos. También se llama MS-NHA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":792758,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MAT",
+      "firstLetter":"m",
+      "prettyUrlName":"mat",
+      "pronunciation":null,
+      "definition":{
+        "html":"Trastorno de la médula ósea que se presenta en recién nacidos con síndrome de Down. Se caracteriza por células hematopoyéticas anormales e inmaduras en la sangre y la médula ósea (en especial, las células que participan en la producción de plaquetas). Es posible que el hígado sea más grande de lo normal. Las mutaciones (cambios) en un gen que se llama GATA1 producen la MAT, que por lo general desaparece de forma espontánea dentro de los 3 primeros meses de vida. A veces, la MAT causa problemas graves que ponen en peligro la vida, como trastornos hemorrágicos, infecciones, insuficiencia cardíaca, renal y hepática, y acumulación anormal de líquido en los tejidos que cubren los órganos del cuerpo. Los lactantes con MAT tienen un aumento de riesgo de presentar leucemia mieloide aguda (LMA) antes de los 3 años. También se llama leucemia transitoria, mielopoyesis anormal transitoria, TMT,  y trastorno mieloproliferativo transitorio.",
+        "text":"Trastorno de la médula ósea que se presenta en recién nacidos con síndrome de Down. Se caracteriza por células hematopoyéticas anormales e inmaduras en la sangre y la médula ósea (en especial, las células que participan en la producción de plaquetas). Es posible que el hígado sea más grande de lo normal. Las mutaciones (cambios) en un gen que se llama GATA1 producen la MAT, que por lo general desaparece de forma espontánea dentro de los 3 primeros meses de vida. A veces, la MAT causa problemas graves que ponen en peligro la vida, como trastornos hemorrágicos, infecciones, insuficiencia cardíaca, renal y hepática, y acumulación anormal de líquido en los tejidos que cubren los órganos del cuerpo. Los lactantes con MAT tienen un aumento de riesgo de presentar leucemia mieloide aguda (LMA) antes de los 3 años. También se llama leucemia transitoria, mielopoyesis anormal transitoria, TMT,  y trastorno mieloproliferativo transitorio."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46605,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"materia fecal",
+      "firstLetter":"m",
+      "prettyUrlName":"materia-fecal",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731677.mp3"
+      },
+      "definition":{
+        "html":"Material de desecho que descargan los intestinos. La materia fecal está compuesta de alimentos que no se digirieron, bacterias, moco y células del revestimiento de los intestinos. También se llama heces.",
+        "text":"Material de desecho que descargan los intestinos. La materia fecal está compuesta de alimentos que no se digirieron, bacterias, moco y células del revestimiento de los intestinos. También se llama heces."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":409764,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"material de contraste",
+      "firstLetter":"m",
+      "prettyUrlName":"material-de-contraste",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/730807.mp3"
+      },
+      "definition":{
+        "html":"Tinte u otra sustancia que permite observar áreas anormales del interior del cuerpo. Se administra por inyección en una vena, mediante enema o por la boca. El material de contraste puede usarse con los rayos X, la exploración por tomografía computada, la IRM u otras pruebas de imaginología.",
+        "text":"Tinte u otra sustancia que permite observar áreas anormales del interior del cuerpo. Se administra por inyección en una vena, mediante enema o por la boca. El material de contraste puede usarse con los rayos X, la exploración por tomografía computada, la IRM u otras pruebas de imaginología."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":446106,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"maternal",
+      "firstLetter":"m",
+      "prettyUrlName":"maternal",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714648.mp3"
+      },
+      "definition":{
+        "html":"Relacionado con la madre, proveniente de la madre o relacionado a través de la madre.",
+        "text":"Relacionado con la madre, proveniente de la madre o relacionado a través de la madre."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44473,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"matriz",
+      "firstLetter":"m",
+      "prettyUrlName":"matriz",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704630.mp3"
+      },
+      "definition":{
+        "html":"Órgano hueco en forma de pera en la pelvis de la mujer. La matriz es donde crece y se desarrolla el feto (bebé que no ha nacido). También se llama útero.",
+        "text":"Órgano hueco en forma de pera en la pelvis de la mujer. La matriz es donde crece y se desarrolla el feto (bebé que no ha nacido). También se llama útero."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635747,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Matulane",
+      "firstLetter":"m",
+      "prettyUrlName":"matulane",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722849.mp3"
+      },
+      "definition":{
+        "html":"Medicamento que se usa con otros medicamentos para tratar el linfoma de Hodgkin en estadio avanzado. También está en estudio para el tratamiento de otros tipos de cáncer. Matulane daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante. También se llama clorhidrato de procarbazina.",
+        "text":"Medicamento que se usa con otros medicamentos para tratar el linfoma de Hodgkin en estadio avanzado. También está en estudio para el tratamiento de otros tipos de cáncer. Matulane daña el ADN de las células y es posible que destruya células cancerosas. Es un tipo de alquilante. También se llama clorhidrato de procarbazina."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":579876,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Maxamine",
+      "firstLetter":"m",
+      "prettyUrlName":"maxamine",
+      "pronunciation":{
+        "key":null,
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720553.mp3"
+      },
+      "definition":{
+        "html":"Sustancia en estudio para el tratamiento de algunos tipos de cancer y otras afecciones. Cuando se usa en combinación con la interleucina-2, Maxamine puede ayudar a que algunas células inmunitarias encuentren y destruyan células tumorales. Es un tipo de modificador de la respuesta biológica. También se llama diclorhidrato de histamina.",
+        "text":"Sustancia en estudio para el tratamiento de algunos tipos de cancer y otras afecciones. Cuando se usa en combinación con la interleucina-2, Maxamine puede ayudar a que algunas células inmunitarias encuentren y destruyan células tumorales. Es un tipo de modificador de la respuesta biológica. También se llama diclorhidrato de histamina."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":561602,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MC1R",
+      "firstLetter":"m",
+      "prettyUrlName":"mc1r",
+      "pronunciation":null,
+      "definition":{
+        "html":"Proteína que se encuentra en las células de la piel y el ojo que elaboran melanina (un pigmento que da color a la piel y ayuda a protegerla del daño que causa la luz ultravioleta). Las personas con ciertos cambios en el gen para el MC1R corren un riesgo más alto de contraer melanoma (cáncer de piel que empieza en los melanocitos). También se llama receptor de melanotropina y receptor tipo 1 de melacortina.",
+        "text":"Proteína que se encuentra en las células de la piel y el ojo que elaboran melanina (un pigmento que da color a la piel y ayuda a protegerla del daño que causa la luz ultravioleta). Las personas con ciertos cambios en el gen para el MC1R corren un riesgo más alto de contraer melanoma (cáncer de piel que empieza en los melanocitos). También se llama receptor de melanotropina y receptor tipo 1 de melacortina."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44384,
+      "language":"es",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"MCA",
+      "firstLetter":"m",
+      "prettyUrlName":"mca",
+      "pronunciation":null,
+      "definition":{
+        "html":"Formas de tratamiento que se usan además de (complementaria) o en vez de (alternativa) los tratamientos estándares. Estas prácticas en general no se consideran enfoques médicos estándares. Los tratamientos estándares pasan por un proceso de investigación largo y cuidadoso para comprobar que son seguros y eficaces, pero no se sabe mucho de la mayor parte de tipos de MCA. La MCA puede incluir tomar suplementos alimentarios, megadosis de vitaminas, preparados de hierbas, tés especiales, acupuntura, terapia de masaje, terapia con imanes, curación espiritual y meditación. También se llama medicina complementaria y alternativa.",
+        "text":"Formas de tratamiento que se usan además de (complementaria) o en vez de (alternativa) los tratamientos estándares. Estas prácticas en general no se consideran enfoques médicos estándares. Los tratamientos estándares pasan por un proceso de investigación largo y cuidadoso para comprobar que son seguros y eficaces, pero no se sabe mucho de la mayor parte de tipos de MCA. La MCA puede incluir tomar suplementos alimentarios, megadosis de vitaminas, preparados de hierbas, tés especiales, acupuntura, terapia de masaje, terapia con imanes, curación espiritual y meditación. También se llama medicina complementaria y alternativa."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    }
+  ],
+  "links":null
+}

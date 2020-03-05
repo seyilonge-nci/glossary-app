@@ -11,7 +11,12 @@ import "./styles/dictionaries.scss";
 
 const App = ({ tracking }) => {
   // this should be a DUMB component that just displays our display(group) components
-  const { HomePath, DefinitionPath } = useAppPaths();
+  const {
+    HomePath,
+    DefinitionPath,
+    ExpandPath,
+    ExpandPathNoParam
+  } = useAppPaths();
 
   //example tracking setup for pageload
   useEffect(() => {
@@ -23,6 +28,8 @@ const App = ({ tracking }) => {
       <Routes >
         <Route path={ HomePath() } element={<Home />} />
         <Route path={ DefinitionPath() } element={<Definition />} />
+        <Route path={ ExpandPath() } element={<Home />} />
+        <Route path={ ExpandPathNoParam() } element={<Home />} />
       </Routes>
     </Router>
   );

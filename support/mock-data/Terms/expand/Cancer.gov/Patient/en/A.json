@@ -1,0 +1,2252 @@
+{
+  "meta":{
+    "totalResults":726,
+    "from":0
+  },
+  "results":[
+    {
+      "termId":46722,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"A33",
+      "firstLetter":"a",
+      "prettyUrlName":"a33",
+      "pronunciation":null,
+      "definition":{
+        "html":"A type of monoclonal antibody used in cancer detection or therapy. Monoclonal antibodies are laboratory-produced substances that can locate and bind to cancer cells.",
+        "text":"A type of monoclonal antibody used in cancer detection or therapy. Monoclonal antibodies are laboratory-produced substances that can locate and bind to cancer cells."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":658765,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"A6",
+      "firstLetter":"a",
+      "prettyUrlName":"a6",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance being studied in the treatment of cancer. A6 is a small piece of a protein called urokinase (an enzyme that dissolves blood clots or prevents them from forming). It is a type of antiangiogenesis agent and a type of antimetastatic agent. Also called urokinase plasminogen activator (uPA)-derived peptide A6.",
+        "text":"A substance being studied in the treatment of cancer. A6 is a small piece of a protein called urokinase (an enzyme that dissolves blood clots or prevents them from forming). It is a type of antiangiogenesis agent and a type of antimetastatic agent. Also called urokinase plasminogen activator (uPA)-derived peptide A6."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":367452,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AAP",
+      "firstLetter":"a",
+      "prettyUrlName":"aap",
+      "pronunciation":null,
+      "definition":{
+        "html":"An enzyme that is normally found in healthy kidneys. It may be found at high levels in the urine when there are kidney problems.  It is used as a biomarker to detect damage to the kidneys caused by drugs and other agents. It may also be used to diagnose certain kidney and liver disorders. Also called alanine aminopeptidase.",
+        "text":"An enzyme that is normally found in healthy kidneys. It may be found at high levels in the urine when there are kidney problems.  It is used as a biomarker to detect damage to the kidneys caused by drugs and other agents. It may also be used to diagnose certain kidney and liver disorders. Also called alanine aminopeptidase."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":797047,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AAT deficiency",
+      "firstLetter":"a",
+      "prettyUrlName":"aat-deficiency",
+      "pronunciation":{
+        "key":"(… deh-FIH-shun-see)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/798897.mp3"
+      },
+      "definition":{
+        "html":"An inherited condition in which the body either does not make enough of a protein called alpha-1 antitrypsin (AAT) or makes an abnormal form of AAT. AAT is made in the liver and helps protect the body’s organs, especially the liver and lungs, from damage. AAT deficiency can lead to serious lung conditions (including emphysema and bronchiectasis) and liver conditions (including cirrhosis, hepatitis, and liver cancer). It may also cause inflammation of the blood vessels and a rare skin condition that causes painful lumps on or under the skin. Lung problems caused by AAT deficiency almost always occur in adults, but liver and skin problems may occur in both adults and children. AAT deficiency is caused by a mutation (change) in a gene called SERPINA1. Also called alpha-1 antitrypsin deficiency.",
+        "text":"An inherited condition in which the body either does not make enough of a protein called alpha-1 antitrypsin (AAT) or makes an abnormal form of AAT. AAT is made in the liver and helps protect the body’s organs, especially the liver and lungs, from damage. AAT deficiency can lead to serious lung conditions (including emphysema and bronchiectasis) and liver conditions (including cirrhosis, hepatitis, and liver cancer). It may also cause inflammation of the blood vessels and a rare skin condition that causes painful lumps on or under the skin. Lung problems caused by AAT deficiency almost always occur in adults, but liver and skin problems may occur in both adults and children. AAT deficiency is caused by a mutation (change) in a gene called SERPINA1. Also called alpha-1 antitrypsin deficiency."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":367424,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abarelix",
+      "firstLetter":"a",
+      "prettyUrlName":"abarelix",
+      "pronunciation":{
+        "key":"(uh-BAYR-eh-lix)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711583.mp3"
+      },
+      "definition":{
+        "html":"A drug used to reduce the amount of testosterone made in patients with advanced symptomatic prostate cancer for which no other treatment options are available. It belongs to the family of drugs called gonadotropin-releasing hormone (GnRH) antagonists. Also called Plenaxis.",
+        "text":"A drug used to reduce the amount of testosterone made in patients with advanced symptomatic prostate cancer for which no other treatment options are available. It belongs to the family of drugs called gonadotropin-releasing hormone (GnRH) antagonists. Also called Plenaxis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":729767,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABCA1 pathway",
+      "firstLetter":"a",
+      "prettyUrlName":"abca1-pathway",
+      "pronunciation":{
+        "key":"(… PATH-way)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/738161.mp3"
+      },
+      "definition":{
+        "html":"Describes a group of proteins in a cell that work together to help remove extra cholesterol and certain fats from tissue in the body. Changes in the ABCA1 pathway may lead to diseases of the heart and blood vessels. Drugs or substances that affect this pathway are being studied in the prevention and treatment of some diseases.",
+        "text":"Describes a group of proteins in a cell that work together to help remove extra cholesterol and certain fats from tissue in the body. Changes in the ABCA1 pathway may lead to diseases of the heart and blood vessels. Drugs or substances that affect this pathway are being studied in the prevention and treatment of some diseases."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":257205,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABCD rating",
+      "firstLetter":"a",
+      "prettyUrlName":"abcd-rating",
+      "pronunciation":{
+        "key":"(... RAY-ting)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731498.mp3"
+      },
+      "definition":{
+        "html":"A staging system for prostate cancer that uses ABCD. “A” and “B” refer to cancer that is confined to the prostate. “C” refers to cancer that has grown out of the prostate but has not spread to lymph nodes or other places in the body. “D” refers to cancer that has spread to lymph nodes or to other places in the body. Also called Jewett staging system and Whitmore-Jewett staging system.",
+        "text":"A staging system for prostate cancer that uses ABCD. “A” and “B” refer to cancer that is confined to the prostate. “C” refers to cancer that has grown out of the prostate but has not spread to lymph nodes or other places in the body. “D” refers to cancer that has spread to lymph nodes or to other places in the body. Also called Jewett staging system and Whitmore-Jewett staging system."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45070,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abdomen",
+      "firstLetter":"a",
+      "prettyUrlName":"abdomen",
+      "pronunciation":{
+        "key":"(AB-doh-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704957.mp3"
+      },
+      "definition":{
+        "html":"The area of the body that contains the pancreas, stomach, intestines, liver, gallbladder, and other organs.",
+        "text":"The area of the body that contains the pancreas, stomach, intestines, liver, gallbladder, and other organs."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46684,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abdominal",
+      "firstLetter":"a",
+      "prettyUrlName":"abdominal",
+      "pronunciation":{
+        "key":"(ab-DAH-mih-nul)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/731719.mp3"
+      },
+      "definition":{
+        "html":"Having to do with the abdomen, which is the part of the body between the chest and the hips that contains the pancreas, stomach, intestines, liver, gallbladder, and other organs.",
+        "text":"Having to do with the abdomen, which is the part of the body between the chest and the hips that contains the pancreas, stomach, intestines, liver, gallbladder, and other organs."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":649619,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abdominal ultrasound",
+      "firstLetter":"a",
+      "prettyUrlName":"abdominal-ultrasound",
+      "pronunciation":{
+        "key":"(ab-DAH-mih-nul UL-truh-sownd)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725697.mp3"
+      },
+      "definition":{
+        "html":"A procedure used to examine the organs in the abdomen. An ultrasound transducer (probe) is pressed firmly against the skin of the abdomen. High-energy sound waves from the transducer bounce off tissues and create echoes. The echoes are sent to a computer, which makes a picture called a sonogram. Also called transabdominal ultrasound.",
+        "text":"A procedure used to examine the organs in the abdomen. An ultrasound transducer (probe) is pressed firmly against the skin of the abdomen. High-energy sound waves from the transducer bounce off tissues and create echoes. The echoes are sent to a computer, which makes a picture called a sonogram. Also called transabdominal ultrasound."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":455670,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abdominal x-ray",
+      "firstLetter":"a",
+      "prettyUrlName":"abdominal-x-ray",
+      "pronunciation":{
+        "key":"(ab-DAH-mih-nul EX-ray)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/715234.mp3"
+      },
+      "definition":{
+        "html":"An x-ray of the organs inside the abdomen. An x-ray is a type of radiation that can pass through the body and onto film, making pictures of areas inside the body. X-rays may be used to help diagnose disease.",
+        "text":"An x-ray of the organs inside the abdomen. An x-ray is a type of radiation that can pass through the body and onto film, making pictures of areas inside the body. X-rays may be used to help diagnose disease."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":377733,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abdominoperineal resection",
+      "firstLetter":"a",
+      "prettyUrlName":"abdominoperineal-resection",
+      "pronunciation":{
+        "key":"(ab-DAH-mih-noh-PAYR-ih-NEE-ul ree-SEK-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713471.mp3"
+      },
+      "definition":{
+        "html":"Surgery to remove the anus, the rectum, and part of the sigmoid colon through an incision made in the abdomen. The end of the intestine is attached to an opening in the surface of the abdomen and body waste is collected in a disposable bag outside of the body. This opening is called a colostomy. Lymph nodes that contain cancer may also be removed during this operation.",
+        "text":"Surgery to remove the anus, the rectum, and part of the sigmoid colon through an incision made in the abdomen. The end of the intestine is attached to an opening in the surface of the abdomen and body waste is collected in a disposable bag outside of the body. This opening is called a colostomy. Lymph nodes that contain cancer may also be removed during this operation."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641719,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Abegrin",
+      "firstLetter":"a",
+      "prettyUrlName":"abegrin",
+      "pronunciation":{
+        "key":"(A-beh-grin)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722776.mp3"
+      },
+      "definition":{
+        "html":"A substance being studied in the treatment of some types of cancer and other conditions. Abegrin binds to a protein on the surface of blood vessels and may prevent the growth of new blood vessels that tumors need to grow. It may also prevent the spread of cancer. It is a type of antiangiogenesis agent, a type of metastasis inhibitor, and a type of monoclonal antibody. Also called etaracizumab, humanized monoclonal antibody MEDI-522,  and MEDI-522.",
+        "text":"A substance being studied in the treatment of some types of cancer and other conditions. Abegrin binds to a protein on the surface of blood vessels and may prevent the growth of new blood vessels that tumors need to grow. It may also prevent the spread of cancer. It is a type of antiangiogenesis agent, a type of metastasis inhibitor, and a type of monoclonal antibody. Also called etaracizumab, humanized monoclonal antibody MEDI-522,  and MEDI-522."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":791149,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abemaciclib",
+      "firstLetter":"a",
+      "prettyUrlName":"abemaciclib",
+      "pronunciation":{
+        "key":"(uh-BEH-muh-SY-klib)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/792245.mp3"
+      },
+      "definition":{
+        "html":"A drug used to treat hormone-receptor positive (HR+), HER2-negative (HER2-) breast cancer that is advanced or has spread to other parts of the body. It is used with an aromatase inhibitor in postmenopausal women who have not been treated with hormone therapy. It is used with fulvestrant in women whose disease got worse after treatment with hormone therapy. Abemaciclib is also used alone in men and women whose disease got worse after treatment with hormone therapy and previous chemotherapy. It is also being studied in the treatment of other types of cancer. Abemaciclib blocks certain proteins, which may help keep cancer cells from growing. It is a type of cyclin-dependent kinase inhibitor. Also called Verzenio.",
+        "text":"A drug used to treat hormone-receptor positive (HR+), HER2-negative (HER2-) breast cancer that is advanced or has spread to other parts of the body. It is used with an aromatase inhibitor in postmenopausal women who have not been treated with hormone therapy. It is used with fulvestrant in women whose disease got worse after treatment with hormone therapy. Abemaciclib is also used alone in men and women whose disease got worse after treatment with hormone therapy and previous chemotherapy. It is also being studied in the treatment of other types of cancer. Abemaciclib blocks certain proteins, which may help keep cancer cells from growing. It is a type of cyclin-dependent kinase inhibitor. Also called Verzenio."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":524194,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"aberrant crypt foci",
+      "firstLetter":"a",
+      "prettyUrlName":"aberrant-crypt-foci",
+      "pronunciation":{
+        "key":"(uh-BAYR-unt kript FOH-sy)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718782.mp3"
+      },
+      "definition":{
+        "html":"Clusters of abnormal tube-like glands in the lining of the colon and rectum. Aberrant crypt foci form before colorectal polyps and are one of the earliest changes that can be seen in the colon that may lead to cancer. Also called ACF.",
+        "text":"Clusters of abnormal tube-like glands in the lining of the colon and rectum. Aberrant crypt foci form before colorectal polyps and are one of the earliest changes that can be seen in the colon that may lead to cancer. Also called ACF."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":367434,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABI-007",
+      "firstLetter":"a",
+      "prettyUrlName":"abi-007",
+      "pronunciation":null,
+      "definition":{
+        "html":"A drug used to treat breast cancer that has come back or spread to other parts of the body. It is also used with carboplatin to treat advanced non-small cell lung cancer in patients who are not able to have surgery or radiation therapy. It is also used with gemcitabine hydrochloride to treat pancreatic cancer that has spread to other parts of the body. It is being studied in the treatment of other types of cancer. ABI-007 is a form of the anticancer drug paclitaxel and may cause fewer side effects than paclitaxel. It stops cancer cells from growing and dividing, and may kill them. It is a type of mitotic inhibitor and a type of antimicrotubule agent. Also called Abraxane, nanoparticle paclitaxel, paclitaxel albumin-stabilized nanoparticle formulation,  and protein-bound paclitaxel.",
+        "text":"A drug used to treat breast cancer that has come back or spread to other parts of the body. It is also used with carboplatin to treat advanced non-small cell lung cancer in patients who are not able to have surgery or radiation therapy. It is also used with gemcitabine hydrochloride to treat pancreatic cancer that has spread to other parts of the body. It is being studied in the treatment of other types of cancer. ABI-007 is a form of the anticancer drug paclitaxel and may cause fewer side effects than paclitaxel. It stops cancer cells from growing and dividing, and may kill them. It is a type of mitotic inhibitor and a type of antimicrotubule agent. Also called Abraxane, nanoparticle paclitaxel, paclitaxel albumin-stabilized nanoparticle formulation,  and protein-bound paclitaxel."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641969,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abiraterone acetate",
+      "firstLetter":"a",
+      "prettyUrlName":"abiraterone-acetate",
+      "pronunciation":{
+        "key":"(A-bih-RA-teh-rone A-seh-tayt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722909.mp3"
+      },
+      "definition":{
+        "html":"A drug used with prednisone to treat prostate cancer that has spread to other parts of the body. It is used in patients whose cancer is castration resistant (has not responded to treatments that lower testosterone levels) or whose cancer is high risk and castration sensitive (has responded to treatments that lower testosterone levels).  It is also being studied in the treatment of other types of cancer. Abiraterone acetate lowers the amount of androgens (male hormones), such as testosterone, made by the body. This may stop the growth of cancer cells that need androgens to grow. Abiraterone acetate is a type of antiandrogen. Also called Zytiga.",
+        "text":"A drug used with prednisone to treat prostate cancer that has spread to other parts of the body. It is used in patients whose cancer is castration resistant (has not responded to treatments that lower testosterone levels) or whose cancer is high risk and castration sensitive (has responded to treatments that lower testosterone levels).  It is also being studied in the treatment of other types of cancer. Abiraterone acetate lowers the amount of androgens (male hormones), such as testosterone, made by the body. This may stop the growth of cancer cells that need androgens to grow. Abiraterone acetate is a type of antiandrogen. Also called Zytiga."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":335061,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ablation",
+      "firstLetter":"a",
+      "prettyUrlName":"ablation",
+      "pronunciation":{
+        "key":"(a-BLAY-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711346.mp3"
+      },
+      "definition":{
+        "html":"In medicine, the removal or destruction of a body part or tissue or its function. Ablation may be performed by surgery, hormones, drugs, radiofrequency, heat, or other methods.",
+        "text":"In medicine, the removal or destruction of a body part or tissue or its function. Ablation may be performed by surgery, hormones, drugs, radiofrequency, heat, or other methods."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44636,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abnormal",
+      "firstLetter":"a",
+      "prettyUrlName":"abnormal",
+      "pronunciation":{
+        "key":"(ab-NOR-mul)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704875.mp3"
+      },
+      "definition":{
+        "html":"Not normal. Describes a state, condition, or behavior that is unusual or different from what is considered normal. An abnormal lesion or growth in or on the body may be benign (not cancer), precancerous or premalignant (likely to become cancer), or malignant (cancer).",
+        "text":"Not normal. Describes a state, condition, or behavior that is unusual or different from what is considered normal. An abnormal lesion or growth in or on the body may be benign (not cancer), precancerous or premalignant (likely to become cancer), or malignant (cancer)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":650886,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABO blood group system",
+      "firstLetter":"a",
+      "prettyUrlName":"abo-blood-group-system",
+      "pronunciation":{
+        "key":"(… blud groop SIS-tem)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726419.mp3"
+      },
+      "definition":{
+        "html":"A system used to group human blood into different types, based on the presence or absence of certain markers on the surface of red blood cells. The four main blood types are A, B, O, and AB.  For a blood transfusion, the ABO blood group system is used to match the blood type of the donor and the person receiving the transfusion. People with blood type O can donate blood to anyone and are called universal donors. People with blood type AB can accept blood from all donors and are called universal recipients. People with type A or B can receive matching blood or type O blood.",
+        "text":"A system used to group human blood into different types, based on the presence or absence of certain markers on the surface of red blood cells. The four main blood types are A, B, O, and AB.  For a blood transfusion, the ABO blood group system is used to match the blood type of the donor and the person receiving the transfusion. People with blood type O can donate blood to anyone and are called universal donors. People with blood type AB can accept blood from all donors and are called universal recipients. People with type A or B can receive matching blood or type O blood."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":683253,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABR test",
+      "firstLetter":"a",
+      "prettyUrlName":"abr-test",
+      "pronunciation":{
+        "key":"(... test)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/734617.mp3"
+      },
+      "definition":{
+        "html":"A test used to detect some types of hearing loss, such as hearing loss caused by injury or tumors that affect nerves involved in hearing.  Electrodes are placed on the head and certain tones or clicking sounds are made. The electrodes measure nerve signals in the brain when it reacts to the sounds. Also called auditory brain stem response test, BAER test,  and brain stem auditory evoked response test.",
+        "text":"A test used to detect some types of hearing loss, such as hearing loss caused by injury or tumors that affect nerves involved in hearing.  Electrodes are placed on the head and certain tones or clicking sounds are made. The electrodes measure nerve signals in the brain when it reacts to the sounds. Also called auditory brain stem response test, BAER test,  and brain stem auditory evoked response test."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":488416,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Abraxane",
+      "firstLetter":"a",
+      "prettyUrlName":"abraxane",
+      "pronunciation":{
+        "key":"(uh-BRAK-sayn)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/718415.mp3"
+      },
+      "definition":{
+        "html":"A drug used to treat breast cancer that has come back or spread to other parts of the body. It is also used with carboplatin to treat advanced non-small cell lung cancer in patients who are not able to have surgery or radiation therapy. It is also used with gemcitabine hydrochloride to treat pancreatic cancer that has spread to other parts of the body. It is being studied in the treatment of other types of cancer. Abraxane is a form of the anticancer drug paclitaxel and may cause fewer side effects than paclitaxel. It stops cancer cells from growing and dividing, and may kill them. It is a type of mitotic inhibitor and a type of antimicrotubule agent. Also called ABI-007, nanoparticle paclitaxel, paclitaxel albumin-stabilized nanoparticle formulation,  and protein-bound paclitaxel.",
+        "text":"A drug used to treat breast cancer that has come back or spread to other parts of the body. It is also used with carboplatin to treat advanced non-small cell lung cancer in patients who are not able to have surgery or radiation therapy. It is also used with gemcitabine hydrochloride to treat pancreatic cancer that has spread to other parts of the body. It is being studied in the treatment of other types of cancer. Abraxane is a form of the anticancer drug paclitaxel and may cause fewer side effects than paclitaxel. It stops cancer cells from growing and dividing, and may kill them. It is a type of mitotic inhibitor and a type of antimicrotubule agent. Also called ABI-007, nanoparticle paclitaxel, paclitaxel albumin-stabilized nanoparticle formulation,  and protein-bound paclitaxel."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":785688,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Abrikossoff tumor",
+      "firstLetter":"a",
+      "prettyUrlName":"abrikossoff-tumor",
+      "pronunciation":{
+        "key":"(AH-bree-KAH-sof TOO-mer)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/789268.mp3"
+      },
+      "definition":{
+        "html":"A rare type of soft tissue tumor that usually begins in Schwann cells (cells that hold nerve cells in place). It can occur anywhere in the body, but it usually occurs in or under the skin of the head and neck (especially the mouth or tongue). It may also occur in the chest, breast, esophagus, stomach, or other internal organ. Most Abrikossoff tumors are benign (not cancer), but some may be malignant (cancer) and spread quickly to nearby tissue. They usually occur in middle-aged adults. Also called granular cell tumor.",
+        "text":"A rare type of soft tissue tumor that usually begins in Schwann cells (cells that hold nerve cells in place). It can occur anywhere in the body, but it usually occurs in or under the skin of the head and neck (especially the mouth or tongue). It may also occur in the chest, breast, esophagus, stomach, or other internal organ. Most Abrikossoff tumors are benign (not cancer), but some may be malignant (cancer) and spread quickly to nearby tissue. They usually occur in middle-aged adults. Also called granular cell tumor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44786,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"abscess",
+      "firstLetter":"a",
+      "prettyUrlName":"abscess",
+      "pronunciation":{
+        "key":"(AB-ses)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705967.mp3"
+      },
+      "definition":{
+        "html":"An enclosed collection of pus in tissues, organs, or confined spaces in the body. An abscess is a sign of infection and is usually swollen and inflamed.",
+        "text":"An enclosed collection of pus in tissues, organs, or confined spaces in the body. An abscess is a sign of infection and is usually swollen and inflamed."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":729976,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"absolute neutrophil count",
+      "firstLetter":"a",
+      "prettyUrlName":"absolute-neutrophil-count",
+      "pronunciation":{
+        "key":"(AB-soh-loot NOO-troh-fil kownt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/741057.mp3"
+      },
+      "definition":{
+        "html":"A measure of the number of neutrophils in the blood. Neutrophils are a type of white blood cell. They help the body fight infection. An absolute neutrophil count may be used to check for infection, inflammation, leukemia, and other conditions. The lower a person's absolute neutrophil count is, the higher the risk is of getting an infection.   Having an absolute neutrophil count of less than 500 means there is a high risk of getting an infection.  Cancer treatment, such as chemotherapy, may reduce the absolute neutrophil count. Also called ANC.",
+        "text":"A measure of the number of neutrophils in the blood. Neutrophils are a type of white blood cell. They help the body fight infection. An absolute neutrophil count may be used to check for infection, inflammation, leukemia, and other conditions. The lower a person's absolute neutrophil count is, the higher the risk is of getting an infection.   Having an absolute neutrophil count of less than 500 means there is a high risk of getting an infection.  Cancer treatment, such as chemotherapy, may reduce the absolute neutrophil count. Also called ANC."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":666196,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"absolute risk",
+      "firstLetter":"a",
+      "prettyUrlName":"absolute-risk",
+      "pronunciation":{
+        "key":"(AB-soh-loot risk)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725802.mp3"
+      },
+      "definition":{
+        "html":"A measure of the risk of a certain event happening. In cancer research, it is the likelihood that a person who is free of a specific type of cancer at a given age will develop that cancer over a certain period of time. For example, a woman 35 years of age, with no known risk factors for breast cancer, has an absolute risk of getting breast cancer over a lifetime of 90 years of about 13.5%, meaning one out of every seven women will develop breast cancer.",
+        "text":"A measure of the risk of a certain event happening. In cancer research, it is the likelihood that a person who is free of a specific type of cancer at a given age will develop that cancer over a certain period of time. For example, a woman 35 years of age, with no known risk factors for breast cancer, has an absolute risk of getting breast cancer over a lifetime of 90 years of about 13.5%, meaning one out of every seven women will develop breast cancer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":463702,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"absorption",
+      "firstLetter":"a",
+      "prettyUrlName":"absorption",
+      "pronunciation":{
+        "key":"(ub-SORP-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716907.mp3"
+      },
+      "definition":{
+        "html":"The process of taking nutrients from the digestive system into the blood so they can be used in the body.",
+        "text":"The process of taking nutrients from the digestive system into the blood so they can be used in the body."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":533413,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABT-263",
+      "firstLetter":"a",
+      "prettyUrlName":"abt-263",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance being studied in the treatment of lymphomas and other types of cancer. It blocks some of the enzymes that keep cancer cells from dying. It is a type of Bcl-2 family inhibitor. Also called navitoclax.",
+        "text":"A substance being studied in the treatment of lymphomas and other types of cancer. It blocks some of the enzymes that keep cancer cells from dying. It is a type of Bcl-2 family inhibitor. Also called navitoclax."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":367468,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABT-510",
+      "firstLetter":"a",
+      "prettyUrlName":"abt-510",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance being studied in the treatment of cancer. It is a type of angiogenesis inhibitor.",
+        "text":"A substance being studied in the treatment of cancer. It is a type of angiogenesis inhibitor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":256536,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABT-751",
+      "firstLetter":"a",
+      "prettyUrlName":"abt-751",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance that is being studied in the treatment of cancer. It belongs to the family of drugs called sulfonamides.",
+        "text":"A substance that is being studied in the treatment of cancer. It belongs to the family of drugs called sulfonamides."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641976,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABT-869",
+      "firstLetter":"a",
+      "prettyUrlName":"abt-869",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance being studied in the treatment of several types of cancer. ABT-869 blocks the action of several growth factors. It may also block the growth of new blood vessels that tumors need to grow and may cause cancer cells to die. It is a type of receptor tyrosine kinase inhibitor and a type of angiogensis inhibitor. Also called multitargeted receptor tyrosine kinase inhibitor ABT-869.",
+        "text":"A substance being studied in the treatment of several types of cancer. ABT-869 blocks the action of several growth factors. It may also block the growth of new blood vessels that tumors need to grow and may cause cancer cells to die. It is a type of receptor tyrosine kinase inhibitor and a type of angiogensis inhibitor. Also called multitargeted receptor tyrosine kinase inhibitor ABT-869."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":524260,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABT-888",
+      "firstLetter":"a",
+      "prettyUrlName":"abt-888",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance being studied in the treatment of breast cancers caused by mutations (changes) in the BRCA1 and BRCA2 genes. It is also being studied in the treatment of other types of cancer. It blocks an enzyme involved in many functions of the cell, including the repair of DNA damage. DNA damage may be caused by normal cell actions, UV light, some anticancer drugs, and radiation used to treat cancer. ABT-888 may cause cancer cells to die. It is a type of poly(ADP-ribose) polymerase inhibitor. Also called PARP-1 inhibitor ABT-888 and veliparib.",
+        "text":"A substance being studied in the treatment of breast cancers caused by mutations (changes) in the BRCA1 and BRCA2 genes. It is also being studied in the treatment of other types of cancer. It blocks an enzyme involved in many functions of the cell, including the repair of DNA damage. DNA damage may be caused by normal cell actions, UV light, some anticancer drugs, and radiation used to treat cancer. ABT-888 may cause cancer cells to die. It is a type of poly(ADP-ribose) polymerase inhibitor. Also called PARP-1 inhibitor ABT-888 and veliparib."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635678,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABVD",
+      "firstLetter":"a",
+      "prettyUrlName":"abvd",
+      "pronunciation":null,
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vinblastine sulfate, and dacarbazine. Also called ABVD regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vinblastine sulfate, and dacarbazine. Also called ABVD regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635679,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABVD regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"abvd-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722822.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vinblastine sulfate, and dacarbazine. Also called ABVD.",
+        "text":"An abbreviation for a chemotherapy combination used to treat Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vinblastine sulfate, and dacarbazine. Also called ABVD."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":662469,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABVE",
+      "firstLetter":"a",
+      "prettyUrlName":"abve",
+      "pronunciation":null,
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes  the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, and etoposide. Also called ABVE regimen, DBVE,  and DBVE regimen.",
+        "text":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes  the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, and etoposide. Also called ABVE regimen, DBVE,  and DBVE regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":662472,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABVE regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"abve-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725931.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes  the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, and etoposide. Also called ABVE, DBVE,  and DBVE regimen.",
+        "text":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes  the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, and etoposide. Also called ABVE, DBVE,  and DBVE regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":683640,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABVE-PC",
+      "firstLetter":"a",
+      "prettyUrlName":"abve-pc",
+      "pronunciation":null,
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, etoposide, prednisone, and cyclophosphamide. Also called ABVE-PC regimen, DBVE-PC,  and DBVE-PC regimen.",
+        "text":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, etoposide, prednisone, and cyclophosphamide. Also called ABVE-PC regimen, DBVE-PC,  and DBVE-PC regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":683641,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABVE-PC regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"abve-pc-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/728063.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, etoposide, prednisone, and cyclophosphamide. Also called ABVE-PC, DBVE-PC,  and DBVE-PC regimen.",
+        "text":"An abbreviation for a chemotherapy combination used with radiation therapy to treat childhood Hodgkin lymphoma. It includes the drugs doxorubicin hydrochloride (Adriamycin), bleomycin sulfate, vincristine sulfate, etoposide, prednisone, and cyclophosphamide. Also called ABVE-PC, DBVE-PC,  and DBVE-PC regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":302450,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ABX-EGF",
+      "firstLetter":"a",
+      "prettyUrlName":"abx-egf",
+      "pronunciation":null,
+      "definition":{
+        "html":"A drug used alone or with other anticancer drugs to treat certain types of colorectal cancer that have spread to other parts of the body. It is used in patients whose cancer has not already been treated or whose cancer got worse after treatment with other anticancer drugs. It is also being studied in the treatment of other types of cancer. ABX-EGF binds to a protein called epidermal growth factor receptor (EGFR), which is found on some normal cells and some types of cancer cells. Blocking this protein may help keep cancer cells from growing. ABX-EGF is a type of monoclonal antibody. Also called panitumumab and Vectibix.",
+        "text":"A drug used alone or with other anticancer drugs to treat certain types of colorectal cancer that have spread to other parts of the body. It is used in patients whose cancer has not already been treated or whose cancer got worse after treatment with other anticancer drugs. It is also being studied in the treatment of other types of cancer. ABX-EGF binds to a protein called epidermal growth factor receptor (EGFR), which is found on some normal cells and some types of cancer cells. Blocking this protein may help keep cancer cells from growing. ABX-EGF is a type of monoclonal antibody. Also called panitumumab and Vectibix."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":662444,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC",
+      "firstLetter":"a",
+      "prettyUrlName":"ac",
+      "pronunciation":null,
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used with other types of therapy to treat breast cancer, including breast cancer that has spread or come back. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide. Also called AC regimen.",
+        "text":"An abbreviation for a chemotherapy combination used with other types of therapy to treat breast cancer, including breast cancer that has spread or come back. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide. Also called AC regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":662445,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725907.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used with other types of therapy to treat breast cancer, including breast cancer that has spread or come back. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide. Also called AC.",
+        "text":"An abbreviation for a chemotherapy combination used with other types of therapy to treat breast cancer, including breast cancer that has spread or come back. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide. Also called AC."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635682,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC-T",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-t",
+      "pronunciation":null,
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol). Also called AC-T regimen and AC-Taxol regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol). Also called AC-T regimen and AC-Taxol regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635683,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC-T regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-t-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722825.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol). Also called AC-T and AC-Taxol regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol). Also called AC-T and AC-Taxol regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635689,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC-T-T",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-t-t",
+      "pronunciation":null,
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol) and trastuzumab (Herceptin). Also called AC-T-T regimen, AC-TH regimen,  and sequential AC/Taxol-Trastuzumab regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol) and trastuzumab (Herceptin). Also called AC-T-T regimen, AC-TH regimen,  and sequential AC/Taxol-Trastuzumab regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635690,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC-T-T regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-t-t-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722829.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol) and trastuzumab (Herceptin). Also called AC-T-T, AC-TH regimen,  and sequential AC/Taxol-Trastuzumab regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol) and trastuzumab (Herceptin). Also called AC-T-T, AC-TH regimen,  and sequential AC/Taxol-Trastuzumab regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635684,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC-Taxol regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-taxol-regimen",
+      "pronunciation":{
+        "key":"(… TAK-sol REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722827.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol). Also called AC-T and AC-T regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol). Also called AC-T and AC-T regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":635692,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"AC-TH regimen",
+      "firstLetter":"a",
+      "prettyUrlName":"ac-th-regimen",
+      "pronunciation":{
+        "key":"(… REH-jih-men)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722833.mp3"
+      },
+      "definition":{
+        "html":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol) and trastuzumab (Herceptin). Also called AC-T-T, AC-T-T regimen,  and sequential AC/Taxol-Trastuzumab regimen.",
+        "text":"An abbreviation for a chemotherapy combination used to treat breast cancer. It includes the drugs doxorubicin hydrochloride (Adriamycin) and cyclophosphamide, followed by treatment with paclitaxel (Taxol) and trastuzumab (Herceptin). Also called AC-T-T, AC-T-T regimen,  and sequential AC/Taxol-Trastuzumab regimen."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":791334,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acalabrutinib",
+      "firstLetter":"a",
+      "prettyUrlName":"acalabrutinib",
+      "pronunciation":{
+        "key":"(uh-KA-luh-BROO-tih-nib)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/792189.mp3"
+      },
+      "definition":{
+        "html":"A drug used to treat mantle cell lymphoma in patients who have already received at least one other treatment. It is also being studied in the treatment of other types of cancer. Acalabrutinib blocks a protein called Bruton’s tyrosine kinase (BTK), which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called Calquence.",
+        "text":"A drug used to treat mantle cell lymphoma in patients who have already received at least one other treatment. It is also being studied in the treatment of other types of cancer. Acalabrutinib blocks a protein called Bruton’s tyrosine kinase (BTK), which may help keep cancer cells from growing. It is a type of tyrosine kinase inhibitor. Also called Calquence."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":597088,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ACAPHA",
+      "firstLetter":"a",
+      "prettyUrlName":"acapha",
+      "pronunciation":{
+        "key":"(a-KA-fuh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/720889.mp3"
+      },
+      "definition":{
+        "html":"A mixture of six herbs that has been used in China to prevent and treat diseases such as lung and esophageal cancers. It is being studied in the United States and Canada in the prevention of lung cancer in people who used to smoke.",
+        "text":"A mixture of six herbs that has been used in China to prevent and treat diseases such as lung and esophageal cancers. It is being studied in the United States and Canada in the prevention of lung cancer in people who used to smoke."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":686197,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"accelerated partial-breast irradiation",
+      "firstLetter":"a",
+      "prettyUrlName":"accelerated-partial-breast-irradiation",
+      "pronunciation":{
+        "key":"(ak-SEH-leh-ray-ted PAR-shul-brest ih-RAY-dee-AY-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/727505.mp3"
+      },
+      "definition":{
+        "html":"A type of radiation therapy given only to the part of the breast that has cancer in it. Accelerated partial-breast irradiation   gives a higher dose over a shorter time than is given in standard whole-breast radiation therapy. Accelerated partial-breast irradiation may be given using internal or external sources of radiation. Also called partial-breast irradiation.",
+        "text":"A type of radiation therapy given only to the part of the breast that has cancer in it. Accelerated partial-breast irradiation   gives a higher dose over a shorter time than is given in standard whole-breast radiation therapy. Accelerated partial-breast irradiation may be given using internal or external sources of radiation. Also called partial-breast irradiation."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46212,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"accelerated phase chronic myelogenous leukemia",
+      "firstLetter":"a",
+      "prettyUrlName":"accelerated-phase-chronic-myelogenous-leukemia",
+      "pronunciation":{
+        "key":"(ak-SEH-leh-ray-ted fayz KRAH-nik MY-eh-LAH-jeh-nus loo-KEE-mee-uh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707838.mp3"
+      },
+      "definition":{
+        "html":"A phase of chronic myelogenous leukemia in which the disease is progressing. In this phase, 10% to 19% of the cells in the blood and bone marrow are blast cells (immature blood cells).",
+        "text":"A phase of chronic myelogenous leukemia in which the disease is progressing. In this phase, 10% to 19% of the cells in the blood and bone marrow are blast cells (immature blood cells)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":643629,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"accelerated radiation therapy",
+      "firstLetter":"a",
+      "prettyUrlName":"accelerated-radiation-therapy",
+      "pronunciation":{
+        "key":"(ak-SEH-leh-ray-ted RAY-dee-AY-shun THAYR-uh-pee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725793.mp3"
+      },
+      "definition":{
+        "html":"Radiation treatment in which the total dose of radiation is given over a shorter period of time (fewer days) compared to standard radiation therapy.",
+        "text":"Radiation treatment in which the total dose of radiation is given over a shorter period of time (fewer days) compared to standard radiation therapy."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":643103,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"accelerated-fraction radiation therapy",
+      "firstLetter":"a",
+      "prettyUrlName":"accelerated-fraction-radiation-therapy",
+      "pronunciation":{
+        "key":"(ak-SEH-leh-ray-ted-FRAK-shun RAY-dee-AY-shun THAYR-uh-pee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725615.mp3"
+      },
+      "definition":{
+        "html":"Radiation treatment in which the total dose of radiation is divided into small doses and the treatments are given more than once a day. The total dose of radiation is also given over a shorter period of time (fewer days) compared to standard radiation therapy.",
+        "text":"Radiation treatment in which the total dose of radiation is divided into small doses and the treatments are given more than once a day. The total dose of radiation is also given over a shorter period of time (fewer days) compared to standard radiation therapy."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":631064,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Accolate",
+      "firstLetter":"a",
+      "prettyUrlName":"accolate",
+      "pronunciation":{
+        "key":"(A-koh-layt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722646.mp3"
+      },
+      "definition":{
+        "html":"A drug used to prevent and treat symptoms of asthma. It blocks substances that cause inflammation in the lungs. It is a type of antiasthmatic agent and a leukotriene receptor antagonist. Also called zafirlukast.",
+        "text":"A drug used to prevent and treat symptoms of asthma. It blocks substances that cause inflammation in the lungs. It is a type of antiasthmatic agent and a leukotriene receptor antagonist. Also called zafirlukast."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":335479,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ACE inhibitor",
+      "firstLetter":"a",
+      "prettyUrlName":"ace-inhibitor",
+      "pronunciation":{
+        "key":"(... in-HIH-bih-ter)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/711331.mp3"
+      },
+      "definition":{
+        "html":"A drug that is used to lower blood pressure. An ACE inhibitor is a type of antihypertensive agent. Also called angiotensin-converting enzyme inhibitor.",
+        "text":"A drug that is used to lower blood pressure. An ACE inhibitor is a type of antihypertensive agent. Also called angiotensin-converting enzyme inhibitor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45165,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetaminophen",
+      "firstLetter":"a",
+      "prettyUrlName":"acetaminophen",
+      "pronunciation":{
+        "key":"(uh-see-tuh-MIH-nuh-fen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705107.mp3"
+      },
+      "definition":{
+        "html":"A drug that reduces pain and fever (but not inflammation). It belongs to the family of drugs called analgesics.",
+        "text":"A drug that reduces pain and fever (but not inflammation). It belongs to the family of drugs called analgesics."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":655020,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetate",
+      "firstLetter":"a",
+      "prettyUrlName":"acetate",
+      "pronunciation":{
+        "key":"(A-seh-tayt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725605.mp3"
+      },
+      "definition":{
+        "html":"A form of acetic acid (an acid found in vinegar).",
+        "text":"A form of acetic acid (an acid found in vinegar)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":655022,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetic acid",
+      "firstLetter":"a",
+      "prettyUrlName":"acetic-acid",
+      "pronunciation":{
+        "key":"(uh-SEE-tik A-sid)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726308.mp3"
+      },
+      "definition":{
+        "html":"An acid found in  vinegar. Acetic acid is also used to dissolve substances needed to make some medicines and other products, such as plastics.",
+        "text":"An acid found in  vinegar. Acetic acid is also used to dissolve substances needed to make some medicines and other products, such as plastics."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":748129,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetone",
+      "firstLetter":"a",
+      "prettyUrlName":"acetone",
+      "pronunciation":{
+        "key":"(A-seh-tone)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/752530.mp3"
+      },
+      "definition":{
+        "html":"A chemical substance found naturally in small amounts in plants, trees, volcanoes, and forest fires. Acetone is also made by the body when fats are broken down. It is also found in tobacco smoke, car exhaust, and trash landfills. In industry, acetone is used in some plastics, fibers, medicines, household cleaners, glues, and nail polish removers. Being exposed to high levels of acetone may irritate the skin, eyes, nose, throat, and lungs. It can cause headaches, nausea, vomiting, dizziness, confusion, loss of consciousness, and other health problems.",
+        "text":"A chemical substance found naturally in small amounts in plants, trees, volcanoes, and forest fires. Acetone is also made by the body when fats are broken down. It is also found in tobacco smoke, car exhaust, and trash landfills. In industry, acetone is used in some plastics, fibers, medicines, household cleaners, glues, and nail polish removers. Being exposed to high levels of acetone may irritate the skin, eyes, nose, throat, and lungs. It can cause headaches, nausea, vomiting, dizziness, confusion, loss of consciousness, and other health problems."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":655015,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetyl group",
+      "firstLetter":"a",
+      "prettyUrlName":"acetyl-group",
+      "pronunciation":{
+        "key":"(A-seh-til groop)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726535.mp3"
+      },
+      "definition":{
+        "html":"A small molecule made of two carbon, three hydrogen, and one oxygen atoms. Acetyl groups are added to or removed from other molecules and may affect how the molecules act in the body.",
+        "text":"A small molecule made of two carbon, three hydrogen, and one oxygen atoms. Acetyl groups are added to or removed from other molecules and may affect how the molecules act in the body."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641985,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetyl-L-carnitine",
+      "firstLetter":"a",
+      "prettyUrlName":"acetyl-l-carnitine",
+      "pronunciation":{
+        "key":"(A-seh-til ... KAR-nih-teen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722913.mp3"
+      },
+      "definition":{
+        "html":"A form of the natural substance carnitine that is being studied as a way to prevent tissue damage caused by chemotherapy. Carnitine is made in muscle and liver tissue and is found in certain foods, such as meat, poultry, fish, and some dairy products. It is used by many cells in the body to make energy from fat. Also called acetyl-L-carnitine hydrochloride and ALCAR.",
+        "text":"A form of the natural substance carnitine that is being studied as a way to prevent tissue damage caused by chemotherapy. Carnitine is made in muscle and liver tissue and is found in certain foods, such as meat, poultry, fish, and some dairy products. It is used by many cells in the body to make energy from fat. Also called acetyl-L-carnitine hydrochloride and ALCAR."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":641987,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetyl-L-carnitine hydrochloride",
+      "firstLetter":"a",
+      "prettyUrlName":"acetyl-l-carnitine-hydrochloride",
+      "pronunciation":{
+        "key":"(A-seh-til ... KAR-nih-teen HY-droh-KLOR-ide)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/722918.mp3"
+      },
+      "definition":{
+        "html":"A form of the natural substance carnitine that is being studied as a way to prevent tissue damage caused by chemotherapy. Carnitine is made in muscle and liver tissue and is found in certain foods, such as meat, poultry, fish, and some dairy products. It is used by many cells in the body to make energy from fat. Also called acetyl-L-carnitine and ALCAR.",
+        "text":"A form of the natural substance carnitine that is being studied as a way to prevent tissue damage caused by chemotherapy. Carnitine is made in muscle and liver tissue and is found in certain foods, such as meat, poultry, fish, and some dairy products. It is used by many cells in the body to make energy from fat. Also called acetyl-L-carnitine and ALCAR."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":655008,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetylation",
+      "firstLetter":"a",
+      "prettyUrlName":"acetylation",
+      "pronunciation":{
+        "key":"(a-SEH-tih-LAY-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726507.mp3"
+      },
+      "definition":{
+        "html":"A chemical reaction in which a small molecule called an acetyl group is added to other molecules.   Acetylation of proteins may affect how they act in the body.",
+        "text":"A chemical reaction in which a small molecule called an acetyl group is added to other molecules.   Acetylation of proteins may affect how they act in the body."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":653099,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetylcholine",
+      "firstLetter":"a",
+      "prettyUrlName":"acetylcholine",
+      "pronunciation":{
+        "key":"(A-seh-til-KOH-leen)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726422.mp3"
+      },
+      "definition":{
+        "html":"A chemical made by some types of nerve cells.  It is used to send messages to other cells, including other nerve cells, muscle cells, and gland cells. It is released from the nerve ending and carries signals to cells on the other side of a synapse (space between nerve cells and other cells). Acetylcholine helps control memory and the action of certain muscles.  It is a type of neurotransmitter.",
+        "text":"A chemical made by some types of nerve cells.  It is used to send messages to other cells, including other nerve cells, muscle cells, and gland cells. It is released from the nerve ending and carries signals to cells on the other side of a synapse (space between nerve cells and other cells). Acetylcholine helps control memory and the action of certain muscles.  It is a type of neurotransmitter."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45166,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acetylcysteine",
+      "firstLetter":"a",
+      "prettyUrlName":"acetylcysteine",
+      "pronunciation":{
+        "key":"(A-seh-til-SIS-teh-een)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705109.mp3"
+      },
+      "definition":{
+        "html":"A drug usually used to reduce the thickness of mucus and ease its removal. It is also used to reverse the toxicity of high doses of acetaminophen. Also called N-acetyl-L-cysteine and N-acetylcysteine.",
+        "text":"A drug usually used to reduce the thickness of mucus and ease its removal. It is also used to reverse the toxicity of high doses of acetaminophen. Also called N-acetyl-L-cysteine and N-acetylcysteine."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":543496,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ACF",
+      "firstLetter":"a",
+      "prettyUrlName":"acf",
+      "pronunciation":null,
+      "definition":{
+        "html":"Clusters of abnormal tube-like glands in the lining of the colon and rectum. ACF form before colorectal polyps and are one of the earliest changes that can be seen in the colon that may lead to cancer. Also called aberrant crypt foci.",
+        "text":"Clusters of abnormal tube-like glands in the lining of the colon and rectum. ACF form before colorectal polyps and are one of the earliest changes that can be seen in the colon that may lead to cancer. Also called aberrant crypt foci."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46213,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"achlorhydria",
+      "firstLetter":"a",
+      "prettyUrlName":"achlorhydria",
+      "pronunciation":{
+        "key":"(ay-klor-HY-dree-uh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707841.mp3"
+      },
+      "definition":{
+        "html":"A lack of hydrochloric acid in the digestive juices in the stomach. Hydrochloric acid helps digest food.",
+        "text":"A lack of hydrochloric acid in the digestive juices in the stomach. Hydrochloric acid helps digest food."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":642987,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acid",
+      "firstLetter":"a",
+      "prettyUrlName":"acid",
+      "pronunciation":{
+        "key":"(A-sid)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723211.mp3"
+      },
+      "definition":{
+        "html":"A chemical that gives off hydrogen ions in water and forms salts by combining with certain metals. Acids have a sour taste and turn certain dyes red. Some acids made by the body, such as gastric acid, can help organs work the way they should. An example of an acid is hydrochloric acid. Acidity is measured on a scale called the pH scale.  On this scale, a value of 7 is neutral, and a pH value of less than 7 to 0 shows increasing acidity.",
+        "text":"A chemical that gives off hydrogen ions in water and forms salts by combining with certain metals. Acids have a sour taste and turn certain dyes red. Some acids made by the body, such as gastric acid, can help organs work the way they should. An example of an acid is hydrochloric acid. Acidity is measured on a scale called the pH scale.  On this scale, a value of 7 is neutral, and a pH value of less than 7 to 0 shows increasing acidity."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":642999,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acid-base balance",
+      "firstLetter":"a",
+      "prettyUrlName":"acid-base-balance",
+      "pronunciation":{
+        "key":"(A-sid-bays BA-lunts)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723218.mp3"
+      },
+      "definition":{
+        "html":"In medicine, the state of having the right amount of acid and base in the blood and other body fluids. Keeping a normal acid-base balance is important for the body to work the way it should. Also called acid-base equilibrium.",
+        "text":"In medicine, the state of having the right amount of acid and base in the blood and other body fluids. Keeping a normal acid-base balance is important for the body to work the way it should. Also called acid-base equilibrium."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":643000,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acid-base equilibrium",
+      "firstLetter":"a",
+      "prettyUrlName":"acid-base-equilibrium",
+      "pronunciation":{
+        "key":"(A-sid-bays EE-kwuh-LIH-bree-um)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723220.mp3"
+      },
+      "definition":{
+        "html":"In medicine, the state of having the right amount of acid and base in the blood and other body fluids. Keeping a normal acid-base equilibrium is important for the body to work the way it should. Also called acid-base balance.",
+        "text":"In medicine, the state of having the right amount of acid and base in the blood and other body fluids. Keeping a normal acid-base equilibrium is important for the body to work the way it should. Also called acid-base balance."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":642989,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acidification",
+      "firstLetter":"a",
+      "prettyUrlName":"acidification",
+      "pronunciation":{
+        "key":"(a-SIH-dih-fih-KAY-shun)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723214.mp3"
+      },
+      "definition":{
+        "html":"The process of making or becoming an acid. An acid is a substance that gives off hydrogen ions in water and forms salts by combining with certain metals.",
+        "text":"The process of making or becoming an acid. An acid is a substance that gives off hydrogen ions in water and forms salts by combining with certain metals."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":642991,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acidity",
+      "firstLetter":"a",
+      "prettyUrlName":"acidity",
+      "pronunciation":{
+        "key":"(a-SIH-dih-tee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/723216.mp3"
+      },
+      "definition":{
+        "html":"Describes the amount of acid in a substance. An acid is a chemical that gives off hydrogen ions in water and forms salts by combining with certain metals. Acidity is measured on a scale called the pH scale.  On this scale, a pH value of 7 is neutral, and a pH value of less than 7 to 0 shows increasing acidity.",
+        "text":"Describes the amount of acid in a substance. An acid is a chemical that gives off hydrogen ions in water and forms salts by combining with certain metals. Acidity is measured on a scale called the pH scale.  On this scale, a pH value of 7 is neutral, and a pH value of less than 7 to 0 shows increasing acidity."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46118,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acitretin",
+      "firstLetter":"a",
+      "prettyUrlName":"acitretin",
+      "pronunciation":{
+        "key":"(A-sih-TREH-tin)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707700.mp3"
+      },
+      "definition":{
+        "html":"A substance that is used in the prevention of cancer and in the treatment of psoriasis. It belongs to the family of drugs called retinoids.",
+        "text":"A substance that is used in the prevention of cancer and in the treatment of psoriasis. It belongs to the family of drugs called retinoids."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":413935,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ACN53",
+      "firstLetter":"a",
+      "prettyUrlName":"acn53",
+      "pronunciation":null,
+      "definition":{
+        "html":"A substance that has been studied in the treatment of some types of cancer. ACN53 is a weakened adenovirus that carries the p53 gene into tumor cells, causing them to die. It is a type of gene therapy. Also called rAd/p53, recombinant adenovirus-p53,  and SCH-58500.",
+        "text":"A substance that has been studied in the treatment of some types of cancer. ACN53 is a weakened adenovirus that carries the p53 gene into tumor cells, causing them to die. It is a type of gene therapy. Also called rAd/p53, recombinant adenovirus-p53,  and SCH-58500."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44183,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acne",
+      "firstLetter":"a",
+      "prettyUrlName":"acne",
+      "pronunciation":{
+        "key":"(AK-nee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/703949.mp3"
+      },
+      "definition":{
+        "html":"A disorder of the skin in which oil glands and hair glands become inflamed.",
+        "text":"A disorder of the skin in which oil glands and hair glands become inflamed."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":797637,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acneiform dermatitis",
+      "firstLetter":"a",
+      "prettyUrlName":"acneiform-dermatitis",
+      "pronunciation":{
+        "key":"(ak-NEE-ih-form DER-muh-TY-tis)",
+        "audio":null
+      },
+      "definition":{
+        "html":"A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform dermatitis may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform eruption and acneiform rash.",
+        "text":"A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform dermatitis may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform eruption and acneiform rash."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":797639,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acneiform eruption",
+      "firstLetter":"a",
+      "prettyUrlName":"acneiform-eruption",
+      "pronunciation":{
+        "key":"(ak-NEE-ih-form ee-RUP-shun)",
+        "audio":null
+      },
+      "definition":{
+        "html":"A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform eruption may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform dermatitis and acneiform rash.",
+        "text":"A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform eruption may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform dermatitis and acneiform rash."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":797638,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acneiform rash",
+      "firstLetter":"a",
+      "prettyUrlName":"acneiform-rash",
+      "pronunciation":{
+        "key":"(ak-NEE-ih-form …)",
+        "audio":null
+      },
+      "definition":{
+        "html":"A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform rash may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform dermatitis and acneiform eruption.",
+        "text":"A skin condition that causes small, raised, acne-like bumps to form, usually on the face, scalp, chest, and upper back. The bumps on the affected skin are usually red and filled with pus and may crust over. They may also become painful, tender, and itchy. Sometimes, the affected skin becomes infected. Acneiform rash may be caused by an infection or by treatment with certain drugs, including some anticancer drugs, such as  epidermal growth factor receptor (EGFR) inhibitors. Also called acneiform dermatitis and acneiform eruption."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":644298,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acolbifene hydrochloride",
+      "firstLetter":"a",
+      "prettyUrlName":"acolbifene-hydrochloride",
+      "pronunciation":{
+        "key":"(ay-KOLE-bih-feen HY-droh-KLOR-ide)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/726048.mp3"
+      },
+      "definition":{
+        "html":"A substance being studied in the prevention of breast cancer in women at high risk of breast cancer.  Acolbifene hydrochloride binds to estrogen receptors in the body and blocks the effects of estrogen in the breast. It is a type of selective estrogen receptor modulator (SERM).",
+        "text":"A substance being studied in the prevention of breast cancer in women at high risk of breast cancer.  Acolbifene hydrochloride binds to estrogen receptors in the body and blocks the effects of estrogen in the breast. It is a type of selective estrogen receptor modulator (SERM)."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46214,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acoustic",
+      "firstLetter":"a",
+      "prettyUrlName":"acoustic",
+      "pronunciation":{
+        "key":"(uh-KOOS-tik)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/707843.mp3"
+      },
+      "definition":{
+        "html":"Having to do with sound or hearing.",
+        "text":"Having to do with sound or hearing."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":256542,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acoustic neurofibromatosis",
+      "firstLetter":"a",
+      "prettyUrlName":"acoustic-neurofibromatosis",
+      "pronunciation":{
+        "key":"(uh-KOOS-tik NOOR-oh-FY-broh-muh-TOH-sis)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/709821.mp3"
+      },
+      "definition":{
+        "html":"A genetic condition in which tumors form on the nerves of the inner ear and cause loss of hearing and balance. Tumors may also occur in the brain and on nerves in the skull and spinal cord, and may cause loss of speech, eye movement, and the ability to swallow. Also called neurofibromatosis type 2 and NF2.",
+        "text":"A genetic condition in which tumors form on the nerves of the inner ear and cause loss of hearing and balance. Tumors may also occur in the brain and on nerves in the skull and spinal cord, and may cause loss of speech, eye movement, and the ability to swallow. Also called neurofibromatosis type 2 and NF2."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44365,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acquired immunodeficiency syndrome",
+      "firstLetter":"a",
+      "prettyUrlName":"acquired-immunodeficiency-syndrome",
+      "pronunciation":{
+        "key":"(uh-KWY-erd IH-myoo-noh-deh-FIH-shun-see SIN-drome)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/704543.mp3"
+      },
+      "definition":{
+        "html":"A disease caused by the human immunodeficiency virus (HIV). People with acquired immunodeficiency syndrome are at an increased risk for developing certain cancers and for infections that usually occur only in individuals with a weak immune system. Also called AIDS.",
+        "text":"A disease caused by the human immunodeficiency virus (HIV). People with acquired immunodeficiency syndrome are at an increased risk for developing certain cancers and for infections that usually occur only in individuals with a weak immune system. Also called AIDS."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":672833,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acquired pure red cell aplasia",
+      "firstLetter":"a",
+      "prettyUrlName":"acquired-pure-red-cell-aplasia",
+      "pronunciation":{
+        "key":"(uh-KWY-erd … sel uh-PLAY-zhuh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/725694.mp3"
+      },
+      "definition":{
+        "html":"A rare disorder in which the bone marrow makes almost no red blood cells. It may be caused by infection or by certain drugs.  Patients with this disorder may also have a thymoma (a tumor of the thymus) or an autoimmune condition such as lupus erythematosus or rheumatoid arthritis.",
+        "text":"A rare disorder in which the bone marrow makes almost no red blood cells. It may be caused by infection or by certain drugs.  Patients with this disorder may also have a thymoma (a tumor of the thymus) or an autoimmune condition such as lupus erythematosus or rheumatoid arthritis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":797028,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acquired thrombotic thrombocytopenic purpura",
+      "firstLetter":"a",
+      "prettyUrlName":"acquired-thrombotic-thrombocytopenic-purpura",
+      "pronunciation":{
+        "key":"(uh-KWY-erd throm-BAH-tik THROM-boh-sy-toh-PEE-nik PUR-pyoo-ruh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/798876.mp3"
+      },
+      "definition":{
+        "html":"A rare condition in which blood clots form in small blood vessels throughout the body. These clots can block the flow of blood and oxygen to the body’s organs, which leads to a lower-than-normal number of platelets in the blood. Signs and symptoms of acquired thrombotic thrombocytopenic purpura include purple bruises or tiny red or purple spots on the skin, bleeding problems, anemia, fever, chest pain, nervous system problems, and kidney problems. acquired thrombotic thrombocytopenic purpura occurs when the body starts producing antibodies that block an enzyme called ADAMTS13, which is involved in blood clotting. It may be brought on by certain diseases or conditions (such as pregnancy, cancer, lupus, HIV, or other infections), certain medicines (such as chemotherapy or hormone therapy), or certain procedures (such as surgery or a stem cell transplant). acquired thrombotic thrombocytopenic purpura usually occurs in adults. Also called aTTP.",
+        "text":"A rare condition in which blood clots form in small blood vessels throughout the body. These clots can block the flow of blood and oxygen to the body’s organs, which leads to a lower-than-normal number of platelets in the blood. Signs and symptoms of acquired thrombotic thrombocytopenic purpura include purple bruises or tiny red or purple spots on the skin, bleeding problems, anemia, fever, chest pain, nervous system problems, and kidney problems. acquired thrombotic thrombocytopenic purpura occurs when the body starts producing antibodies that block an enzyme called ADAMTS13, which is involved in blood clotting. It may be brought on by certain diseases or conditions (such as pregnancy, cancer, lupus, HIV, or other infections), certain medicines (such as chemotherapy or hormone therapy), or certain procedures (such as surgery or a stem cell transplant). acquired thrombotic thrombocytopenic purpura usually occurs in adults. Also called aTTP."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44849,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acridine carboxamide",
+      "firstLetter":"a",
+      "prettyUrlName":"acridine-carboxamide",
+      "pronunciation":{
+        "key":"(A-krih-deen kar-BOK-suh-mide)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/728175.mp3"
+      },
+      "definition":{
+        "html":"A substance being studied in the treatment of cancer. It is a type of topoisomerase inhibitor. Also called DACA.",
+        "text":"A substance being studied in the treatment of cancer. It is a type of topoisomerase inhibitor. Also called DACA."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":476630,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acromegaly",
+      "firstLetter":"a",
+      "prettyUrlName":"acromegaly",
+      "pronunciation":{
+        "key":"(A-kroh-MEH-guh-lee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/716774.mp3"
+      },
+      "definition":{
+        "html":"A condition in which the pituitary gland makes too much growth hormone after normal growth of the skeleton is finished. This causes the bones of the hands, feet, head, and face to grow larger than normal. Acromegaly can be caused by a pituitary gland tumor.",
+        "text":"A condition in which the pituitary gland makes too much growth hormone after normal growth of the skeleton is finished. This causes the bones of the hands, feet, head, and face to grow larger than normal. Acromegaly can be caused by a pituitary gland tumor."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":269435,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acrylonitrile",
+      "firstLetter":"a",
+      "prettyUrlName":"acrylonitrile",
+      "pronunciation":{
+        "key":"(ak-rih-loh-NY-tril)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/710098.mp3"
+      },
+      "definition":{
+        "html":"A substance used to make plastics, rubber, and textiles. Being exposed to acrylonitrile may increase the risk of developing certain cancers, such as lung, brain, or prostate cancer.",
+        "text":"A substance used to make plastics, rubber, and textiles. Being exposed to acrylonitrile may increase the risk of developing certain cancers, such as lung, brain, or prostate cancer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":791380,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Actemra",
+      "firstLetter":"a",
+      "prettyUrlName":"actemra",
+      "pronunciation":{
+        "key":"(ak-TEM-ruh)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/793643.mp3"
+      },
+      "definition":{
+        "html":"A drug used to treat severe or life-threatening cytokine release syndrome caused by a type of immunotherapy called chimeric antigen receptor (CAR) T-cell therapy. It is used in patients aged 2 years and older. Actemra is also used to treat certain types of arthritis and a condition that causes inflammation of the lining of the arteries. It is also being studied in the treatment of other conditions. Actemra binds to receptors for a protein called interleukin-6 (IL-6), which is made by white blood cells and other cells in the body. This may help lower the body’s immune response and reduce inflammation. Actemra is a type of monoclonal antibody. Also called tocilizumab.",
+        "text":"A drug used to treat severe or life-threatening cytokine release syndrome caused by a type of immunotherapy called chimeric antigen receptor (CAR) T-cell therapy. It is used in patients aged 2 years and older. Actemra is also used to treat certain types of arthritis and a condition that causes inflammation of the lining of the arteries. It is also being studied in the treatment of other conditions. Actemra binds to receptors for a protein called interleukin-6 (IL-6), which is made by white blood cells and other cells in the body. This may help lower the body’s immune response and reduce inflammation. Actemra is a type of monoclonal antibody. Also called tocilizumab."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":549437,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"ACTH",
+      "firstLetter":"a",
+      "prettyUrlName":"acth",
+      "pronunciation":null,
+      "definition":{
+        "html":"A hormone made in the pituitary gland. ACTH acts on the outer part of the adrenal gland to control its release of corticosteroid hormones. More ACTH is made during times of stress. Also called adrenocorticotropic hormone and corticotropin.",
+        "text":"A hormone made in the pituitary gland. ACTH acts on the outer part of the adrenal gland to control its release of corticosteroid hormones. More ACTH is made during times of stress. Also called adrenocorticotropic hormone and corticotropin."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":523330,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Actinex",
+      "firstLetter":"a",
+      "prettyUrlName":"actinex",
+      "pronunciation":{
+        "key":"(AK-tih-nex)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/732910.mp3"
+      },
+      "definition":{
+        "html":"A drug put on the skin to treat growths caused by sun exposure. A form of Actinex that is taken by mouth is being studied in the treatment of prostate cancer. Actinex is an antioxidant, and it may block certain enzymes needed for tumor growth. Also called masoprocol, NDGA,  and nordihydroguaiaretic acid.",
+        "text":"A drug put on the skin to treat growths caused by sun exposure. A form of Actinex that is taken by mouth is being studied in the treatment of prostate cancer. Actinex is an antioxidant, and it may block certain enzymes needed for tumor growth. Also called masoprocol, NDGA,  and nordihydroguaiaretic acid."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":45133,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"actinic keratosis",
+      "firstLetter":"a",
+      "prettyUrlName":"actinic-keratosis",
+      "pronunciation":{
+        "key":"(ak-TIH-nik KAYR-uh-TOH-sis)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705052.mp3"
+      },
+      "definition":{
+        "html":"A thick, scaly patch of skin that may become cancer. It usually forms on areas exposed to the sun, such as the face, scalp, back of the hands, or chest.  It is most common in people with fair skin. Also called senile keratosis and solar keratosis.",
+        "text":"A thick, scaly patch of skin that may become cancer. It usually forms on areas exposed to the sun, such as the face, scalp, back of the hands, or chest.  It is most common in people with fair skin. Also called senile keratosis and solar keratosis."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":730162,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"actinomycin D",
+      "firstLetter":"a",
+      "prettyUrlName":"actinomycin-d",
+      "pronunciation":{
+        "key":"(AK-tih-noh-MY-sin …)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/738131.mp3"
+      },
+      "definition":{
+        "html":"A drug used to treat Ewing sarcoma, gestational trophoblastic tumor, Wilms tumor, and certain types of testicular cancer. It is also used to treat rhabdomyosarcoma in children. It is being studied in the treatment of other types of cancer. Actinomycin D comes from the bacterium Streptomyces parvulus. It damages the cell’s DNA and may kill cancer cells. It is a type of anticancer antibiotic. Also called Cosmegen and dactinomycin.",
+        "text":"A drug used to treat Ewing sarcoma, gestational trophoblastic tumor, Wilms tumor, and certain types of testicular cancer. It is also used to treat rhabdomyosarcoma in children. It is being studied in the treatment of other types of cancer. Actinomycin D comes from the bacterium Streptomyces parvulus. It damages the cell’s DNA and may kill cancer cells. It is a type of anticancer antibiotic. Also called Cosmegen and dactinomycin."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":44637,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"action study",
+      "firstLetter":"a",
+      "prettyUrlName":"action-study",
+      "pronunciation":{
+        "key":"(AK-shun STUH-dee)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/705778.mp3"
+      },
+      "definition":{
+        "html":"In cancer prevention clinical trials, a study that focuses on finding out whether actions people take can prevent cancer.",
+        "text":"In cancer prevention clinical trials, a study that focuses on finding out whether actions people take can prevent cancer."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":377724,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Activase",
+      "firstLetter":"a",
+      "prettyUrlName":"activase",
+      "pronunciation":{
+        "key":"(AK-tih-vays)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713456.mp3"
+      },
+      "definition":{
+        "html":"A form of tissue plasminogen activator that is made in the laboratory. It helps dissolve blood clots and is used to treat heart attacks, strokes, and clots in the lungs. It is also being studied in the treatment of cancer. It is a type of systemic thrombolytic agent. Also called Alteplase, r-tPA,  and recombinant tissue plasminogen activator.",
+        "text":"A form of tissue plasminogen activator that is made in the laboratory. It helps dissolve blood clots and is used to treat heart attacks, strokes, and clots in the lungs. It is also being studied in the treatment of cancer. It is a type of systemic thrombolytic agent. Also called Alteplase, r-tPA,  and recombinant tissue plasminogen activator."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":43976,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"activate",
+      "firstLetter":"a",
+      "prettyUrlName":"activate",
+      "pronunciation":{
+        "key":"(AK-tih-vayt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/703978.mp3"
+      },
+      "definition":{
+        "html":"In biology, to stimulate a cell in a resting state to become active. This causes biochemical and functional changes in the activated cell.",
+        "text":"In biology, to stimulate a cell in a resting state to become active. This causes biochemical and functional changes in the activated cell."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":616060,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"active surveillance",
+      "firstLetter":"a",
+      "prettyUrlName":"active-surveillance",
+      "pronunciation":{
+        "key":"(AK-tiv ser-VAY-lents)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/721150.mp3"
+      },
+      "definition":{
+        "html":"A treatment plan that involves closely watching a patient’s condition but not giving any treatment unless there are changes in test results that show the condition is getting worse. Active surveillance may be used to avoid or delay the need for treatments such as radiation therapy or surgery, which can cause side effects or other problems. During active surveillance, certain exams and tests are done on a regular schedule. It may be used in the treatment of certain types of cancer, such as prostate cancer, urethral cancer, and intraocular (eye) melanoma. It is a type of expectant management.",
+        "text":"A treatment plan that involves closely watching a patient’s condition but not giving any treatment unless there are changes in test results that show the condition is getting worse. Active surveillance may be used to avoid or delay the need for treatments such as radiation therapy or surgery, which can cause side effects or other problems. During active surveillance, certain exams and tests are done on a regular schedule. It may be used in the treatment of certain types of cancer, such as prostate cancer, urethral cancer, and intraocular (eye) melanoma. It is a type of expectant management."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":430401,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"activities of daily living",
+      "firstLetter":"a",
+      "prettyUrlName":"activities-of-daily-living",
+      "pronunciation":{
+        "key":"(ak-TIH-vih-teez…DAY-lee LIH-ving)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713392.mp3"
+      },
+      "definition":{
+        "html":"The tasks of everyday life. These activities include eating, dressing, getting into or out of a bed or chair, taking a bath or shower, and using the toilet. Instrumental activities of daily living are activities related to independent living and include preparing meals, managing money, shopping, doing housework, and using a telephone. Also called ADL.",
+        "text":"The tasks of everyday life. These activities include eating, dressing, getting into or out of a bed or chair, taking a bath or shower, and using the toilet. Instrumental activities of daily living are activities related to independent living and include preparing meals, managing money, shopping, doing housework, and using a telephone. Also called ADL."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":413938,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"Actos",
+      "firstLetter":"a",
+      "prettyUrlName":"actos",
+      "pronunciation":{
+        "key":"(AK-tose)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/713500.mp3"
+      },
+      "definition":{
+        "html":"A drug that is used to treat type 2 diabetes and is being studied in the prevention of head and neck cancer. It may be able to stop leukoplakia (a condition affecting the mouth ) from developing into cancer. It is a type of thiazolidinedione. Also called pioglitazone.",
+        "text":"A drug that is used to treat type 2 diabetes and is being studied in the prevention of head and neck cancer. It may be able to stop leukoplakia (a condition affecting the mouth ) from developing into cancer. It is a type of thiazolidinedione. Also called pioglitazone."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":454748,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acupoint",
+      "firstLetter":"a",
+      "prettyUrlName":"acupoint",
+      "pronunciation":{
+        "key":"(AK-yoo-poynt)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/714977.mp3"
+      },
+      "definition":{
+        "html":"A specific spot on the body where an acupuncture needle may be inserted to control pain and other symptoms. Also called acupuncture point.",
+        "text":"A specific spot on the body where an acupuncture needle may be inserted to control pain and other symptoms. Also called acupuncture point."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    },
+    {
+      "termId":46723,
+      "language":"en",
+      "dictionary":"Cancer.gov",
+      "audience":"Patient",
+      "termName":"acupressure",
+      "firstLetter":"a",
+      "prettyUrlName":"acupressure",
+      "pronunciation":{
+        "key":"(AK-yoo-PREH-sher)",
+        "audio":"https://nci-media-dev.cancer.gov/pdq/media/audio/709991.mp3"
+      },
+      "definition":{
+        "html":"The application of pressure or localized massage to specific sites on the body to control symptoms such as pain or nausea. It is a type of complementary and alternative medicine.",
+        "text":"The application of pressure or localized massage to specific sites on the body to control symptoms such as pain or nausea. It is a type of complementary and alternative medicine."
+      },
+      "relatedResources":[
+
+      ],
+      "media":[
+
+      ]
+    }
+  ],
+  "links":null
+}

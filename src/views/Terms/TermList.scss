@@ -1,0 +1,27 @@
+.dictionary-list-container {
+  h4 {
+    color: #2E2E2E;
+    font-size: 1.25em;
+    font-style: normal;
+  }
+
+  dt, dd.pronunciation {
+    margin-bottom: 0;
+    display: inline-block;
+  }
+
+  dd.definition {
+    margin-top: -5px;
+  }
+
+  .btnAudio {
+    padding-top: 0;
+    padding-bottom: 0;
+    height: 28px;
+  }
+
+  .pronunciation__key {
+    padding-top: 2px;
+    line-height: normal;
+  }
+}

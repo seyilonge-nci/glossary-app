@@ -1,14 +1,10 @@
 import React from 'react';
 
+import { NO_MATCHING_TEXT, testIds } from "../../constants";
+
 const NoMatchingResults = () => {
     return (
-        <p>
-            No matches were found for the word or phrase you entered.
-            Please check your spelling, and try searching again.
-            You can also type the first few letters of your word or phrase,
-            or click a letter in the alphabet and browse through the list of
-            terms that begin with that letter.
-        </p>
+        <p data-testid={testIds.NO_MATCHING_RESULTS}>{NO_MATCHING_TEXT}</p>
     );
 };
 

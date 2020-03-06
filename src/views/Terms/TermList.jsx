@@ -10,7 +10,7 @@ import { getExpandCharResults } from "../../services/api/actions";
 const TermList = ({ query }) => {
     const { loading, payload, error } = useQuery( getExpandCharResults( query ) );
     if (payload) {
-        console.log('TermList:', query, payload.results.length, payload.results.length > 0,  payload);
+        // console.log('TermList:', query, payload.results.length, payload.results.length > 0,  payload);
     }
 
     return (

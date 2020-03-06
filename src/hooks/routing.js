@@ -34,7 +34,7 @@ const replacePath = (path, params = {}) => {
  * @returns 
  */
 export const useAppPaths = () => {
-
+    console.log('dump:', useStateValue());
   const [{ basePath }] = useStateValue();
 
   const paths =

@@ -1,21 +1,24 @@
 import { render } from '@testing-library/react';
 import React from 'react';
-import {MemoryRouter} from 'react-router';
+import { MemoryRouter } from 'react-router';
 
 import Home from '../Home';
 import { useStateValue } from "../../../store/store.js";
+
 jest.mock("../../../store/store.js");
 
-test.only('Match dictionary name for Home', () => {
+test('Match dictionary name for Home', () => {
   const dictionaryName = 'Cancer.gov';
-  const dictionaryTitle = 'NCI Dictionary of Cancer Terms'
+  const dictionaryTitle = 'NCI Dictionary of Cancer Terms';
+  const language = "en";
 
   useStateValue.mockReturnValue([
     {
       appId: "mockAppId",
       basePath: '/testbase',
       dictionaryName,
-      dictionaryTitle
+      dictionaryTitle,
+      language
     }
   ]);
 
@@ -25,10 +28,5 @@ test.only('Match dictionary name for Home', () => {
     </MemoryRouter>
   );
 
-  expect(getByText(dictionaryTitle)).toBeTruthy();
-  
-  // Test link is correct
-  expect(document.querySelector("a").getAttribute("href")).toBe(
-    "/testbase/def/12345"
-  );
+  expect( getByText(dictionaryTitle) ).toBeTruthy();
 });

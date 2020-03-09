@@ -7,8 +7,9 @@ import { useStateValue } from "../../../store/store";
 import { i18n } from "../../../utils/i18n";
 
 const AZList = () => {
-    const { ExpandPath } = useAppPaths();
+    const { ExpandPath, ExpandPathSpanish } = useAppPaths();
     const [{ language }] = useStateValue();
+    const expandPathWithLang = language === 'es' ? ExpandPathSpanish : ExpandPath;
     return (
         <nav className="az-list" data-testid={testIds.AZ_LIST}>
             <span className="browse">{i18n.browse[language]}:</span>
@@ -18,7 +19,7 @@ const AZList = () => {
                    const label = item.toUpperCase();
                    return (
                        <li key={i} value={i+1}>
-                           <Link to={ ExpandPath({ expandChar }) }>{label}</Link>
+                           <Link to={ expandPathWithLang({ expandChar }) }>{label}</Link>
                        </li>
                    )
                 })}

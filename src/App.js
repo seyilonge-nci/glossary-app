@@ -15,14 +15,15 @@ const App = ({ tracking }) => {
     HomePath,
     DefinitionPath,
     ExpandPath,
-    ExpandPathNoParam
+    ExpandPathNoParam,
+    ExpandPathSpanish,
+    ExpandPathNoParamSpanish
   } = useAppPaths();
 
   //example tracking setup for pageload
   useEffect(() => {
     tracking.trackEvent({action: 'pageLoad'})
   }, [tracking]);
-
   return (
     <Router>
       <Routes >
@@ -30,6 +31,8 @@ const App = ({ tracking }) => {
         <Route path={ DefinitionPath() } element={<Definition />} />
         <Route path={ ExpandPath() } element={<Home />} />
         <Route path={ ExpandPathNoParam() } element={<Home />} />
+        <Route path={ ExpandPathSpanish() } element={<Home />} />
+        <Route path={ ExpandPathNoParamSpanish() } element={<Home />} />
       </Routes>
     </Router>
   );

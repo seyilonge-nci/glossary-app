@@ -5,7 +5,9 @@ const appPaths = {
   'HomePath': '/',
   'DefinitionPath': '/def/:idOrName',
   'ExpandPath': '/expand/:expandChar',
-  'ExpandPathNoParam': '/expand'
+  'ExpandPathNoParam': '/expand',
+  'ExpandPathSpanish': '/expandir/:expandChar',
+  'ExpandPathNoParamSpanish': '/expandir'
 };
 
 /**
@@ -34,7 +36,6 @@ const replacePath = (path, params = {}) => {
  * @returns 
  */
 export const useAppPaths = () => {
-    console.log('dump:', useStateValue());
   const [{ basePath }] = useStateValue();
 
   const paths =

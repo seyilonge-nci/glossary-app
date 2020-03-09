@@ -1,14 +1,16 @@
 import React from 'react';
 import { useQuery } from "react-fetching-library";
 
-// Local imports first
-import NoMatchingResults from "./NoMatchingResults";
-import Term from "./Term";
 import Spinner from "../../components/atomic/spinner";
+import NoMatchingResults from "./NoMatchingResults";
 import { getExpandCharResults } from "../../services/api/actions";
+import { useStateValue } from "../../store/store";
+import Term from "./Term";
+import { i18n } from "../../utils";
 
 const TermList = ({ query }) => {
     const { loading, payload, error } = useQuery( getExpandCharResults( query ) );
+    const [{ language }] = useStateValue();
     if (payload) {
         // console.log('TermList:', query, payload.results.length, payload.results.length > 0,  payload);
     }
@@ -21,7 +23,7 @@ const TermList = ({ query }) => {
                     { payload.results && payload.results.length > 0
                         ?
                             <>
-                                <h4>{ payload.meta.totalResults } results found for: {query} </h4>
+                                <h4>{ payload.meta.totalResults } { i18n.termListTitle[language] }: { query } </h4>
                                 <dl className="dictionary-list">
                                 { payload.results.map( ( result, index ) => {
                                     return (

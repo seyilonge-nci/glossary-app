@@ -14,5 +14,9 @@ export const i18n = {
     startsWith: {
         en: 'Starts with',
         es: 'Empieza con'
+    },
+    termListTitle: {
+        en: 'results found for',
+        es: 'resultados de'
     }
 };

@@ -175,17 +175,19 @@ module.exports = function(webpackEnv) {
       // There will be one main bundle, and one file per asynchronous chunk.
       // In development, it does not produce real files.
       filename: isEnvProduction
-        ? 'static/js/[name].[contenthash:8].js'
+        ? 'static/js/[name].js'
         : isEnvDevelopment && 'static/js/bundle.js',
       // TODO: remove this when upgrading to webpack 5
       futureEmitAssets: true,
       // There are also additional JS chunk files if you use code splitting.
       chunkFilename: isEnvProduction
-        ? 'static/js/[name].[contenthash:8].chunk.js'
-        : isEnvDevelopment && 'static/js/[name].chunk.js',
+        ? 'static/js/[name].js'
+        : isEnvDevelopment && 'static/js/[name].js',
       // We inferred the "public path" (such as / or /my-project) from homepage.
       // We use "/" in development.
       publicPath: publicPath,
+      library: "nci-glossary-app",
+      libraryTarget: "umd",
       // Point sourcemap entries to original disk location (format as URL on Windows)
       devtoolModuleFilenameTemplate: isEnvProduction
         ? info =>
@@ -265,16 +267,16 @@ module.exports = function(webpackEnv) {
       // Automatically split vendor and commons
       // https://twitter.com/wSokra/status/969633336732905474
       // https://medium.com/webpack/webpack-4-code-splitting-chunk-graph-and-the-splitchunks-optimization-be739a861366
-      splitChunks: {
+      /*splitChunks: {
         chunks: 'all',
         name: false,
-      },
+      },*/
       // Keep the runtime chunk separated to enable long term caching
       // https://twitter.com/wSokra/status/969679223278505985
       // https://github.com/facebook/create-react-app/issues/5358
-      runtimeChunk: {
-        name: entrypoint => `runtime-${entrypoint.name}`,
-      },
+      // runtimeChunk: {
+      //   name: entrypoint => `runtime-${entrypoint.name}`,
+      // },
     },
     resolve: {
       // This allows you to set a fallback for where Webpack should look for modules.
@@ -361,7 +363,7 @@ module.exports = function(webpackEnv) {
               loader: require.resolve('url-loader'),
               options: {
                 limit: imageInlineSizeLimit,
-                name: 'static/media/[name].[hash:8].[ext]',
+                name: 'static/media/[name].[ext]',
               },
             },
             // Process application JS with Babel.
@@ -503,7 +505,7 @@ module.exports = function(webpackEnv) {
               // by webpacks internal loaders.
               exclude: [/\.(js|mjs|jsx|ts|tsx)$/, /\.html$/, /\.json$/],
               options: {
-                name: 'static/media/[name].[hash:8].[ext]',
+                name: 'static/media/[name].[ext]',
               },
             },
             // ** STOP ** Are you adding a new loader?
@@ -539,7 +541,6 @@ module.exports = function(webpackEnv) {
             : undefined
         )
       ),
-
       // Inlines the webpack runtime script. This script is too small to warrant
       // a network request.
       // https://github.com/facebook/create-react-app/issues/5358
@@ -578,8 +579,8 @@ module.exports = function(webpackEnv) {
         new MiniCssExtractPlugin({
           // Options similar to the same options in webpackOptions.output
           // both options are optional
-          filename: 'static/css/[name].[contenthash:8].css',
-          chunkFilename: 'static/css/[name].[contenthash:8].chunk.css',
+          filename: 'static/css/[name].css',
+          chunkFilename: 'static/css/[name].chunk.css',
         }),
       // Generate an asset manifest file with the following content:
       // - "files" key: Mapping of all asset filenames to their corresponding

@@ -1,6 +1,6 @@
 {
-  "name": "glossary-app",
-  "version": "0.1.0",
+  "name": "@nciocpl/glossary-app",
+  "version": "0.1.0-beta.4",
   "description": "Glossary React Application",
   "repository": {
     "type": "git",
@@ -8,6 +8,7 @@
   },
   "author": "",
   "license": "ISC",
+  "main": "build/static/js/main.js",
   "bugs": {
     "url": "https://github.com/nciocpl/glossary-app/issues"
   },

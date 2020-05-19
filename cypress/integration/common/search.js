@@ -60,3 +60,11 @@ Then('the page contains meta tags with the following names', dataTable => {
     cy.get(locator).should('have.attr', 'content').and('be.eq', content);
   }
 });
+
+Then('the user is redirected to {string}', (redirectUrl) => {
+  cy.location('pathname').should('include', redirectUrl);
+});
+
+Then('the search bar on the page does not maintain the user’s term', () => {
+  cy.get('#keywords').should('have.attr','placeholder').and('be.eq','Enter keywords or phrases');
+});
